@@ -7,7 +7,7 @@
 
 body
 {
-	background-image: http://i.imgur.com/UN9uruG.gif;
+	background-image: url(http://i.imgur.com/UN9uruG.gif);
 	background-repeat: repeat;
 }
 
