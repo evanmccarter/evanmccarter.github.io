@@ -19,12 +19,12 @@ body
 	left: 0;
 }
 
-/*#chat
+#chat
 {
-	width: 400;
-	height: 400;
+	/*width: 400;
+	height: 400;*/
 	
 	position: fixed;
 	bottom: 0;
 	right: 0;
-}*/
+}
