@@ -17,6 +17,8 @@ body
 	position: fixed;
 	top: 0;
 	left: 0;
+	
+	z-index: 1;
 }
 
 .inputField
@@ -48,5 +50,5 @@ body
 	bottom: 0;
 	right: 0;
 	
-	z-index: -1;
+	z-index: 0;
 }
