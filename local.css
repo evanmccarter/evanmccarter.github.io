@@ -11,22 +11,21 @@ body
 	background-repeat: repeat;
 }
 
-.wrapper
+#button
 {
-	min-height: 100%;
-	height: auto !important;
-	height: 100%;
-	margin: 0 auto -400px; /* the bottom margin is the negative value of the footer's height */
+	position: fixed;
+	top: 0;
+	left: 0;
 }
 
-.footer, .push
+#chat, #container
 {
-	height: 400px; /* .push must be the same height as .footer */
-}
+	frameborder: 0;
 
-#chat
-{
 	width: 400;
 	height: 400;
-	frameborder: 0;
+	
+	position: fixed;
+	bottom: 0;
+	right: 0;
 }
