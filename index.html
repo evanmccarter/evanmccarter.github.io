@@ -6,22 +6,20 @@
 			function showHide(obj)
 			{
 				var div = document.getElementById(obj);
-				if (div.style.display == 'none')
+				if (div.style.width == '400')
 				{
-					div.style.display = '';
+					div.style.width = '800';
 				} else
 				{
-					div.style.display = 'none';
+					div.style.display = '400';
 				}
 			}
 		</script>
 	</head>
 	<body>
-		<a id="button" href="#" onclick="showHide('container'); return false;">[ChatBox]</a>
+		<a id="button" href="#" onclick="showHide('chat'); return false;">[ChatBox]</a>
 		
-		<div id="container">
-			<iframe src="https://this.spooks.me/aoeu" id="chat"></iframe>
-		</div>
+		<iframe id="chat" src="https://this.spooks.me/aoeu"></iframe>
 		
 		<div id="content">
 			a<br />
