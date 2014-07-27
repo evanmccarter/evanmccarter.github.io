@@ -2,6 +2,20 @@
 	<head>
 		<title>Evan's GIT website</title>
 		<link rel="stylesheet" type="text/css" href="local.css" />
+		<script type="text/JavaScript">
+			function showHide(obj)
+			{
+				var div = document.getElementById(obj);
+				if (div.style.display == 'none')
+				{
+					div.style.display = '';
+				} else
+				{
+					div.style.display = 'none';
+				}
+			}
+		</script>
+
 	</head>
 	<body>
 		<div class="wrapper">
@@ -9,7 +23,10 @@
     			<div class="push"></div>
 		</div>
 		<div class=footer>
-			<object data="https://this.spooks.me/aoeu" id="chat"></object>
+			<a href="#" onclick="showHide('container'); return false;">[ChatBox]</a>
+			<div id="container">
+				<object data="https://this.spooks.me/aoeu" id="chat"></object>
+			</div>
 		</div>
 	</body>
 </html>
