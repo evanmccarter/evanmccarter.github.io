@@ -11,9 +11,12 @@
 		</script>
 	</head>
 	<body>
-		<input id="inputTxt1" name="inputTxt1" type="text" maxlength="512" class="inputField"/>
-		<input id="inputTxt2" name="inputTxt2" type="text" maxlength="512" class="inputField"/>
-		<a id="button" href="#" onclick="resize(); return false;">[resize chat box]</a>
+		<div id="textholder">
+			<input id="inputTxt1" name="inputTxt1" type="text" maxlength="512" class="inputField"/>
+			<input id="inputTxt2" name="inputTxt2" type="text" maxlength="512" class="inputField"/>
+		
+			<a id="button" href="#" onclick="resize(); return false;">[resize chat box]</a>
+		</div>
 		
 		<iframe id="chat" src="https://this.spooks.me/aoeu" width="400" height="400"></iframe>
 		
