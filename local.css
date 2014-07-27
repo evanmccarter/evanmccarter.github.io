@@ -6,26 +6,26 @@
 
 
 body
-	{
-		<--background-image: url(http://i.imgur.com/UN9uruG.gif);-->
-		background-repeat: repeat;
-	}
+{
+	background-image: url(http://i.imgur.com/UN9uruG.gif);
+	background-repeat: repeat;
+}
 
 .wrapper
 {
-    min-height: 100%;
-    height: auto !important;
-    height: 100%;
-    margin: 0 auto -400px; /* the bottom margin is the negative value of the footer's height */
+	min-height: 100%;
+	height: auto !important;
+	height: 100%;
+	margin: 0 auto -400px; /* the bottom margin is the negative value of the footer's height */
 }
 
 .footer, .push
 {
-    height: 400px; /* .push must be the same height as .footer */
+	height: 400px; /* .push must be the same height as .footer */
 }
 
 #chat
 {
-    width: 400;
-    height: 400;
+	width: 400;
+	height: 400;
 }
