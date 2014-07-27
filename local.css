@@ -10,3 +10,10 @@
 {
     height: 400px; /* .push must be the same height as .footer */
 }
+
+#chat
+{
+    vertical-align: bottom
+    width: 400
+    height: 400
+}
