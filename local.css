@@ -21,8 +21,8 @@ body
 
 #chat
 {
-	width: 400;
-	height: 400;
+	/*width: 400;
+	height: 400;*/ /*if height or width is set in CSS it cannot be modified by javascript*/
 	
 	position: fixed;
 	bottom: 0;
