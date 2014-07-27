@@ -21,10 +21,10 @@ body
 
 #chat
 {
-	/*width: 400;
-	height: 400;*/
+	width: 400;
+	height: 400;
 	
-	position: fixed;
+	/*position: fixed;
 	bottom: 0;
-	right: 0;
+	right: 0;*/
 }
