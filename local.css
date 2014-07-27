@@ -19,7 +19,7 @@ body
 	left: 0;
 }
 
-#chat, #container
+/*#chat
 {
 	width: 400;
 	height: 400;
@@ -28,3 +28,4 @@ body
 	bottom: 0;
 	right: 0;
 }
+*/
