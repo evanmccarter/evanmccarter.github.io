@@ -12,10 +12,36 @@ body
 	background-repeat: repeat;
 }
 
-#button
+#textholder
 {
 	position: fixed;
 	top: 0;
+	left: 0;
+}
+
+.inputField
+{
+	
+}
+
+#inputTxt1
+{
+	position: absolute;
+	top: 0;
+	left: 0;
+}
+
+#inputTxt2
+{
+	position: absolute;
+	top: 0;
+	right: 0;
+}
+
+#button
+{
+	position: fixed;
+	bottom: 0;
 	left: 0;
 }
 
