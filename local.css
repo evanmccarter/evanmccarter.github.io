@@ -7,7 +7,7 @@
 
 body
 {
-	background-image: url(http://i.imgur.com/UN9uruG.gif);
+	background-image: http://i.imgur.com/UN9uruG.gif;
 	background-repeat: repeat;
 }
 
@@ -20,8 +20,6 @@ body
 
 #chat, #container
 {
-	frameborder: 0;
-
 	width: 400;
 	height: 400;
 	
