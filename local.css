@@ -18,8 +18,7 @@ body
 	top: 0;
 	left: 0;
 	
-	width: 42em;
-	height: 2em;
+	height: 3em;
 }
 
 .inputField
@@ -29,16 +28,12 @@ body
 
 #inputTxt1
 {
-	position: absolute;
-	top: 0;
-	left: 0;
+	
 }
 
 #inputTxt2
 {
-	position: absolute;
-	top: 0;
-	right: 0;
+	
 }
 
 #button
