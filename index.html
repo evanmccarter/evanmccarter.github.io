@@ -6,12 +6,13 @@
 			function showHide(obj)
 			{
 				var div = document.getElementById(obj);
-				if (div.width == "400")
+				if (div.width == "800")
 				{
-					div.width = "800";
+					document.getElementById(obj).height= "400" + "px";
+					document.getElementById(obj).width= "400" + "px";
 				} else
 				{
-					div.width = "400";
+					document.getElementById(obj).width = "800";
 				}
 			}
 		</script>
