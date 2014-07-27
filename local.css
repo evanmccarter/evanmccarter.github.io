@@ -12,6 +12,11 @@ body
 	background-repeat: repeat;
 }
 
+#content
+{
+	color: blue;
+}
+
 #textholder
 {
 	position: fixed;
@@ -19,26 +24,6 @@ body
 	left: 0;
 	
 	z-index: 1;
-}
-
-.inputField
-{
-	
-}
-
-#inputTxt1
-{
-	
-}
-
-#inputTxt2
-{
-	
-}
-
-#button
-{
-	
 }
 
 #chat
