@@ -1,12 +1,7 @@
 #+TITLE: Evan's Git Website
-* Introduction
-  This is a website made by Evan McCarter
+* Resources
+  [[https:/resume.html][My Resume]]
+  [[https:/financial.html][Financial Education Resources]]
+* Personal Information
   Send recommendations to [[mailto:evan.mccarter@gmail.com][evan.mccarter@gmail.com]]
-* Bitcoin
-  If you want to donate, you can send bitcoins to [[bitcoin:1GPwFQ51uzwx1TuE4rYNo2VFahYvJKjw1c][1GPwFQ51uzwx1TuE4rYNo2VFahYvJKjw1c]]. This keeps the site free of ads and secret bitcoin miners
-  If you aren't already framiliar with bitcoin, I encourage you to look it up. you can generate bitcoins by running a program on your computer (consuming some electricity and causing hardware wear), but every cycle goes towards protecting the bitcoin network, and making bitcoin useful.
-** "Bitcoin Plus"
-   This is where the "bitcoin plus" stuff would be.
-   "bitcoin plus" is a potentially secret bitcoin miner, launched using javascript and java. It runs during the user's idle time to generate bitcoins. I removed it because it has been labeled as "insecure", creates security dialogs, leaves an ugly "broken app" box if it can't run, and doesn't even mine bitcoins unless the user goes out of their way to allow it. It's more efficient for you to set up your own system on your own machine rather than have your CPU hijacked by random websites. That's why i put the donation address above =)
-   If you're interested in the scripts, they're still in the source, just commented out. The farthest I got with reverse-engineering them so they work is that the actual mining applet is located at http://www.bitcoinplus.com/jar/bitcoinplus-miner.jar and the script is at http://www.bitcoinplus.com/js/miner.js
-   The creator has "obvuscated" the code in the jar: all the variables are letters from a-z, and it's almost inpenetrable unless you rename everything, which I haven't done.
+  If you want to donate, you can send bitcoins to [[bitcoin:1GPwFQ51uzwx1TuE4rYNo2VFahYvJKjw1c][1GPwFQ51uzwx1TuE4rYNo2VFahYvJKjw1c]]
