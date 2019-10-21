@@ -4,6 +4,8 @@
   - [[tel:4439494381][Cell phone: 4439494381]]
   - [[mailto:evan.mccarter@gmail.com][Email: evan.mccarter@gmail.com]]
   - Address: 5153 Ilchester Rd, Ellicott City, MD 21043
+* Work Experience
+  - Childminder, 2010-2011
 * Education
   - Community Colleges of Baltimore County-Catonsville Campus, Parallel Enrollment Program, Calculus I, Aug 2012 - present
   - Catonsville High School, Catonsville, MD  21228, 2011 - present, Expected graduation date: June 2013
@@ -20,6 +22,14 @@
   - St. Edward's Senior School, Key Stage 4 Bronze award, 2010
   - British Computer Society - Level 2 Certification in IT User Skills
   - European Computer Driving License (ECDL)
+* Hobbies
+  - Programming & Scripting - self taught C++, have received education in java and HTML
+  - Independent scientific study
+  - Video games
+    - Team Fortress 2
+    - Fistful of Frags
+    - Counter Strike: Source
+    - Rimworld
 * Extra-Curricular Activities
   - Squash Club, 2009-2011
   - Concert Band/Symphonic Winds - Trumpet, 2009 - 2012
@@ -27,11 +37,6 @@
   - Played Trumpet for Seven Years Total
   - Anglo American Women's Club, 2009 - 2011
   - MIT University iD Tech Programming Academy, 2012
-* Hobbies
-  - Programming & Scripting - self taught C++, have received education in java and HTML
-  - Independent scientific study
-* Work Experience
-  - Childminder, 2010-2011
 * Family Background
-  - Lived in England (2008 - 2011), attended local British public school<br />
+  - Lived in England (2008 - 2011), attended local British public school
   - Global Travel - England, Scotland, Wales, Ireland, France, Germany, Italy Spain, Poland, Netherlands, Austria, Belgium, Luxembourg, Egypt, Canada
