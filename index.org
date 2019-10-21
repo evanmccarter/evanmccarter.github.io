@@ -1,7 +1,7 @@
 #+TITLE: Evan's Git Website
 * Resources
-  - [[https:/resume.html][My Resume]]
-  - [[https:/financial.html][Financial Education Resources]]
+  - [[./resume.html][My Resume]]
+  - [[./financial.html][Financial Education Resources]]
 * Personal Information
   Send recommendations to [[mailto:evan.mccarter@gmail.com][evan.mccarter@gmail.com]]
   
