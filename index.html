@@ -1,53 +1,53 @@
 <html>
-	<head>
-		<title>Evan's GIT website</title>
-		<link rel="shortcut icon" href="https://i.imgur.com/4clKYd3.gif" />
-		<link rel="stylesheet" type="text/css" href="local.css" />
-	</head>
-	<body onload="resize()">
-		<div id="content">
-			<p>
-This a website made by Evan McCarter
-			</p>
-			<p>
-Send reccommendations to <a href="mailto:evan.mccarter@gmail.com">evan.mccarter@gmail.com</a>
-			</p>
-			
-			<br />
-			<br />
-			<div id="bitcoin">
-				<p>
-If you want to donate, you can send bitcoins to 1GPwFQ51uzwx1TuE4rYNo2VFahYvJKjw1c
-				</p>
-				<p>
-This keeps the site free of ads and secret bitcoin miners
-				</p>
-				<p>
-If you aren't already framiliar with bitcoin, I encourage you to look it up. you can generate bitcoins by running a program on your computer (consuming some electricity and causing hardware wear), but every cycle goes towards protecting the bitcoin network, and making bitcoin useful. 
-				</p>
-				<br />
-				<div id="bitcoin plus">
-					<p>
-This is where the "bitcoin plus" stuff would be. 
-					</p>
-					<p>
-"bitcoin plus" is a potentially secret bitcoin miner, launched using javascript and java. It runs during the user's idle time to generate bitcoins. I removed it because it has been labeled as "insecure", creates security dialogs, leaves an ugly "broken app" box if it can't run, and doesn't even mine bitcoins unless the user goes out of their way to allow it. It's more efficient for you to set up your own system on your own machine rather than have your CPU hijacked by random websites. That's why i put the donation address above =)
-					</p>
-					<p>
-If you're interested in the scripts, they're still in the source, just commented out. The farthest I got with reverse-engineering them so they work is that the actual mining applet is located at http://www.bitcoinplus.com/jar/bitcoinplus-miner.jar and the script is at http://www.bitcoinplus.com/js/miner.js
-					</p>
-					<p>
-The creator has "obvuscated" the code in the jar: all the variables are letters from a-z, and it's almost inpenetrable unless you rename everything, which I haven't done. 
-					</p>
-					<!--commented out "bitcoin plus" scripts-->
-					<!--
-					<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.6.1/jquery.min.js" type="text/javascript"></script>
-					<script src="http://www.bitcoinplus.com/js/miner.js" type="text/javascript"></script>
-					<a href="http://www.bitcoinplus.com/">Supported by Bitcoin Plus</a>
-					<script type="text/javascript">BitcoinPlusMiner("evan.mccarter@gmail.com")</script>
-					-->
-				</div>
-			</div>
-		</div>
-	</body>
+  <head>
+    <title>Evan's GIT website</title>
+    <link rel="shortcut icon" href="https://i.imgur.com/4clKYd3.gif" />
+    <link rel="stylesheet" type="text/css" href="local.css" />
+  </head>
+  <body onload="resize()">
+    <div id="content">
+      <p>
+	This a website made by Evan McCarter
+      </p>
+      <p>
+	Send reccommendations to <a href="mailto:evan.mccarter@gmail.com">evan.mccarter@gmail.com</a>
+      </p>
+      
+      <br />
+      <br />
+      <div id="bitcoin">
+	<p>
+	  If you want to donate, you can send bitcoins to 1GPwFQ51uzwx1TuE4rYNo2VFahYvJKjw1c
+	</p>
+	<p>
+	  This keeps the site free of ads and secret bitcoin miners
+	</p>
+	<p>
+	  If you aren't already framiliar with bitcoin, I encourage you to look it up. you can generate bitcoins by running a program on your computer (consuming some electricity and causing hardware wear), but every cycle goes towards protecting the bitcoin network, and making bitcoin useful.
+	</p>
+	<br />
+	<div id="bitcoin plus">
+	  <p>
+	    This is where the "bitcoin plus" stuff would be.
+	  </p>
+	  <p>
+	    "bitcoin plus" is a potentially secret bitcoin miner, launched using javascript and java. It runs during the user's idle time to generate bitcoins. I removed it because it has been labeled as "insecure", creates security dialogs, leaves an ugly "broken app" box if it can't run, and doesn't even mine bitcoins unless the user goes out of their way to allow it. It's more efficient for you to set up your own system on your own machine rather than have your CPU hijacked by random websites. That's why i put the donation address above =)
+	  </p>
+	  <p>
+	    If you're interested in the scripts, they're still in the source, just commented out. The farthest I got with reverse-engineering them so they work is that the actual mining applet is located at http://www.bitcoinplus.com/jar/bitcoinplus-miner.jar and the script is at http://www.bitcoinplus.com/js/miner.js
+	  </p>
+	  <p>
+	    The creator has "obvuscated" the code in the jar: all the variables are letters from a-z, and it's almost inpenetrable unless you rename everything, which I haven't done.
+	  </p>
+	  <!--commented out "bitcoin plus" scripts-->
+	  <!--
+	      <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.6.1/jquery.min.js" type="text/javascript"></script>
+	      <script src="http://www.bitcoinplus.com/js/miner.js" type="text/javascript"></script>
+	      <a href="http://www.bitcoinplus.com/">Supported by Bitcoin Plus</a>
+	      <script type="text/javascript">BitcoinPlusMiner("evan.mccarter@gmail.com")</script>
+	      -->
+	</div>
+      </div>
+    </div>
+  </body>
 </html>
