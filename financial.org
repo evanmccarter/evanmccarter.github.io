@@ -1,0 +1,14 @@
+#+TITLE: Financial Resources
+* Websites
+  - [[https:Bogleheads.org][Bogleheads Wiki]]
+  - [[https:Investopedia.com][Investopedia]]
+* Youtube channels
+  - [[https:youtube.com/user/FinancingLife101][FinancingLife]]
+  - [[https:youtube.com/channel/UCV6KDgJskWaEckne5aPA0aQ][Graham Stephan]]
+  - [[https:youtube.com/channel/UCGy7SkBjcIAgTiwkXEtPnYg][Andrei Jikh]]
+  - [[https:youtube.com/channel/UCzpwkXk_GlfmWntZ9v4l3Tg][The Dave Ramsey Show LIVE]]
+  - [[https:youtube.com/user/ChrisHogan360][Chris Hogan]]
+  - [[https:youtube.com/user/DaveRamseyShow][The Dave Ramsey Show]]
+* Youtube Playlists
+  - [[https:youtube.com/watch?v%3DatZJ4lU3IBE&list%3DPL21534875BFC50EEE][Rules About Investing For Beginners]]
+  - [[https:youtube.com/watch?v%3DZFRReCL_lLw&list%3DPLdpkIg5_Ms4At-DZbPbkxujh2EGOnOu6H][Why Bother With Bonds]]
