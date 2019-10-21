@@ -6,3 +6,5 @@
   Send recommendations to [[mailto:evan.mccarter@gmail.com][evan.mccarter@gmail.com]]
   
   If you want to donate, you can send bitcoins to [[bitcoin:1GPwFQ51uzwx1TuE4rYNo2VFahYvJKjw1c][1GPwFQ51uzwx1TuE4rYNo2VFahYvJKjw1c]]
+* Org Files
+  These pages are also available as .org files. Simply replace the trailing .html portion of the filename with .org
