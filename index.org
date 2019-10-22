@@ -3,7 +3,7 @@
   - [[mailto:evan.mccarter@gmail.com][evan.mccarter@gmail.com]]
   - [[mailto:mccarter@airmail.cc][mccarter@airmail.cc]]
   - [[tel:4438407034][4438407034]]
-  - [[https://mccarter.tk][mccarter.tk]]
+  - [[http://mccarter.tk][mccarter.tk]]
 * Resources
   - [[./resume.html][My Resume]]
   - [[./financial.html][Financial Education Resources]]
