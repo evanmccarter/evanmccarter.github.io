@@ -49,8 +49,6 @@
     - Managed Git repository structure, handled creation and merger of branches
     - Implemented Apache Kafka to stream JSON files between modular and object oriented components
   - Circulation II at Baltimore County Public Library, July 2016 - present
-  - Babysitting, September 2015 - June 2016, 2010 - 2011
-  - Replenisher, Michaels Crafts, October - December 2014
 * Relevant Projects
   - Bash shell utilities (Bash shell)
     - Find functions in source code without header comments (sed)
@@ -77,9 +75,6 @@
     - Anticipated graduation date January 2020: Bachelor degree in computer science
     - 3.554/4 GPA, 3.9/4 in-major GPA
   - Associate degree in computer science from Community College of Baltimore County (CCBC), Jan 2014 - Jan 2017. 3.41/4 GPA
-  - CCBC, Parallel Enrollment Program, Calculus I & II, Aug 2012 - May 2013
-  - Catonsville High School, Catonsville, MD 21228, 2011 - 2013
-  - St. Edward's Senior School, Cheltenham, England, 2008 - 2011
 * Relevant Coursework
   - Principles of Computer Security
   - Parallel & Distributed Processing
@@ -92,29 +87,10 @@
   - Principles of Programming Languages
   - Computer Organization and Assembly Language Programming
   - C++ Programming
-  - Logic and OO Design (I)
-* Awards, Honors, Recognitions, Achievements
+  - Logic and Object Oriented Design
+* Awards
   - President’s list Fall 2017 (4.0/4 GPA & 12 credits)
   - Dean’s list Spring 2018, Fall 2016, Fall 2015 (3.75/4 GPA & 12 credits)
-  - Hume Scholar Fall 2013
-  - CYBER Scholarship (AFCEA) May 2013
-  - 3.31 unweighted Grade Point Average at Catonsville High School, in Gifted & Talented and Honors level courses, Class Rank 95 of 468
-  - SAT: 690 Critical Reading, 700 Math, 590 Writing
-  - SAT Subject Tests: 760 Math; 700 Physics
-  - ACT: 29 Composite, 28 Math, 29 English, 31 Reading, 32 Science
-  - General Certificate of Secondary Education (GCSEs) - UK SAT equivalent
-  - Physics - A*, Chemistry - A*, Math - A*, Spanish - A, Biology - B, Design & Technology - B, English - B
-  - UK Math Challenge - Bronze Award 2011, Bronze Award 2010
-  - St. Edward's Senior School, 11B Form Award, 2011
-  - St. Edward's Senior School, Key Stage 4 Bronze award, 2010
-  - British Computer Society - Level 2 Certification in IT User Skills
-  - European Computer Driving License (ECDL)
-* Extracurricular Activities
-  - MIT University iD Tech Programming Academy, 2012
-  - Concert Band / Symphonic Winds: Trumpet, 2009 - 2012
-  - Squash Club, 2009 - 2011
-  - Anglo American Women's Club, 2009 - 2011
-  - Private Lessons, Trumpet, 2008 - 2011, Played Trumpet for Seven Years Total
 * Hobbies
   - Independent software engineering
   - Independent personal finance, philosophical, scientific study
@@ -123,21 +99,3 @@
     - Fistful of Frags
     - Counter Strike: Source
     - Rimworld
-* Family Background
-  - Lived in England (2008 - 2011), attended local British public school
-  - Global Travel
-    - England
-    - Scotland
-    - Wales
-    - Ireland
-    - France
-    - Germany
-    - Italy
-    - Spain
-    - Poland
-    - Netherlands
-    - Austria
-    - Belgium
-    - Luxembourg
-    - Egypt
-    - Canada
