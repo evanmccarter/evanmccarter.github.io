@@ -1,10 +1,11 @@
 #+TITLE: Evan's Git Website
 * Personal Information
+  - [[http://mccarter.tk][My domain]]
   - [[mailto:evan.mccarter@gmail.com][My gmail]]
   - [[mailto:mccarter@airmail.cc][My email]]: services Google doesn't offer (XMPP) and backup
   - [[tel:4438407034][4438407034]]: My phone number
-  - [[http://mccarter.tk][My domain]]
   - [[https://github.com/evanmccarter][My Github profile]]
+  - [[https://stackoverflow.com/users/3078605/evan][My StackOverflow profile]]
 * Resources
   - [[./resume.html][My Resume]]
   - [[./financial.html][Financial Education Resources]]
