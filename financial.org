@@ -29,10 +29,13 @@
   - [[https://youtube.com/watch?v%3DNNS8aWhNpS4&list%3DPL3FUah8ohZLyEGjh5I38MHL0Sl1fuzs13&index%3D14][What a land trust protects against: Purchasing Property With a Land Trust]]
 * Books
   These books are frequently available as audiobooks on YouTube
-  - Rich Dad Poor Dad by Robert Kiyosaki, ISBN13 978-1612680170
-  - The Richest Man in Babylon by George S. Clason, ISBN13 978-1508524359
-  - The Total Money Makeover by Dave Ramsey, ISBN13 978-1595555274
-  - Everyday Millionaires by Chris Hogan, ISBN13 978-0977489527
+  | Title                      | Author           |           ISBN |
+  |----------------------------+------------------+----------------|
+  | Rich Dad Poor Dad          | Robert Kiyosaki  | 978-1612680170 |
+  | The Richest Man in Babylon | George S. Clason | 978-1508524359 |
+  | The Total Money Makeover   | Dave Ramsey      | 978-1595555274 |
+  | Everyday Millionaires      | Chris Hogan      | 978-0977489527 |
+  | Think and Grow Rich        | Napoleon Hill    | 978-1585424337 |
 * Financial Institutions
 ** Investment
    - [[https://Vanguard.com][Vanguard]]
