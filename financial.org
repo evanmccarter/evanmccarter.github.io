@@ -38,11 +38,13 @@
   | [[https://youtube.com/watch?v%3DZUbfskQ-GAY][Think and Grow Rich]]        | Napoleon Hill    | 978-1585424337 |
 * Financial Institutions
 ** Investment
-   - [[https://Vanguard.com][Vanguard]]
-   - [[https://Fidelity.com][Fidelity]]
-   - [[https://Wealthfront.com][Wealthfront]]
+   - [[https://Vanguard.com][Vanguard]]: Uniquely competitive mutual funds
+   - [[https://Fidelity.com][Fidelity]]: Very competitive investing
+   - [[https://m1finance.com][M1 Finance]]: Automatic rebalancing
+   - [[https://Wealthfront.com][Wealthfront]]: High interest checking, advice & personal wealth tracking
+   - [[https://t-mobilemoney.com][T-Mobile Money]]: High interest checking for mobile customers
 ** Insurance
-   - [[https://Zanderins.com][Zander Insurance]]
+   - [[https://Zanderins.com][Zander Insurance]]: Selects policies between several insurance companies
    - [[https://usaa.com][USAA]]
 ** Loans
    - [[https://NavyFederal.org][Navy Federal]]
