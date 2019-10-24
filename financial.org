@@ -28,14 +28,14 @@
   - [[https://youtube.com/watch?v%3Dul32Yf9KJB0&list%3DPL3FUah8ohZLyEGjh5I38MHL0Sl1fuzs13&index%3D15][Why You Should Use a Land Trust for Real Estate]]
   - [[https://youtube.com/watch?v%3DNNS8aWhNpS4&list%3DPL3FUah8ohZLyEGjh5I38MHL0Sl1fuzs13&index%3D14][What a land trust protects against: Purchasing Property With a Land Trust]]
 * Books
-  These books are frequently available as audiobooks on YouTube
+  These books are frequently available as audiobooks on YouTube and the authors may have channels, as well as physical or digital forms on Amazon
   | Title                      | Author           |           ISBN |
   |----------------------------+------------------+----------------|
-  | Rich Dad Poor Dad          | Robert Kiyosaki  | 978-1612680170 |
-  | The Richest Man in Babylon | George S. Clason | 978-1508524359 |
-  | The Total Money Makeover   | Dave Ramsey      | 978-1595555274 |
-  | Everyday Millionaires      | Chris Hogan      | 978-0977489527 |
-  | Think and Grow Rich        | Napoleon Hill    | 978-1585424337 |
+  | [[https://youtube.com/watch?v%3DgliZHyovI7c][Rich Dad Poor Dad]]          | [[https://youtube.com/user/RDdotcom][Robert Kiyosaki]]  | 978-1612680170 |
+  | [[https://youtube.com/watch?v%3DehCVLRHOxBY][The Richest Man in Babylon]] | George S. Clason | 978-1508524359 |
+  | The Total Money Makeover   | [[https://youtube.com/user/DaveRamseyShow][Dave Ramsey]]      | 978-1595555274 |
+  | Everyday Millionaires      | [[https://youtube.com/user/ChrisHogan360][Chris Hogan]]      | 978-0977489527 |
+  | [[https://youtube.com/watch?v%3DZUbfskQ-GAY][Think and Grow Rich]]        | Napoleon Hill    | 978-1585424337 |
 * Financial Institutions
 ** Investment
    - [[https://Vanguard.com][Vanguard]]
