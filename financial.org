@@ -1,4 +1,4 @@
-#+TITLE: Financial Resources
+#+TITLE: Personal Finance Resources
 * Advice & Research
   - [[https://Bogleheads.org][Bogleheads Wiki]]
   - [[https://Investopedia.com][Investopedia]]
