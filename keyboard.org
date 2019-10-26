@@ -12,4 +12,4 @@
   
   [[./keyboard.org][This page]]
   
-  [[./financial.org][Personal Finance Resources]]
+  [[./finance.org][Personal Finance Resources]]
