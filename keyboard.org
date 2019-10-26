@@ -1,0 +1,15 @@
+#+TITLE: Keyboard Shortcuts
+* Basics
+  The <TAB> key can be used to cycle through elements you can interact with. 
+  
+  The <SPACE> or <ENTER> keys can be used to activate the selected element. The <ENTER> key does not perform other functions, but when a single element has multiple uses the <SPACE> key will more likely do the thing you want. 
+  
+  Here are some link elements to practice with: 
+  
+  [[..][Up one level]]
+  
+  [[../index.org][Index]]
+  
+  [[../keyboard.org][This page]]
+  
+  [[../financial.org][Personal Finance Resources]]
