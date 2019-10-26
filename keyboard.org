@@ -8,8 +8,8 @@
   
   [[..][Up one level]]
   
-  [[../index.org][Index]]
+  [[./index.org][Index]]
   
-  [[../keyboard.org][This page]]
+  [[./keyboard.org][This page]]
   
-  [[../financial.org][Personal Finance Resources]]
+  [[./financial.org][Personal Finance Resources]]
