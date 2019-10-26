@@ -5,13 +5,13 @@
   - [[https://blockchain.com][Blockchain]]: Web
 * Trade
   Buy and exchange
-  - [[https://kraken.com][Kraken]]
-  - [[https://binance.com][Binance]]
-  - [[https://shapeshift.io][Shapeshift]]
+  - [[https://kraken.com][Kraken]]: Low fees
+  - [[https://binance.com/en/register?ref%3DFRFFEK6D][Binance]]: Low fees but no fiat
+  - [[https://shapeshift.io][Shapeshift]]: Fast and broad selection
 * Manage
   Automate transfers
-  - [[https://coinbase.com][Coinbase]]
+  - [[https://coinbase.com/join/emccarter][Coinbase]]
 * Sell
   Get more for each coin
   - [[https://paxful.com][Paxful]]
-  - [[https://purse.io][Purse]]
+  - [[https://purse.io/?_r%3DedsyPI][Purse]]
