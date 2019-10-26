@@ -6,8 +6,8 @@
   - [[tel:4438407034][4438407034]]: My phone number
   - [[https://github.com/evanmccarter][My Github profile]]
   - [[https://stackoverflow.com/users/3078605/evan][My StackOverflow profile]]
-* Resources
   - [[./resume.org][My Resume]]
+* Resources
   - [[./financial.org][Personal Finance]]
   - [[./keyboard.org][Keyboard Shortcuts]]
 * Org Files
