@@ -8,6 +8,6 @@
   - [[https://stackoverflow.com/users/3078605/evan][My StackOverflow profile]]
 * Resources
   - [[./resume.org][My Resume]]
-  - [[./financial.org][Financial Education Resources]]
+  - [[./financial.org][Personal Finance Resources]]
 * Org Files
   These pages are also available as .org files. Simply replace the trailing .html portion of the filename with .org
