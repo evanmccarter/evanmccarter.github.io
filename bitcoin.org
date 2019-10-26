@@ -13,5 +13,5 @@
   - [[https://coinbase.com/join/emccarter][Coinbase]]
 * Sell
   Get more for each coin
-  - [[https://paxful.com][Paxful]]
+  - [[https://paxful.com/?r%3D9LrQJa48GkK][Paxful]]
   - [[https://purse.io/?_r%3DedsyPI][Purse]]
