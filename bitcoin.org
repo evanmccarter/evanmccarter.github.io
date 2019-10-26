@@ -1,0 +1,17 @@
+#+TITLE: Bitcoin Resources
+* Store
+  Wallets
+  - [[https://electrum.org][Electrum]]: Desktop
+  - [[https://blockchain.com][Blockchain]]: Web
+* Trade
+  Buy and exchange
+  - [[https://kraken.com][Kraken]]
+  - [[https://binance.com][Binance]]
+  - [[https://shapeshift.io][Shapeshift]]
+* Manage
+  Automate transfers
+  - [[https://coinbase.com][Coinbase]]
+* Sell
+  Get more for each coin
+  - [[https://paxful.com][Paxful]]
+  - [[https://purse.io][Purse]]
