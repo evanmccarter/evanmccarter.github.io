@@ -23,5 +23,5 @@
   - [[https://paxful.com/?r%3D9LrQJa48GkK][Paxful]]
   - [[https://purse.io/?_r%3DedsyPI][Purse]]
 * Web Miners
-  - [[https://coinwebmining.com][Coin Web Mining]]
   - [[http://www.coinimp.com/invite/87500bf5-dd21-4b15-8366-37c52d15aab0][CoinIMP]]
+  - [[https://coinwebmining.com][Coin Web Mining]]
