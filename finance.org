@@ -51,5 +51,3 @@
 * Financial Charting
   - [[https://finance.yahoo.com][Yahoo Finance]]
   - [[https://tradingview.com][TradingView]]
-  - [[https://bitcoincharts.com][Bitcoincharts]]
-  - [[https://cryptowat.ch][Cryptowatch]]

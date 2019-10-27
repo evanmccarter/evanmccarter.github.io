@@ -8,6 +8,12 @@
   - [[https://kraken.com][Kraken]]: Low fees
   - [[https://binance.com/en/register?ref%3DFRFFEK6D][Binance]]: Low fees but no fiat
   - [[https://shapeshift.io][Shapeshift]]: Fast and broad selection
+* Chart
+  Sophisticated indicators
+  - [[https://finance.yahoo.com][Yahoo Finance]]
+  - [[https://tradingview.com][TradingView]]
+  - [[https://bitcoincharts.com][Bitcoincharts]]
+  - [[https://cryptowat.ch][Cryptowatch]]
 * Manage
   Automate transfers
   - [[https://coinbase.com/join/emccarter][Coinbase]]
