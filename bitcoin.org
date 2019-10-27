@@ -3,6 +3,7 @@
   Wallets
   - [[https://electrum.org][Electrum]]: Desktop
   - [[https://blockchain.com][Blockchain]]: Web
+  - [[https://mymonero.com][MyMonero]]
 * Trade
   Buy and exchange
   - [[https://kraken.com][Kraken]]: Low fees
