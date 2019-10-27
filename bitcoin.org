@@ -21,3 +21,6 @@
   Get more for each coin
   - [[https://paxful.com/?r%3D9LrQJa48GkK][Paxful]]
   - [[https://purse.io/?_r%3DedsyPI][Purse]]
+* Web Miners
+  - [[https://coinimp.com][CoinIMP]]
+  - [[https://coinwebmining.com][Coin Web Mining]]
