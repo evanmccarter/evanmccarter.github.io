@@ -49,7 +49,7 @@
     - Managed Git repository structure, handled creation and merger of branches
     - Implemented Apache Kafka to stream JSON files between modular and object oriented components
   - Circulation II at Baltimore County Public Library, July 2016 - present
-* Relevant Projects
+* Projects
   - Bash shell utilities (Bash shell)
     - Find functions in source code without header comments (sed)
     - Find user’s SSH login information based on their name using key-value search (awk)
@@ -59,11 +59,11 @@
     - Simulated taxis picking up accumulating customers and delivering them to random destinations
     - Used structs, malloc, cohesive functions
   - Decentralized encrypted forum (Javascript, HTML, Node.js, CryptoJS)
-    - Stored user-generated messages into a Decentralized Acyclic Graph tree stored on IPFS
+    - Stores user-generated messages into a Decentralized Acyclic Graph tree stored on IPFS
     - IPFS is the InterPlanetary File System, software to share files peer-to-peer even when network size is limited
     - Messages are packaged into blocks that referenced a set of messages and a set of previous blocks. This forms a tree which can be used by clients to download messages referenced in blocks and discover further blocks
     - Blocks and messages are JSON objects, holding text or references to other files
-    - Media was optionally encrypted and stored as base32 text, partitioned to meet plaintext size ceiling, and reassembled by the client while loading the message
+    - Media is optionally encrypted and stored as base32 text, partitioned to meet plaintext size ceiling, and reassembled by the client while loading the message
   - Assigning trust ratings to friends-of-friends using Markov chains and bitcoin transaction data (PHP, HTML)
     - Used linear algebra to calculate how closely groups of people (Bitcoin addresses) interact
     - Took negative opinion into account by reducing trust weights, potentially until negative
@@ -75,7 +75,7 @@
     - Anticipated graduation date January 2020: Bachelor degree in computer science
     - 3.554/4 GPA, 3.9/4 in-major GPA
   - Associate degree in computer science from Community College of Baltimore County (CCBC), Jan 2014 - Jan 2017. 3.41/4 GPA
-* Relevant Coursework
+* Coursework
   - Principles of Computer Security
   - Parallel & Distributed Processing
   - Cryptology
