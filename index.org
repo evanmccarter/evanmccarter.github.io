@@ -1,12 +1,13 @@
 #+TITLE: Evan's Git Website
 * Personal Information
-  - [[http://mccarter.tk][My domain]]
-  - [[mailto:evan.mccarter@gmail.com][My gmail]]
-  - [[mailto:mccarter@airmail.cc][My email]]: services Google doesn't offer (XMPP) and backup
-  - [[tel:4438407034][4438407034]]: My phone number
-  - [[https://github.com/evanmccarter][My Github profile]]
-  - [[https://stackoverflow.com/users/3078605/evan][My StackOverflow profile]]
-  - [[./resume.org][My Resume]]
+  - [[http://mccarter.tk][Domain]]
+  - [[mailto:evan.mccarter@gmail.com][Gmail]]
+  - [[mailto:mccarter@airmail.cc][Email]]: XMPP and backup
+  - [[tel:4438407034][4438407034]]: phone number
+  - [[https://github.com/evanmccarter][Github profile]]
+  - [[https://stackoverflow.com/users/3078605/evan][StackOverflow profile]]
+  - [[./resume.org][Resume]]
+  - [[https://docs.google.com/document/d/1Kv4-9uHxDF6_6GYh4FocmxCmam6FF1MX5ToY116-quQ/edit?usp%3Dsharing][Printable Resume]]
 * Resources
   - [[./finance.org][Personal Finance]]
   - [[./keyboard.org][Keyboard Shortcuts]]
