@@ -21,7 +21,7 @@
   - [[https://myfico.com][myFICO]]: Official credit score education website
     - [[https://myfico.com/credit-education][Credit basics]]
     - [[https://myfico.com/credit-education/whats-in-your-credit-score][How credit is calculated]]
-* Youtube channels
+* Youtube Channels
   - [[https://youtube.com/user/FinancingLife101][FinancingLife]]
   - [[https://youtube.com/user/MoneyGuyShow][The Money Guy Show]]
   - [[https://youtube.com/channel/UCL8w_A8p8P1HWI3k6PR5Z6w][Two Cents]]
@@ -33,6 +33,8 @@
   - [[https://youtube.com/channel/UCGy7SkBjcIAgTiwkXEtPnYg][Andrei Jikh]]
   - [[https://youtube.com/channel/UCbta0n8i6Rljh0obO7HzG9A][Joseph Carlson]]
   - [[https://youtube.com/user/kenclarkchannel][Kenny Robinson]]
+  - [[https://youtube.com/channel/UCEVXhsR6e3D522BHQj9MlLg][The Credit Shifu]]
+  - [[https://youtube.com/channel/UC2cC48A261pBVKztLyzOAnA][Ask Sebby]]
   - [[https://youtube.com/channel/UCBIt1VN5j37PVM8LLSuTTlw][Improvement Pill]]
   - [[https://youtube.com/user/whygoldandsilver][GoldSilver with Mike Maloney]]
 * Youtube Playlists
@@ -69,11 +71,18 @@
   - [[https://finance.yahoo.com][Yahoo Finance]]
   - [[https://tradingview.com][TradingView]]
 * Credit
+  "Gold is money. [[https://youtube.com/watch?v%3DCxHarNKW7Go][Everything else]] [[https://youtube.com/watch?v%3DPHe0bXAIuk0][is credit]]." - J. P. Morgan
+  
+  Credit can multiply your spending, which can allow you to buy assets sooner but always creates a liability for yourself. 
+  If you buy a poor asset or just increase your spending, debt you incurred will still be there to drain your wealth from you. 
+  
   Credit is based off your main credit report, which details all your open accounts and recent blemishes. 
   If your credit report looks good, you'll likely have a good credit score as well. 
   
   It's free and harmless to check your credit report and your credit score. You are encouraged to and should do so periodically to measure your progress and correct errors. 
-  You can request your credit report from each of the three major credit agencies through [[https://annualcreditreport.com][annualcreditreport.com]] or each agency's resources. 
+  You can request your credit report from each of the three major credit agencies (Equifax, Experian, Transunion) through [[https://annualcreditreport.com][annualcreditreport.com]] or each agency's resources. 
   Credit card issuers will often give you a free credit score every few months, since they check themselves anyway! 
   
   See the [[https://myfico.com][myFico]] links in the [[Research]] section for more information and sources
+  
+  See [[https://Nerdwallet.com][Nerdwallet]] or some [[Youtube%20Channels][Youtube Channels]] for credit card advice
