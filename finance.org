@@ -1,10 +1,23 @@
 #+TITLE: Personal Finance Resources
-* Advice & Research
-  - [[https://Bogleheads.org][Bogleheads Wiki]]
-  - [[https://reddit.com/r/personalfinance/wiki][PersonalFinance Reddit]]
-  - [[https://Investopedia.com][Investopedia]]
-  - [[https://DaveRamsey.com][Dave Ramsey]]
-  - [[https://moneyguy.com][The Money Guy Show]]
+* Advice
+  - [[https://DaveRamsey.com][Dave Ramsey]]: Famous for [[https://daveramsey.com/blog/what-is-a-budget][budgeting]] and the [[https://daveramsey.com/dave-ramsey-7-baby-steps][7 baby steps]], which are simpler and easier than other advice
+  - [[https://Bogleheads.org][Bogleheads]]: Investing advice inspired by John Bogle
+    - [[https://bogleheads.org/wiki/Getting_started][Bogleheads Wiki]]: A fountain of information and examples
+      - [[https://bogleheads.org/wiki/Prioritizing_investments][Prioritizing investments]]: Where should you invest first?
+  - [[https://reddit.com/r/personalfinance/wiki][PersonalFinance Reddit]]: Significantly mirrors Bogleheads philosophy
+    - [[https://reddit.com/r/personalfinance/wiki/commontopics][Where should my next dollar go?]]: Similar to Bogleheads investment order and includes [[https://reddit.com/r/personalfinance/wiki/commontopics#wiki_the_flowchart][a flowchart]]
+  - [[https://moneyguy.com][The Money Guy Show]]: Mirrors Bogleheads advice with their [[https://moneyguy.com/2018/08/financial-order-of-operations-how-to-prioritize-your-financial-goals/][order of operations]]
+* Research
+  - [[https://Investopedia.com][Investopedia]]: Definitions of financial terms and basic advice
+  - [[https://Nerdwallet.com][Nerdwallet]]: Reviews and search functions for institutions and accounts
+    - [[https://nerdwallet.com/rates/savings-account?active_offers%3Dtrue&bank_type%3Dbank&bank_type%3Dcredit_union&bank_type%3Dinternet_bank&deposit_minimum%3D1&min_ratings%3D3&sort_key%3Dapy&sort_order%3Ddesc][High interest savings accounts]]
+    - [[https://nerdwallet.com/checking-accounts?account_features%3Dno_monthly_fee&active_offers%3Dtrue&bank_type%3Dbank&bank_type%3Dcredit_union&bank_type%3Dinternet_bank&checking_daily_balance%3D0&customer_type%3Deveryone&direct_deposit%3D0&sort_key%3Dmonthly_cost&sort_order%3Ddesc][Cheap checking accounts]]
+    - [[https://nerdwallet.com/best/banking/savings-accounts][Best Savings Accounts]]
+    - [[https://nerdwallet.com/best/banking/checking-accounts][Best Checking Accounts]]
+    - [[https://nerdwallet.com/best/banking/money-market-accounts][Best Money Market Accounts]]
+  - [[https://myfico.com][myFICO]]: Official credit score education website
+    - [[https://myfico.com/credit-education][Credit basics]]
+    - [[https://myfico.com/credit-education/whats-in-your-credit-score][How credit is calculated]]
 * Youtube channels
   - [[https://youtube.com/user/FinancingLife101][FinancingLife]]
   - [[https://youtube.com/user/MoneyGuyShow][The Money Guy Show]]
@@ -42,13 +55,22 @@
    - [[https://Vanguard.com][Vanguard]]: Especially competitive ETFs & Mutual Funds
    - [[https://Fidelity.com][Fidelity]]: Very competitive investing
    - [[https://m1finance.com][M1 Finance]]: Automatic rebalancing and perfect tax strategy
-   - [[https://wealthfront.com/c/affiliates/invited/AFFA-RXMQ-8ZFA-ZXV3][Wealthfront]]: High interest checking, advice & personal wealth tracking
+   - [[https://wealthfront.com/c/affiliates/invited/AFFA-RXMQ-8ZFA-ZXV3][Wealthfront]]: High interest bank account, advice & personal wealth tracking
    - [[https://t-mobilemoney.com][T-Mobile Money]]: High interest checking for mobile customers
 ** Insurance
    - [[https://Zanderins.com][Zander Insurance]]: Selects policies between several insurance companies
-   - [[https://usaa.com][USAA]]
+   - [[https://usaa.com][USAA]]: Competitive insurance
 ** Loans
    - [[https://NavyFederal.org][Navy Federal]]: Credit union with good interest rates and rewards
 * Financial Charting
   - [[https://finance.yahoo.com][Yahoo Finance]]
   - [[https://tradingview.com][TradingView]]
+* Credit
+  Credit is based off your main credit report, which details all your open accounts and recent blemishes. 
+  If your credit report looks good, you'll likely have a good credit score as well. 
+  
+  It's free and harmless to check your credit report and your credit score. You are encouraged to and should do so periodically to measure your progress and correct errors. 
+  You can request your credit report from each of the three major credit agencies through [[https://annualcreditreport.com][annualcreditreport.com]] or each agency's resources. 
+  Credit card issuers will often give you a free credit score every few months, since they check themselves anyway! 
+  
+  See the [[https://myfico.com][myFico]] links in the [[Research]] section for more information and sources
