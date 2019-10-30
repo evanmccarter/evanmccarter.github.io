@@ -1,6 +1,9 @@
 #+TITLE: Personal Finance Resources
 * Advice
   - [[https://DaveRamsey.com][Dave Ramsey]]: Famous for [[https://daveramsey.com/blog/what-is-a-budget][budgeting]] and the [[https://daveramsey.com/dave-ramsey-7-baby-steps][7 baby steps]], which are simpler and easier than other advice
+    - [[https://daveramsey.com/budgeting/how-to-budget/][How to budget]]
+    - [[https://daveramsey.com/blog/what-is-a-budget][What is a budget?]]
+    - [[https://daveramsey.com/blog/zero-based-budget-what-why][Zero based budgeting]]: I recommend this style of budgeting
   - [[https://Bogleheads.org][Bogleheads]]: Investing advice inspired by John Bogle
     - [[https://bogleheads.org/wiki/Getting_started][Bogleheads Wiki]]: A fountain of information and examples
       - [[https://bogleheads.org/wiki/Prioritizing_investments][Prioritizing investments]]: Where should you invest first?
