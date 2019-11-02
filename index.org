@@ -6,6 +6,7 @@
   - [[tel:4438407034][4438407034]]: phone number
   - [[https://github.com/evanmccarter][Github profile]]
   - [[https://stackoverflow.com/users/3078605/evan][StackOverflow profile]]
+  - [[https://linkedin.com/in/evanmcc][LinkedIn profile]]
   - [[./resume.org][Resume]]
   - [[https://docs.google.com/document/d/1Kv4-9uHxDF6_6GYh4FocmxCmam6FF1MX5ToY116-quQ/edit?usp%3Dsharing][Printable Resume]]
 * Resources
@@ -13,4 +14,4 @@
   - [[./keyboard.org][Keyboard Shortcuts]]
   - [[./bitcoin.org][Bitcoin]]
 * Org Files
-  These pages are also available as .org files. Simply replace the trailing .html portion of the filename with .org
+  These pages are also available as .org files for Emacs. Simply replace the trailing .html portion of the filename with .org
