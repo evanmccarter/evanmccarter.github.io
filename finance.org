@@ -1,18 +1,18 @@
 #+TITLE: Personal Finance Resources
 * Advice
-  - [[https://DaveRamsey.com][Dave Ramsey]]: Famous for [[https://daveramsey.com/blog/what-is-a-budget][budgeting]] and the [[https://daveramsey.com/dave-ramsey-7-baby-steps][7 baby steps]], which are simpler and easier than other advice
+  - [[https://DaveRamsey.com][Dave Ramsey]]: Famous for [[https://daveramsey.com/blog/what-is-a-budget][budgeting]] & the [[https://daveramsey.com/dave-ramsey-7-baby-steps][7 baby steps]], which are simpler & easier than other advice
     - [[https://daveramsey.com/budgeting/how-to-budget/][How to budget]]
     - [[https://daveramsey.com/blog/what-is-a-budget][What is a budget?]]
     - [[https://daveramsey.com/blog/zero-based-budget-what-why][Zero based budgeting]]: I recommend this style of budgeting
   - [[https://Bogleheads.org][Bogleheads]]: Investing advice inspired by John Bogle
-    - [[https://bogleheads.org/wiki/Getting_started][Bogleheads Wiki]]: A fountain of information and examples
+    - [[https://bogleheads.org/wiki/Getting_started][Bogleheads Wiki]]: A fountain of information & examples
       - [[https://bogleheads.org/wiki/Prioritizing_investments][Prioritizing investments]]: Where should you invest first?
   - [[https://reddit.com/r/personalfinance/wiki][PersonalFinance Reddit]]: Significantly mirrors Bogleheads philosophy
-    - [[https://reddit.com/r/personalfinance/wiki/commontopics][Where should my next dollar go?]]: Similar to Bogleheads investment order and includes [[https://reddit.com/r/personalfinance/wiki/commontopics#wiki_the_flowchart][a flowchart]]
+    - [[https://reddit.com/r/personalfinance/wiki/commontopics][Where should my next dollar go?]]: Similar to Bogleheads investment order & includes [[https://reddit.com/r/personalfinance/wiki/commontopics#wiki_the_flowchart][a flowchart]]
   - [[https://moneyguy.com][The Money Guy Show]]: Mirrors Bogleheads advice with their [[https://moneyguy.com/2018/08/financial-order-of-operations-how-to-prioritize-your-financial-goals/][order of operations]]
 * Research
-  - [[https://Investopedia.com][Investopedia]]: Definitions of financial terms and basic advice
-  - [[https://Nerdwallet.com][Nerdwallet]]: Reviews and search functions for institutions and accounts
+  - [[https://Investopedia.com][Investopedia]]: Definitions of financial terms & basic advice
+  - [[https://Nerdwallet.com][Nerdwallet]]: Reviews & search functions for institutions & accounts
     - [[https://nerdwallet.com/rates/savings-account?active_offers%3Dtrue&bank_type%3Dbank&bank_type%3Dcredit_union&bank_type%3Dinternet_bank&deposit_minimum%3D1&min_ratings%3D3&sort_key%3Dapy&sort_order%3Ddesc][High interest savings accounts]]
     - [[https://nerdwallet.com/checking-accounts?account_features%3Dno_monthly_fee&active_offers%3Dtrue&bank_type%3Dbank&bank_type%3Dcredit_union&bank_type%3Dinternet_bank&checking_daily_balance%3D0&customer_type%3Deveryone&direct_deposit%3D0&sort_key%3Dmonthly_cost&sort_order%3Ddesc][Cheap checking accounts]]
     - [[https://nerdwallet.com/best/banking/savings-accounts][Best Savings Accounts]]
@@ -48,7 +48,7 @@
   - [[https://YouTube.com/watch?v%3Dul32Yf9KJB0&list%3DPL3FUah8ohZLyEGjh5I38MHL0Sl1fuzs13&index%3D15][Why You Should Use a Land Trust for Real Estate]]
   - [[https://YouTube.com/watch?v%3DNNS8aWhNpS4&list%3DPL3FUah8ohZLyEGjh5I38MHL0Sl1fuzs13&index%3D14][What a land trust protects against: Purchasing Property With a Land Trust]]
 * Books
-  These books are frequently available as audiobooks on YouTube and the authors may have channels, as well as physical or digital forms on Amazon or at your local library
+  These books are frequently available as audiobooks on YouTube & the authors may have channels, as well as physical or digital forms on Amazon or at your local library
   | Title                      | Author           |           ISBN |
   |----------------------------+------------------+----------------|
   | [[https://YouTube.com/watch?v%3DgliZHyovI7c][Rich Dad Poor Dad]]          | [[https://YouTube.com/user/RDdotcom][Robert Kiyosaki]]  | 978-1612680170 |
@@ -59,20 +59,20 @@
 * Financial Institutions
 ** Investment
    - [[https://Vanguard.com][Vanguard]]: Especially competitive ETFs & Mutual Funds
-   - [[https://Fidelity.com][Fidelity]]: Very competitive investing
-   - [[https://mbsy.co/CCHdh][M1 Finance]]: Automatic rebalancing and perfect tax strategy
+   - [[https://Fidelity.com][Fidelity]]: Very competitive investing: Zero expense ratio index mutual funds, no fees for normal accounts, high interest cash management account with checking
+   - [[https://mbsy.co/CCHdh][M1 Finance]]: Automatic rebalancing, perfect tax strategy with no annual fee
      - My Pies
        - [[https://m1.finance/1lLWbJ7NG][Short-Term Savings]]
        - [[https://m1.finance/-2Ypz4Tre][Taxable Investing]]
-   - [[https://wealthfront.com/c/affiliates/invited/AFFA-RXMQ-8ZFA-ZXV3][Wealthfront]]: High interest cash account, advice & personal wealth tracking
-   - [[https://www.betterment.com/?referral_key%3Devanmccarter][Betterment]]: High interest cash account
-   - [[https://nbkc.com][NBKC]]: High interest checking and wealth tracking tools
+   - [[https://www.betterment.com/?referral_key%3Devanmccarter][Betterment]]: High interest cash management account with checking, sweeps in unneeded cash, investing with automatic tax loss harvesting, goal-based accounts
+   - [[https://wealthfront.com/c/affiliates/invited/AFFA-RXMQ-8ZFA-ZXV3][Wealthfront]]: High interest cash management account, advice & personal wealth tracking
+   - [[https://nbkc.com][NBKC]]: High interest checking, wealth tracking tools
    - [[https://t-mobilemoney.com][T-Mobile Money]]: High interest checking, especially for mobile customers
 ** Insurance
    - [[https://Zanderins.com][Zander Insurance]]: Selects policies between several insurance companies
    - [[https://usaa.com][USAA]]: Competitive insurance
 ** Loans
-   - [[https://NavyFederal.org][Navy Federal]]: Credit union with good interest rates and rewards
+   - [[https://NavyFederal.org][Navy Federal]]: Credit union with good interest rates & rewards
 * Financial Charting
   - [[https://finance.yahoo.com][Yahoo Finance]]
   - [[https://tradingview.com][TradingView]]
@@ -82,25 +82,25 @@
   Credit can multiply your spending, which can allow you to buy assets sooner but always creates a liability for yourself. 
   If you buy a poor asset or just increase your spending, debt you incurred will still be there to drain your wealth from you. 
   
-  Credit is based off your main credit report, which details all your open accounts and recent blemishes. 
+  Credit is based off your main credit report, which details all your open accounts & recent blemishes. 
   If your credit report looks good, you'll likely have a good credit score as well. 
   
-  It's free and harmless to check your credit report and your credit score. You are encouraged to and should do so periodically to measure your progress and correct errors. 
+  It's free & harmless to check your credit report & your credit score. You are encouraged to & should do so periodically to measure your progress & correct errors. 
   You can request your credit report from each of the three major credit agencies (Equifax, Experian, Transunion) through [[https://annualcreditreport.com][annualcreditreport.com]] or each agency's resources. 
   Credit card issuers will often give you a free credit score every few months, since they check themselves anyway! 
   
-  See the [[https://myfico.com][myFico]] links in [[Research]] for more information and sources
+  See the [[https://myfico.com][myFico]] links in [[Research]] for more information & sources
   
   See [[https://Nerdwallet.com][Nerdwallet]] or some [[YouTube%20Channels][YouTube Channels]] for credit card advice
 
 ** Credit cards
 *** High cash back, no annual fee
     - [[https://creditcards.chase.com/cash-back-credit-cards/chase-freedom][Chase Freedom credit card]]: 5% cash back in rotating categories, Chase will only issue cards to people with less than 5 new credit cards in the past 24 months
-    - [[https://www.firstbankcard.com/ducksunlimited/landingpage/visaplat/][Ducks Unlimited Rewards Platinum Edition® Visa® Card]]: Unlimited 5% back on gas and sporting goods
-    - [[https://www.usbank.com/credit-cards/cash-plus-visa-signature-credit-card.html][U.S. Bank cash+ Visa Signature Card]]: 5% cash back on internet and utilities (or phone service) bills
+    - [[https://www.firstbankcard.com/ducksunlimited/landingpage/visaplat/][Ducks Unlimited Rewards Platinum Edition® Visa® Card]]: Unlimited 5% back on gas & sporting goods
+    - [[https://www.usbank.com/credit-cards/cash-plus-visa-signature-credit-card.html][U.S. Bank cash+ Visa Signature Card]]: 5% cash back on internet & utilities (or phone service) bills
     - [[https://www.americanexpress.com/us/credit-cards/card/blue-cash-everyday/][Blue Cash Everyday® Card]]: 3% cash back at U.S. supermarkets, on up to $6,000 per year in purchases (then 1%)
-    - [[https://www.capitalone.com/credit-cards/savorone-dining-rewards/][Capital One SavorOne]]: Unlimited 3% cash back on dining and entertainment
+    - [[https://www.capitalone.com/credit-cards/savorone-dining-rewards/][Capital One SavorOne]]: Unlimited 3% cash back on dining & entertainment
     - [[https://www.bankofamerica.com/credit-cards/products/student-cash-back-credit-card/][Bank of America® Cash Rewards Credit Card for Students]]: 3% cash back on travel (EG E-Zpass, Airbnb, Uber, Delta airlines) or drug stores (EG CVS, Walgreens) or home improvement / furnishings (EG IKEA, Lowes, Home Depot)
-    - [[https://www.pnc.com/en/personal-banking/banking/credit-cards/pnc-cash-rewards-visa-credit-card.html][PNC Cash Rewards Visa credit card]]: 4% cash back on gas and 3% cash back on restaurants
+    - [[https://www.pnc.com/en/personal-banking/banking/credit-cards/pnc-cash-rewards-visa-credit-card.html][PNC Cash Rewards Visa credit card]]: 4% cash back on gas & 3% cash back on restaurants
     - [[https://oldnavy.gap.com/products/old-navy-credit-card.jsp][Old Navy credit card]]: 5% back at Old Navy
     - [[https://www.discover.com/credit-cards/cash-back/it-card.html][Discover it Cash Back credit card]]: 5% cash back in rotating categories
