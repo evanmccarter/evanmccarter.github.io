@@ -57,17 +57,25 @@
   | Everyday Millionaires      | [[https://YouTube.com/user/ChrisHogan360][Chris Hogan]]      | 978-0977489527 |
   | [[https://YouTube.com/watch?v%3DZUbfskQ-GAY][Think and Grow Rich]]        | Napoleon Hill    | 978-1585424337 |
 * Financial Institutions
-** Investment
+** Saving
+   - [[https://www.betterment.com/?referral_key%3Devanmccarter][Betterment]]: High interest cash management account with checking, sweeps in unneeded cash, 
+   investing with automatic tax loss harvesting, goal-based accounts
+   - [[https://wealthfront.com/c/affiliates/invited/AFFA-RXMQ-8ZFA-ZXV3][Wealthfront]]: High interest cash management account, advice & personal wealth tracking
+   - [[https://nbkc.com][NBKC]]: High interest checking, wealth tracking tools
+   - [[https://t-mobilemoney.com][T-Mobile Money]]: High interest checking, especially for mobile customers
+   - [[https://Redneck.Bank][Redneck Bank]]: Highly competitive money market fund
+   - [[https://fidelity.com/go/cash-value][Fidelity Government Money Market Fund]] or [[https://fidelity.com/cash-management/fidelity-cash-management-account/overview][Fidelity® Cash Management Account]]: 
+   Tracks risk-free rate of return by investing in short-term debt securities with low credit risk. 
+   When interest rates rise, those higher rates typically pass through to money market funds quickly, 
+   but not FDIC insured: SIPC (Securities Investor Protection Corporation) insured against brokerage (Fidelity) bankruptcy, not asset depreciation
+** Investing
    - [[https://Vanguard.com][Vanguard]]: Especially competitive ETFs & Mutual Funds
-   - [[https://Fidelity.com][Fidelity]]: Very competitive investing: Zero expense ratio index mutual funds, no fees for normal accounts, high interest cash management account with checking
+   - [[https://Fidelity.com][Fidelity]]: Very competitive investing: 
+   Zero expense ratio index mutual funds, no fees for normal accounts, high interest cash management account with checking
    - [[https://mbsy.co/CCHdh][M1 Finance]]: Automatic rebalancing, perfect tax strategy with no annual fee
      - My Pies
        - [[https://m1.finance/1lLWbJ7NG][Short-Term Savings]]
        - [[https://m1.finance/-2Ypz4Tre][Taxable Investing]]
-   - [[https://www.betterment.com/?referral_key%3Devanmccarter][Betterment]]: High interest cash management account with checking, sweeps in unneeded cash, investing with automatic tax loss harvesting, goal-based accounts
-   - [[https://wealthfront.com/c/affiliates/invited/AFFA-RXMQ-8ZFA-ZXV3][Wealthfront]]: High interest cash management account, advice & personal wealth tracking
-   - [[https://nbkc.com][NBKC]]: High interest checking, wealth tracking tools
-   - [[https://t-mobilemoney.com][T-Mobile Money]]: High interest checking, especially for mobile customers
 ** Insurance
    - [[https://Zanderins.com][Zander Insurance]]: Selects policies between several insurance companies
    - [[https://usaa.com][USAA]]: Competitive insurance
