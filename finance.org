@@ -58,10 +58,10 @@
   | [[https://YouTube.com/watch?v%3DZUbfskQ-GAY][Think and Grow Rich]]        | Napoleon Hill    | 978-1585424337 |
 * Financial Institutions
 ** Saving
-   - [[https://www.betterment.com/?referral_key%3Devanmccarter][Betterment]]: High interest cash management account, sweeps in unneeded cash, 
-   investing with automatic tax loss harvesting, goal-based accounts
+   - [[https://www.betterment.com/?referral_key%3Devanmccarter][Betterment]]: High interest cash management account, sweeps in unneeded cash
    - [[https://wealthfront.com/c/affiliates/invited/AFFA-RXMQ-8ZFA-ZXV3][Wealthfront]]: High interest cash management account, advice & personal wealth tracking
-   - [[https://fidelity.com/cash-management/fidelity-cash-management-account/overview][Fidelity® Cash Management Account]]: Sweeps money into FDIC insured accounts at banks, providing high interest
+   - [[https://fidelity.com/cash-management/fidelity-cash-management-account/overview][Fidelity® Cash Management Account]]: Sweeps money into FDIC insured accounts at banks, providing high interest, 
+   Electronic Funds Transfer access
    - [[https://nbkc.com][NBKC]]: High interest checking, wealth tracking tools
    - [[https://t-mobilemoney.com][T-Mobile Money]]: High interest checking, especially for mobile customers
    - [[https://Redneck.Bank][Redneck Bank]]: Highly competitive money market fund
@@ -72,11 +72,13 @@
 ** Investing
    - [[https://Vanguard.com][Vanguard]]: Especially competitive ETFs & Mutual Funds
    - [[https://Fidelity.com][Fidelity]]: Very competitive investing: 
-   Zero expense ratio index mutual funds, no fees for normal accounts, high interest cash management account with checking
+   Zero expense ratio index mutual funds, no fees for normal accounts
    - [[https://mbsy.co/CCHdh][M1 Finance]]: Automatic rebalancing, perfect tax strategy with no annual fee
      - My Pies
        - [[https://m1.finance/1lLWbJ7NG][Short-Term Savings]]
        - [[https://m1.finance/-2Ypz4Tre][Taxable Investing]]
+   - [[https://www.betterment.com/?referral_key%3Devanmccarter][Betterment]]: Investing with automatic tax loss harvesting, goal-based accounts
+   - [[https://wealthfront.com/c/affiliates/invited/AFFA-RXMQ-8ZFA-ZXV3][Wealthfront]]: "Robo-advice"
 ** Insurance
    - [[https://Zanderins.com][Zander Insurance]]: Selects policies between several insurance companies
    - [[https://usaa.com][USAA]]: Competitive insurance
