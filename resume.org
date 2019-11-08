@@ -3,6 +3,7 @@
   - [[mailto:Evan.McCarter@gmail.com][Evan.McCarter@gmail.com]]: Email
   - [[tel:4438407034][4438407034]]: Main phone
   - [[tel:4439494381][4439494381]]: Cell phone
+  - [[http:mccarter.tk][mccarter.tk]]: Website
 * Technical Skills
 ** Programming Languages
    - C++
@@ -33,9 +34,6 @@
    - MySQL
    - Weka
    - Lambda Calculus
-** Prefer not to work with, but experienced
-   - Python: whitespace has semantic value
-   - Windows: unfree & secret standards constantly changing
 * Employment
   - Software Engineer Intern at BrainTrust Holdings, LLC, June 2019 - August 2019
     - Developed software to rank document relevance by generating text from images, speech audio, video
@@ -54,7 +52,7 @@
     - Find functions in source code without header comments (sed)
     - Find user’s SSH login information based on their name using key-value search (awk)
     - Easily and deterministically hash entire directories to detect changes (find, xargs)
-    - Find disk locations with free space (df, sed, awk, lists in shell variables)
+    - Find disks with free space (df, sed, awk, lists in shell variables)
   - Taxi company simulator (C)
     - Simulated taxis picking up accumulating customers and delivering them to random destinations
     - Used structs, malloc, cohesive functions
@@ -99,3 +97,5 @@
     - Fistful of Frags
     - Counter Strike: Source
     - Rimworld
+    - Poker (Texas Hold’em, Omaha)
+    - Minesweeper
