@@ -3,7 +3,7 @@
   - [[mailto:Evan.McCarter@gmail.com][Evan.McCarter@gmail.com]]: Email
   - [[tel:4438407034][4438407034]]: Main phone
   - [[tel:4439494381][4439494381]]: Cell phone
-  - [[http:mccarter.tk][mccarter.tk]]: Website
+  - [[http:McCarter.tk][McCarter.tk]]: Website
 * Technical Skills
 ** Programming Languages
    - C++
