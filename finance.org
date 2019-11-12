@@ -106,6 +106,14 @@
   See the [[https://myfico.com][myFico]] links in [[Research]] for more information & sources
   
   See [[https://creditwise.capitalone.com][Credit Wise from Capital One]], [[https://Nerdwallet.com][Nerdwallet]], or some [[YouTube%20Channels][YouTube Channels]] for credit card advice
+** Credit tracking
+   You can use these sites to estimate your credit score in order to gauge when to apply for a better credit card while you're beginning to build credit. 
+   However, these sites usually show a [[https://vantagescore.com][Vantage Score]] rather than a [[https://myfico.com][FICO]] [[https://ficoscore.com][score]], which weight categories differently, and most lenders use FICO scores. 
+   Therefore, these free scores are *only estimates*. 
+   After building good credit, the main factor in improving credit is time, but these sites also track and graph your credit score over time. 
+   - [[https://creditkarma.com][Credit Karma]]
+   - [[https://creditwise.capitalone.com][Credit Wise from Capital One]]
+   - [[https://creditsesame.com][Credit Sesame]]
 ** Credit cards
 *** Issuer limits
     Some credit card companies won't issue credit cards to you if you have too many from other issuers or in too short a time frame
@@ -127,9 +135,17 @@
     - [[https://www.usbank.com/credit-cards/cash-plus-visa-signature-credit-card.html][U.S. Bank cash+ Visa Signature Card]]: 5% cash back on any two of utilities, internet, or phone service bills
     - [[https://www.americanexpress.com/us/credit-cards/card/blue-cash-everyday/][Blue Cash Everyday® Card]]: 3% cash back at U.S. supermarkets, on up to $6,000 per year in purchases (then 1%)
     - [[https://www.capitalone.com/credit-cards/savorone-dining-rewards/][Capital One SavorOne]]: Unlimited 3% cash back on dining & entertainment
-    - [[https://www.bankofamerica.com/credit-cards/products/student-cash-back-credit-card/][Bank of America® Cash Rewards Credit Card for Students]]: 3% cash back on travel (EG E-Zpass, Airbnb, Uber, Delta airlines) or drug stores (EG CVS, Walgreens) or home improvement / furnishings (EG IKEA, Lowes, Home Depot)
+    - [[https://bankofamerica.com/credit-cards/products/cash-back-credit-card/][Bank of America® Cash Rewards Credit Card]] & [[https://www.bankofamerica.com/credit-cards/products/student-cash-back-credit-card/][Bank of America® Cash Rewards Credit Card for Students]]: 3% cash back on travel (EG E-Zpass, Airbnb, Uber, Delta airlines) or drug stores (EG CVS, Walgreens) or home improvement / furnishings (EG IKEA, Lowes, Home Depot)
     - [[https://www.pnc.com/en/personal-banking/banking/credit-cards/pnc-cash-rewards-visa-credit-card.html][PNC Cash Rewards Visa credit card]]: 4% cash back on gas & 3% cash back on restaurants
     - [[https://oldnavy.gap.com/products/old-navy-credit-card.jsp][Old Navy credit card]]: 5% back at Old Navy
     - [[https://www.discover.com/credit-cards/cash-back/it-card.html][Discover it Cash Back credit card]]: 5% cash back in rotating categories, very easy to qualify for
 *** Travel
     - [[https://creditcards.chase.com/sapphire-credit-cards][Chase Sapphire Preferred® credit card]]: 2% points on travel and dining, [[https://thepointsguy.com/guide/reasons-to-get-chase-sapphire-preferred/][points are worth more than 1.25 cents]]
+*** Secured
+    Secured credit cards require a security deposit in order to open the account, usually equal to the credit limit you get. 
+    However, this makes it extremely likely that you'll get approved for any that you apply for. 
+    
+    Nerdwallet has a [[https://nerdwallet.com/best/credit-cards/secured][list of the best secured credit cards]]
+    
+    - [[https://discover.com/credit-cards/secured/][Discover it® Secured]]: Cash back even on a secured card
+    - [[https://capitalone.com/credit-cards/secured-mastercard/][Secured Mastercard® from Capital One®]]: Low fees and some perks
