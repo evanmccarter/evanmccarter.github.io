@@ -85,6 +85,7 @@
    - [[https://usaa.com][USAA]]: Competitive insurance
 ** Loans
    - [[https://NavyFederal.org][Navy Federal]]: Credit union with good interest rates & rewards
+   - [[https://TowerFCU.org][Tower Federal Credit Union]]: Credit union with good interest rates
 * Financial Charting
   - [[https://finance.yahoo.com][Yahoo Finance]]
   - [[https://tradingview.com][TradingView]]
