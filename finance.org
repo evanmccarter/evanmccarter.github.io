@@ -66,7 +66,7 @@
    - [[https://fidelity.com/go/cash-value][Fidelity Government Money Market Fund]]: Tracks risk-free rate of return by investing in short-term debt securities with low credit risk. When interest rates rise, those higher rates typically pass through to money market funds quickly, but not FDIC insured: SIPC (Securities Investor Protection Corporation) insured against brokerage (Fidelity) bankruptcy, not asset depreciation
 ** Checking
    - [[https://nbkc.com][NBKC]]: High interest checking, net worth tracking tools
-   - [[https://t-mobilemoney.com][T-Mobile Money]]: High interest checking, especially for mobile customers
+   - [[https://T-MobileMoney.com][T-Mobile Money]]: High interest checking, especially for mobile customers
    - [[https://fidelity.com/cash-management/fidelity-cash-management-account/overview][Fidelity® Cash Management Account]]: Sweeps money into FDIC insured accounts at banks, providing high interest, Electronic Funds Transfer access
    - [[https://capitalone.com/bank/checking-accounts/online-checking-account][Capital One]]: Bank with well above normal interest rates
    - [[http://schwab.com/public/schwab/nn/refer-prospect.html?refrid%3DREFER6YUV73ZF][Charles Schwab]]: [[https://schwab.com/public/schwab/banking_lending/checking_account/][Schwab Bank High Yield Investor Checking® Account]]
