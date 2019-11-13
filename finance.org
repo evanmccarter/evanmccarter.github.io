@@ -68,7 +68,7 @@
 ** Saving
    - [[https://www.betterment.com/?referral_key%3Devanmccarter][Betterment]]: Sweeps money into FDIC insured accounts at banks, providing high interest, sweeps in unneeded cash. Also gives advice & graphs
    - [[https://wealthfront.com/c/affiliates/invited/AFFA-RXMQ-8ZFA-ZXV3][Wealthfront]]: Sweeps money into FDIC insured accounts at banks, providing high interest. Also gives advice & net worth tracking
-   - [[https://Redneck.Bank][Redneck Bank]]: Highly competitive money market fund
+   - [[https://Redneck.Bank][Redneck Bank]]: Highly competitive FDIC insured money market fund
    - [[https://fidelity.com/go/cash-value][Fidelity Government Money Market Fund]]: Tracks risk-free rate of return by investing in short-term debt securities with low credit risk. When interest rates rise, those higher rates typically pass through to money market funds quickly, but not FDIC insured: SIPC (Securities Investor Protection Corporation) insured against brokerage (Fidelity) bankruptcy, not asset depreciation
 ** Investing
    - [[https://Vanguard.com][Vanguard]]: Especially competitive ETFs & Mutual Funds
