@@ -59,11 +59,6 @@
   | Everyday Millionaires      | [[https://YouTube.com/user/ChrisHogan360][Chris Hogan]]      | 978-0977489527 |
   | [[https://YouTube.com/watch?v%3DZUbfskQ-GAY][Think and Grow Rich]]        | Napoleon Hill    | 978-1585424337 |
 * Financial Institutions
-** Saving
-   - [[https://www.betterment.com/?referral_key%3Devanmccarter][Betterment]]: High interest cash management account, sweeps in unneeded cash, advice & graphs
-   - [[https://wealthfront.com/c/affiliates/invited/AFFA-RXMQ-8ZFA-ZXV3][Wealthfront]]: High interest cash management account, advice & net worth tracking
-   - [[https://Redneck.Bank][Redneck Bank]]: Highly competitive money market fund
-   - [[https://fidelity.com/go/cash-value][Fidelity Government Money Market Fund]]: Tracks risk-free rate of return by investing in short-term debt securities with low credit risk. When interest rates rise, those higher rates typically pass through to money market funds quickly, but not FDIC insured: SIPC (Securities Investor Protection Corporation) insured against brokerage (Fidelity) bankruptcy, not asset depreciation
 ** Checking
    - [[https://nbkc.com][NBKC]]: High interest checking, net worth tracking tools
    - [[https://T-MobileMoney.com][T-Mobile Money]]: High interest checking, especially for mobile customers
@@ -72,6 +67,11 @@
    - [[http://schwab.com/public/schwab/nn/refer-prospect.html?refrid%3DREFER6YUV73ZF][Charles Schwab]]: [[https://schwab.com/public/schwab/banking_lending/checking_account/][Schwab Bank High Yield Investor Checking® Account]]
    - [[https://NavyFederal.org][Navy Federal]]: Credit union with good interest rates & rewards
    - [[https://online.citi.com/US/ag/current-interest-rates/checking-saving-accounts][Citi]]: Bank with above normal interest rates
+** Saving
+   - [[https://www.betterment.com/?referral_key%3Devanmccarter][Betterment]]: High interest cash management account, sweeps in unneeded cash, advice & graphs
+   - [[https://wealthfront.com/c/affiliates/invited/AFFA-RXMQ-8ZFA-ZXV3][Wealthfront]]: High interest cash management account, advice & net worth tracking
+   - [[https://Redneck.Bank][Redneck Bank]]: Highly competitive money market fund
+   - [[https://fidelity.com/go/cash-value][Fidelity Government Money Market Fund]]: Tracks risk-free rate of return by investing in short-term debt securities with low credit risk. When interest rates rise, those higher rates typically pass through to money market funds quickly, but not FDIC insured: SIPC (Securities Investor Protection Corporation) insured against brokerage (Fidelity) bankruptcy, not asset depreciation
 ** Investing
    - [[https://Vanguard.com][Vanguard]]: Especially competitive ETFs & Mutual Funds
    - [[https://Fidelity.com][Fidelity]]: Very competitive investing: Zero expense ratio index mutual funds, no fees for normal accounts
