@@ -65,8 +65,6 @@
    - [[https://fidelity.com/cash-management/fidelity-cash-management-account/overview][Fidelity® Cash Management Account]]: Sweeps money into FDIC insured accounts at banks, providing high interest, Electronic Funds Transfer access
    - [[https://capitalone.com/bank/checking-accounts/online-checking-account][Capital One]]: Bank with well above normal interest rates
    - [[http://schwab.com/public/schwab/nn/refer-prospect.html?refrid%3DREFER6YUV73ZF][Charles Schwab]]: [[https://schwab.com/public/schwab/banking_lending/checking_account/][Schwab Bank High Yield Investor Checking® Account]]
-   - [[https://NavyFederal.org][Navy Federal]]: Credit union with good interest rates & rewards
-   - [[https://online.citi.com/US/ag/current-interest-rates/checking-saving-accounts][Citi]]: Bank with above normal interest rates
 ** Saving
    - [[https://www.betterment.com/?referral_key%3Devanmccarter][Betterment]]: High interest cash management account, sweeps in unneeded cash, advice & graphs
    - [[https://wealthfront.com/c/affiliates/invited/AFFA-RXMQ-8ZFA-ZXV3][Wealthfront]]: High interest cash management account, advice & net worth tracking
