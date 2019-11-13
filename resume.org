@@ -38,8 +38,8 @@
   - Software Engineer Intern at BrainTrust Holdings, LLC, June 2019 - August 2019
     - Developed software to rank document relevance by generating text from images, speech audio, video
     - Developed full stack application utilizing Microsoft Linux DSVM instances
-    - Utilized technology such as Accumulo, Hadoop, Kafka, Zookeeper, Python, Node.js, AngularJS, Spark
-    - Collected analytics by passing data to various Microsoft cognitive services
+    - Utilized technology such as Accumulo, Hadoop, Kafka, Zookeeper, Python, Node.js, AngularJS, Windows, Spark
+    - Collected analytics by passing data to various Microsoft Azure Cognitive Services
     - Managed software installation: Automated downloading, decompression, configuration editing, setup of Zookeeper, Kafka, Hadoop, Accumulo
     - Created dynamic web UI using HTML, CSS, Javascript, AngularJS, Bootstrap, Node.js
     - Wrote Node.js server to fetch data from Accumulo database for web UI
