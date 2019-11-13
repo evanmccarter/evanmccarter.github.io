@@ -60,14 +60,14 @@
   | [[https://YouTube.com/watch?v%3DZUbfskQ-GAY][Think and Grow Rich]]        | Napoleon Hill    | 978-1585424337 |
 * Financial Institutions
 ** Checking
-   - [[https://nbkc.com][NBKC]]: High interest checking, net worth tracking tools
+   - [[https://nbkc.com][NBKC]]: High interest checking. Also provides net worth tracking tools
    - [[https://T-MobileMoney.com][T-Mobile Money]]: High interest checking, especially for mobile customers
    - [[https://fidelity.com/cash-management/fidelity-cash-management-account/overview][Fidelity® Cash Management Account]]: Sweeps money into FDIC insured accounts at banks, providing high interest, Electronic Funds Transfer access
    - [[https://capitalone.com/bank/checking-accounts/online-checking-account][Capital One]]: Bank with well above normal interest rates
    - [[http://schwab.com/public/schwab/nn/refer-prospect.html?refrid%3DREFER6YUV73ZF][Charles Schwab]]: [[https://schwab.com/public/schwab/banking_lending/checking_account/][Schwab Bank High Yield Investor Checking® Account]]
 ** Saving
-   - [[https://www.betterment.com/?referral_key%3Devanmccarter][Betterment]]: High interest cash management account, sweeps in unneeded cash, advice & graphs
-   - [[https://wealthfront.com/c/affiliates/invited/AFFA-RXMQ-8ZFA-ZXV3][Wealthfront]]: High interest cash management account, advice & net worth tracking
+   - [[https://www.betterment.com/?referral_key%3Devanmccarter][Betterment]]: Sweeps money into FDIC insured accounts at banks, providing high interest, sweeps in unneeded cash. Also gives advice & graphs
+   - [[https://wealthfront.com/c/affiliates/invited/AFFA-RXMQ-8ZFA-ZXV3][Wealthfront]]: Sweeps money into FDIC insured accounts at banks, providing high interest. Also gives advice & net worth tracking
    - [[https://Redneck.Bank][Redneck Bank]]: Highly competitive money market fund
    - [[https://fidelity.com/go/cash-value][Fidelity Government Money Market Fund]]: Tracks risk-free rate of return by investing in short-term debt securities with low credit risk. When interest rates rise, those higher rates typically pass through to money market funds quickly, but not FDIC insured: SIPC (Securities Investor Protection Corporation) insured against brokerage (Fidelity) bankruptcy, not asset depreciation
 ** Investing
