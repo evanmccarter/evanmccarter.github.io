@@ -111,6 +111,7 @@
    Therefore, these free scores are *only estimates*. 
    After building good credit, the main factor in improving credit is time, but these sites also track and graph your credit score over time. 
    - [[https://creditkarma.com][Credit Karma]]
+   - [[https://nerdwallet.com/home/dashboard/credit-score][Nerdwallet]]
    - [[https://creditwise.capitalone.com][Credit Wise from Capital One]]
    - [[https://creditsesame.com][Credit Sesame]]
 ** Credit cards
