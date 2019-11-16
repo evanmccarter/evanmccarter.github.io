@@ -110,8 +110,8 @@
    However, these sites usually show a [[https://vantagescore.com][Vantage Score]] rather than a [[https://myfico.com][FICO]] [[https://ficoscore.com][score]], which weight categories differently, and most lenders use FICO scores. 
    Therefore, these free scores are *only estimates*. 
    After building good credit, the main factor in improving credit is time, but these sites also track and graph your credit score over time. 
-   - [[https://creditkarma.com][Credit Karma]]
    - [[https://nerdwallet.com/home/dashboard/credit-score][Nerdwallet]]
+   - [[https://creditkarma.com][Credit Karma]]
    - [[https://creditwise.capitalone.com][Credit Wise from Capital One]]
    - [[https://creditsesame.com][Credit Sesame]]
 ** Credit cards
