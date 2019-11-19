@@ -17,3 +17,5 @@
 
 ** Menus
    <ALT>+<SPACE> opens an accessibility menu for the current window, allowing you to move, resize, close, minimize, and (un)maximize the window with only the keyboard. 
+* Web Browsers
+  <CTRL>+l selects the URL bar
