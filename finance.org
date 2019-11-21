@@ -114,8 +114,9 @@
    - [[https://creditkarma.com][Credit Karma]]
    - [[https://creditwise.capitalone.com][Credit Wise from Capital One]]
    - [[https://creditsesame.com][Credit Sesame]]
-   - [[https://freecreditscore.com][FreeCreditScore.com]]
+   - [[https://freecreditscore.com][FreeCreditScore.com]] (shows FICO score for free, but annoyingly pushes for paid membership)
    - [[https://lendingtree.com/credit-score][Lending Tree]]
+   [[https://your.vantagescore.com/free]] shows a list of free VantageScore providers
 ** Credit cards
 *** Issuer limits
     Some credit card companies won't issue credit cards to you if you have too many from other issuers or in too short a time frame
