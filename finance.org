@@ -118,7 +118,7 @@
    - [[https://bankrate.com/app/create-account][Bankrate]]
    - [[https://lendingtree.com/credit-score][Lending Tree]]
    - [[https://nav.com][Nav]] (targeted at business owners but gives a basic personal report)
-   - [[https://wallethub.com/][Wallet Hub]]
+   - [[https://wallethub.com][Wallet Hub]]
    [[https://your.vantagescore.com/free]] shows a list of free VantageScore providers
 ** Credit cards
 *** Issuer limits
