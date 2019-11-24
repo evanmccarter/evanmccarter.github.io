@@ -87,7 +87,7 @@
    - [[https://Zanderins.com][Zander Insurance]]: Independent agents that compare policies from many insurance companies
    - [[https://usaa.com][USAA]]: Competitive insurance
 ** Grants, Scholarships, Financial Aid
-   [[https://fafsa.gov][FAFSA]]: Surprisingly large aid grants, free and simple application
+   - [[https://fafsa.gov][FAFSA]]: Surprisingly large aid grants, free and simple application
 ** Loans
    - [[https://NavyFederal.org][Navy Federal]]: Credit union with good interest rates & rewards
    - [[https://TowerFCU.org][Tower Federal Credit Union]]: Credit union with good interest rates
