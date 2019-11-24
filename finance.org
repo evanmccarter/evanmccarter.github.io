@@ -84,7 +84,7 @@
   - [[https://finance.yahoo.com][Yahoo Finance]]
   - [[https://tradingview.com][TradingView]]
 ** Insurance
-   - [[https://Zanderins.com][Zander Insurance]]: Selects policies between several insurance companies
+   - [[https://Zanderins.com][Zander Insurance]]: Independent agents that compare policies from many insurance companies
    - [[https://usaa.com][USAA]]: Competitive insurance
 ** Grants, Scholarships, Financial Aid
    [[https://fafsa.gov][FAFSA]]: Surprisingly large aid grants, free and simple application
