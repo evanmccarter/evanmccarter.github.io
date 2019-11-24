@@ -86,6 +86,8 @@
 ** Loans
    - [[https://NavyFederal.org][Navy Federal]]: Credit union with good interest rates & rewards
    - [[https://TowerFCU.org][Tower Federal Credit Union]]: Credit union with good interest rates
+* Grants, Scholarships, Financial Aid
+  [[https://fafsa.gov][FAFSA]]: Surprisingly large aid grants, free and simple application
 * Financial Charting
   - [[https://finance.yahoo.com][Yahoo Finance]]
   - [[https://tradingview.com][TradingView]]
