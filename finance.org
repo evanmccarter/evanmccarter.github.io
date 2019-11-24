@@ -80,6 +80,9 @@
    - [[https://www.betterment.com/?referral_key%3Devanmccarter][Betterment]]: Investing with automatic tax loss harvesting, goal-based accounts
    - [[https://wealthfront.com/c/affiliates/invited/AFFA-RXMQ-8ZFA-ZXV3][Wealthfront]]: "Robo-advice"
    - [[http://schwab.com/public/schwab/nn/refer-prospect.html?refrid%3DREFER6YUV73ZF][Charles Schwab]]: Various order types
+** Financial Charting
+  - [[https://finance.yahoo.com][Yahoo Finance]]
+  - [[https://tradingview.com][TradingView]]
 ** Insurance
    - [[https://Zanderins.com][Zander Insurance]]: Selects policies between several insurance companies
    - [[https://usaa.com][USAA]]: Competitive insurance
@@ -88,9 +91,6 @@
 ** Loans
    - [[https://NavyFederal.org][Navy Federal]]: Credit union with good interest rates & rewards
    - [[https://TowerFCU.org][Tower Federal Credit Union]]: Credit union with good interest rates
-* Financial Charting
-  - [[https://finance.yahoo.com][Yahoo Finance]]
-  - [[https://tradingview.com][TradingView]]
 * Cash Back Debit Cards
   [[https://target.com/redcard/about][Target RedCard]]: 5% off at Target
 * Credit
