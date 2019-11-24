@@ -21,8 +21,8 @@
   - [[./bitcoin.org][Bitcoin]]
 * Org Files
   These pages are also available as .org files for Emacs. Simply replace the trailing .html portion of the filename with .org
-* Why this website
-I made this website to:
+* Why I made this site
+I made this site to:
   1. Learn org mode
      
      Org mode is a powerful note-taking markdown language. 
