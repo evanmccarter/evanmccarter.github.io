@@ -1,0 +1,4 @@
+#+TITLE: Computing Resources
+- [[https://fsf.org][Free Software Foundation]]
+- [[https://howtogeek.com/206329/how-to-find-your-lost-windows-or-office-product-keys][How to Find Your Lost Windows or Office Product Keys]]
+- [[./keyboard.org][Keyboard Shortcuts]]
