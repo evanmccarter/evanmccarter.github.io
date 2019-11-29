@@ -17,7 +17,7 @@
    4. Educate myself so I can accomplish these goals more effectively
 * Resources
   - [[./finance.org][Personal Finance]]
-  - [[./keyboard.org][Keyboard Shortcuts]]
+  - [[./computer.org][Computing]]
   - [[./bitcoin.org][Bitcoin]]
 * Org Files
   These pages are also available as .org files for Emacs. Simply replace the trailing .html portion of the filename with .org
