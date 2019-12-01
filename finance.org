@@ -134,6 +134,9 @@
    - [[https://wallethub.com][Wallet Hub]]
    [[https://your.vantagescore.com/free]] shows a list of free VantageScore providers
 ** Credit cards
+   Always pay credit cards back in full! They always charge above 8%-30% interest yearly! 
+   
+   Most banks have a way to automatically repay the balance due, or at least the minimum payment due. 
 *** Issuer limits
     [[https://thepointsguy.com/guide/credit-card-application-restrictions/][Some credit card companies have rules and restrictions that limit how many cards they'll issue you based on your recent history]]
 **** J. P. Morgan Chase
