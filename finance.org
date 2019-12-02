@@ -129,6 +129,7 @@
    - [[https://creditsesame.com][Credit Sesame]]
    - [[https://freecreditscore.com][FreeCreditScore.com]] (shows FICO score for free, but annoyingly pushes for paid membership)
    - [[https://bankrate.com/app/create-account][Bankrate]]
+   - [[https://credit.com][Credit.com]]
    - [[https://lendingtree.com/credit-score][Lending Tree]]
    - [[https://nav.com][Nav]] (targeted at business owners but gives a basic personal report)
    - [[https://wallethub.com][Wallet Hub]]
