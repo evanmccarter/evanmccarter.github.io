@@ -109,23 +109,23 @@
   - [[https://nerdwallet.com/home/dashboard/cash-back][Nerdwallet cash back]]
 * Credit
   "[[https://YouTube.com/watch?v%3DDyV0OfU3-FU&list%3DPLE88E9ICdiphYjJkeeLL2O09eJoC8r7Dc&index%3D1][Gold is money]]. Everything [[https://YouTube.com/watch?v%3DCxHarNKW7Go][else]] is [[https://YouTube.com/watch?v%3DPHe0bXAIuk0][credit]]." - J. P. Morgan
-  
+
   Money maintains or increases its value (to you) over time, whereas currency is a medium of exchange but decreases in value over time. 
-  
+
   We live in an era where credit is available in huge quantities for almost everyone and almost every institution. 
 
   Credit can multiply your spending, which can allow you to buy assets sooner but always creates a liability for yourself. 
   If you buy a poor asset or just increase your expenses, debt you incurred will still be a liability to drain your wealth from you. 
-  
+
   Credit is based off your main credit report, which details all your open accounts & recent blemishes. 
   If your credit report looks good, you'll likely have a good credit score as well. 
-  
+
   It's free & harmless to check your credit report & your credit score. You are encouraged to & should do so periodically to measure your progress & correct errors. 
   You can request your credit report from each of the three major credit agencies (Equifax, Experian, Transunion) through [[https://annualcreditreport.com][annualcreditreport.com]] or each agency's resources. 
   Credit card issuers will often give you a free credit score every few months, since they check themselves anyway! 
-  
+
   See the [[https://myfico.com][myFico]] links in [[Research]] for more information & sources
-  
+
   See [[https://creditwise.capitalone.com][Credit Wise from Capital One]], [[https://Nerdwallet.com][Nerdwallet]], or some [[YouTube%20Channels][YouTube Channels]] for credit card advice
 ** Credit tracking
    You can use these sites to estimate your credit score in order to gauge when to apply for a better credit card while you're beginning to build credit. 
@@ -193,7 +193,7 @@
   Prepaid debit cards are more fungible, but cards cost a fixed fee to open and some vendors charge 3%+ to process credit/debit transactions. 
   Both these types of cards don't earn interest while they hold any value, 
   which means that the company that issues them gets to enjoy the interest on unused currency. 
-  
+
   Take advantage of how worthless gift cards are by buying them for 15%-50% off:
   - [[https://paxful.com/?r%3D9LrQJa48GkK][Paxful]]: Trade Bitcoin for gift cards for up to 50% off 
   - [[https://purse.io/?_r%3DedsyPI][Purse.io]]: Trade Bitcoin for Amazon items for [[https://support.purse.io/en/articles/1670633-shopper-levels-and-limits][up to 33% Off]]
