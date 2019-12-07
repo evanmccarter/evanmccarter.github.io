@@ -103,6 +103,10 @@
 * Cash Back Debit Cards
   - [[https://target.com/redcard/about][Target RedCard]]: 5% off at Target
   - [[https://www.discover.com/online-banking/checking/][DISCOVER Cashback Debit]]: 1% cash back on up to $3,000 in debit card purchases each month
+* Cash Back
+  Retailers pay companies to advertize for them, and these companies offer cash back to users in return for acting on those advertizements
+  - [[https://rakuten.com/r/EVANMC99?eeid%3D28187][Rakuten]]: Automatically deposits money into PayPal or mails you a check
+  - [[https://nerdwallet.com/home/dashboard/cash-back][Nerdwallet cash back]]
 * Credit
   "[[https://YouTube.com/watch?v%3DDyV0OfU3-FU&list%3DPLE88E9ICdiphYjJkeeLL2O09eJoC8r7Dc&index%3D1][Gold is money]]. Everything [[https://YouTube.com/watch?v%3DCxHarNKW7Go][else]] is [[https://YouTube.com/watch?v%3DPHe0bXAIuk0][credit]]." - J. P. Morgan
   
@@ -177,10 +181,6 @@
     
     - [[https://discover.com/credit-cards/secured/][Discover it® Secured]]: Cash back even on a secured card
     - [[https://capitalone.com/credit-cards/secured-mastercard/][Secured Mastercard® from Capital One®]]: Low fees and some perks
-* Cash Back
-  Retailers pay companies to advertize for them, and these companies offer cash back to users in return for acting on those advertizements
-  - [[https://rakuten.com/r/EVANMC99?eeid%3D28187][Rakuten]]: Automatically deposits money into PayPal or mails you a check
-  - [[https://nerdwallet.com/home/dashboard/cash-back][Nerdwallet cash back]]
 * Gift Cards
   Gift cards are less fungible than cash or bank credit. 
   Gift cards are tied to a single store; 
