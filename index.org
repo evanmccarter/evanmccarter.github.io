@@ -10,6 +10,8 @@
    - [[https://linkedin.com/in/evanmcc][LinkedIn profile]]
    - [[./resume.org][Resume]]
    - [[https://docs.google.com/document/d/1Kv4-9uHxDF6_6GYh4FocmxCmam6FF1MX5ToY116-quQ/edit?usp%3Dsharing][Printable Resume]]
+** Enterprises
+   - [[https://www.youtube.com/user/evanmccarter][My YouTube channel]]
 ** Career goals
    1. Enable people to direct and control their computing environment
    2. Enable people to communicate with their neighbors more effectively and efficiently
