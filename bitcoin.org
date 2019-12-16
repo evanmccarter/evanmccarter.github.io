@@ -23,6 +23,7 @@
   - [[https://paxful.com/?r%3D9LrQJa48GkK][Paxful]]
     - Read the [[https://paxful.com/support/en-us/articles/360014037113-Safety-tips][safety tips]] before trading
     - Don't release Bitcoin from escrow before you get paid and you're happy with the transaction! 
+    - Consider [[https://paxful.com/account/verification][getting verified]] to gain access to higher quality sellers
   - [[https://purse.io/?_r%3DedsyPI][Purse]]
 * Mine
   Participate at the fundamental level
