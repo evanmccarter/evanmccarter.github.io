@@ -80,7 +80,7 @@
    - [[https://Redneck.Bank][Redneck Bank]]: Highly competitive FDIC insured money market fund
 ** Investing
    - [[https://Vanguard.com][Vanguard]]: Especially competitive ETFs & Mutual Funds
-   - [[https://Fidelity.com][Fidelity]]: Very competitive investing: [[https://www.fidelity.com/mutual-funds/investing-ideas/index-funds][zero expense ratio index mutual funds]], no fees for normal accounts
+   - [[https://Fidelity.com][Fidelity]]: Very competitive investing: [[https://www.fidelity.com/mutual-funds/investing-ideas/index-funds][Zero expense ratio index mutual funds]], no fees for normal accounts
    - [[https://mbsy.co/CCHdh][M1 Finance]]: Automatic rebalancing, perfect tax strategy with no annual fee
      - My Pies
        - [[https://m1.finance/pkjIeA8t2][Short-Term Savings]]
