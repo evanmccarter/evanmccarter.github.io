@@ -88,7 +88,8 @@
    - [[https://www.betterment.com/?referral_key%3Devanmccarter][Betterment]]: Investing with automatic tax loss harvesting, goal-based accounts
    - [[https://wealthfront.com/c/affiliates/invited/AFFA-RXMQ-8ZFA-ZXV3][Wealthfront]]: "Robo-advice"
    - [[http://schwab.com/public/schwab/nn/refer-prospect.html?refrid%3DREFER6YUV73ZF][Charles Schwab]]: Various order types
-** Financial Charting
+** Financial Data & Charting
+   - [[https://www.morningstar.com][Morningstar]]: Third party advice and research company, gratuitous data on different funds and assets
   - [[https://finance.yahoo.com][Yahoo Finance]]
   - [[https://tradingview.com][TradingView]]
 ** Insurance
