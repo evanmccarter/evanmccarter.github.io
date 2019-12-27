@@ -90,8 +90,8 @@
    - [[http://schwab.com/public/schwab/nn/refer-prospect.html?refrid%3DREFER6YUV73ZF][Charles Schwab]]: Various order types
 ** Financial Data & Charting
    - [[https://www.morningstar.com][Morningstar]]: Third party advice and research company, gratuitous data on different funds and assets
-  - [[https://finance.yahoo.com][Yahoo Finance]]
-  - [[https://tradingview.com][TradingView]]
+   - [[https://finance.yahoo.com][Yahoo Finance]]
+   - [[https://tradingview.com][TradingView]]
 ** Insurance
    - [[https://Zanderins.com][Zander Insurance]]: Independent agents that compare policies from many insurance companies
    - [[https://usaa.com][USAA]]: Competitive insurance
