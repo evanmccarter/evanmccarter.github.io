@@ -2,7 +2,7 @@
 * Personal Information
 ** Contact information
    - [[http://mccarter.tk][Domain]]
-   - [[mailto:evan.mccarter@gmail.com][Gmail]]
+   - [[mailto:EvanMcCarter@gmail.com][Gmail]]
    - [[mailto:mccarter@airmail.cc][Email]]: XMPP and backup
    - [[tel:4438407034][4438407034]]: phone number
    - [[https://github.com/evanmccarter][Github profile]]
