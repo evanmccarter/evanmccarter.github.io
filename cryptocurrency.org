@@ -1,4 +1,4 @@
-#+TITLE: Bitcoin Resources
+#+TITLE: Cryptocurrency Resources
 * Store
   Wallets
   - [[https://electrum.org][Electrum]]: Desktop
