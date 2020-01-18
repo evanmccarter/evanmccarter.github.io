@@ -100,6 +100,9 @@
 ** Loans
    - [[https://NavyFederal.org][Navy Federal]]: Credit union with good interest rates & rewards
    - [[https://TowerFCU.org][Tower Federal Credit Union]]: Credit union with good interest rates
+* Social Security
+  [[https://www.ssa.gov/planners/retire/delayret.html][Get 8% more Social Security retirement benefits for each year you delay retirement, up to age 70]], 
+  but be sure to [[https://www.ssa.gov/planners/retire/justmedicare.html][apply for medicare]] at age 65 regardless of circumstance
 * Cash Back Debit Cards
   - [[https://target.com/redcard/about][Target RedCard]]: 5% off at Target
   - [[https://www.discover.com/online-banking/checking/][DISCOVER Cashback Debit]]: 1% cash back on up to $3,000 in debit card purchases each month
