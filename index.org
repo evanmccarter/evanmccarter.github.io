@@ -15,8 +15,9 @@
 ** Career goals
    1. Enable people to direct and control their computing environment
    2. Enable people to communicate with their neighbors more effectively and efficiently
-   3. Give people more choice in how they accomplish these goals
-   4. Educate myself so I can accomplish these goals more effectively
+   3. Enable people to keep their communications and data private
+   4. Give people more choice in how they accomplish these goals
+   5. Educate myself so I can accomplish these goals more effectively
 * Resources
   - [[./finance.org][Personal Finance]]
   - [[./computing.org][Computing]]
