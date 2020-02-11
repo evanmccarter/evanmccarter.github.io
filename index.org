@@ -19,6 +19,7 @@
    4. Give people more choice in how they accomplish these goals
    5. Educate myself so I can accomplish these goals more effectively
 * Resources
+  - [[./philosophy.org][Philosophy & Ethics]]
   - [[./finance.org][Personal Finance]]
   - [[./computing.org][Computing]]
   - [[./cryptocurrency.org][Cryptocurrency]]
