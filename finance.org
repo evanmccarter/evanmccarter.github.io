@@ -63,11 +63,6 @@
   | The Total Money Makeover   | [[https://YouTube.com/user/DaveRamseyShow][Dave Ramsey]]      | 978-1595555274 |
   | Everyday Millionaires      | [[https://YouTube.com/user/ChrisHogan360][Chris Hogan]]      | 978-0977489527 |
   | [[https://YouTube.com/watch?v%3DZUbfskQ-GAY][Think and Grow Rich]]        | Napoleon Hill    | 978-1585424337 |
-* Biographies
-  - [[https://youtube.com/watch?v%3DJQI5ozFdNYs][Andrew Carnegie]]
-  - [[https://youtube.com/watch?v%3DSEwenAjPtcc][J. P. Morgan]]
-  - [[https://youtube.com/watch?v%3DT2br1fAKOGU][Benjamin Franklin]]
-  - [[https://youtube.com/watch?v%3DF51Lm8zI5bw][Thomas Edison]]
 * Financial Institutions
 ** Banking
    - [[https://fidelity.com/go/cash-value][Fidelity Government Money Market Fund]]: Tracks risk-free rate of return by investing in short-term debt securities with low credit risk. When interest rates rise, those higher rates typically pass through to money market funds quickly, but not FDIC insured: SIPC (Securities Investor Protection Corporation) insured against brokerage (Fidelity) bankruptcy, not asset depreciation
