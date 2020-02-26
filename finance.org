@@ -201,3 +201,9 @@
     - Don't release Bitcoin from escrow before you get paid and you're happy with the transaction! 
     - Consider [[https://paxful.com/account/verification][getting verified]] to gain access to higher quality sellers
   - [[https://app.purse.io/?_r%3Devanmcc][Purse]]: Trade Bitcoin for Amazon items for [[https://support.purse.io/en/articles/1670633-shopper-levels-and-limits][up to 33% Off]]
+* Corporations
+  A Limited Liability Company can assist you in lawsuits. 
+
+  A C Corporation can help you save on taxes if you're in the top income tax bracket. 
+
+  Otherwise, I know of no more rights or priviledges that corporations have than a human being. 
