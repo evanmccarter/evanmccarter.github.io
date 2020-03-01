@@ -1,7 +1,7 @@
 #+TITLE: Evan's Git Website
 * Personal Information
 ** Contact information
-   - [[http://mccarter.tk][Domain]]
+   - [[http://EvanMcCarter.tk][Domain]]
    - [[mailto:EvanMcCarter@gmail.com][Gmail]]
    - [[mailto:mccarter@airmail.cc][Email]]: XMPP and backup
    - [[tel:4438407034][4438407034]]: phone number
