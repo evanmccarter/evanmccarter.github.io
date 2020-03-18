@@ -2,3 +2,5 @@
 - [[https://fsf.org][Free Software Foundation]]
 - [[https://www.howtogeek.com/206329/how-to-find-your-lost-windows-or-office-product-keys][How to Find Your Lost Windows or Office Product Keys]]
 - [[./keyboard.org][Keyboard Shortcuts]]
+
+[[https://www.youtube.com/watch?v%3D7uLzaKlZSQQ]["The most important thing in programming is naming" - Terry A. Davis]]
