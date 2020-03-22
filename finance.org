@@ -199,12 +199,12 @@
   Gift cards are less fungible than cash or bank credit. 
   Gift cards are tied to a single store; 
   this restriction is actually so limiting that that they can be purchased at a 15%-50% discount: 
-  people would rather trade gift cards for half their value in cash in order to gain the ability to spend that cash in more than one place. 
+  People would rather trade gift cards for half their value in cash in order to gain the ability to spend that cash in more than one place. 
   Prepaid debit cards are more fungible, but cards cost a fixed fee to open and some vendors charge 3%+ to process credit/debit transactions. 
   Both these types of cards don't earn interest while they hold any value, 
   which means that the company that issues them gets to enjoy the interest on unused currency. 
 
-  Take advantage of how worthless gift cards are by buying them for 15%-50% off:
+  Take advantage of how worthless gift cards are by buying them for 15%-50% off: 
   - [[https://paxful.com/?r%3D9LrQJa48GkK][Paxful]]: Trade Bitcoin for gift cards for up to 50% off
     - Read the [[https://paxful.com/support/en-us/articles/360014037113-Safety-tips][safety tips]] before trading
     - Don't release Bitcoin from escrow before you get paid and you're happy with the transaction! 
@@ -213,6 +213,9 @@
 * Corporations
   A Limited Liability Company can assist you in lawsuits. 
 
-  A C Corporation can help you save on taxes if you're in the top income tax bracket. 
+  A C Corporation can help you save on taxes if you're in the top income tax bracket: 
+  Corporations pay a 20% tax on profit and individuals pay up to 15% on distributions. 
+  Compared to the top income bracket of 37%, this saves at least 2% on taxes. 
+  The real tax rate would be 1-(1-20%)*(1-15%) = 32%, which is currently equal to the third highest tax bracket on income over $163,300 for single individuals in 2020. 
 
   Otherwise, I know of no more rights or privileges that corporations have than a human being. 
