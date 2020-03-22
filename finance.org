@@ -160,7 +160,7 @@
      American Express supposedly limits the total number of cards you can have from them to 4-5, [[https://millionmilesecrets.com/guides/maximum-number-of-american-express-cards-you-can-have/][but this may have changed]]
 *** High cash back, no annual fee
 **** Chase
-    - [[https://creditcards.chase.com/small-business-credit-cards/ink-cash][Ink Business Cash credit card]]: 5% cash back on office supply stores; internet, cable, and phone services from Chase
+    - [[https://creditcards.chase.com/small-business-credit-cards/ink-cash][Ink Business Cash credit card]]: 5% cash back on office supply stores; internet, cable, and phone services from Chase. Application asks for "Annual business revenue"
     - [[https://chase.com/personal/credit-cards/amazon][Amazon Rewards Visa Signature Cards]]: 3%-5% back on [[https://amazon.com/gp/cobrandcard?&plattr%3DChaseMS][Amazon.com]] from Chase
     - [[https://creditcards.chase.com/cash-back-credit-cards/chase-freedom][Chase Freedom credit card]]: 5% cash back in quarterly bonus categories from Chase
 **** Best in class
