@@ -5,6 +5,7 @@
    - [[mailto:EvanMcCarter@gmail.com][Gmail]]
    - [[mailto:mccarter@airmail.cc][Email]]: XMPP and backup
    - [[tel:%2B14438407034][+14438407034]]: phone number
+   - [[https://gitlab.com/evanmccarter][GitLab profile]]
    - [[https://github.com/evanmccarter][Github profile]]
    - [[https://stackoverflow.com/users/3078605/evan][StackOverflow profile]]
    - [[https://linkedin.com/in/evanmcc][LinkedIn profile]]
