@@ -1,9 +1,8 @@
 #+TITLE: Evan James McCarter's Resume
 * Contact information
   - [[mailto:Evan.McCarter@gmail.com][Evan.McCarter@gmail.com]]: Email
-  - [[tel:4438407034][4438407034]]: Main phone
-  - [[tel:4439494381][4439494381]]: Cell phone
-  - [[http:McCarter.tk][McCarter.tk]]: Website
+  - [[tel:%2B14438407034][+14438407034]]: Main phone
+  - [[http:EvanMcCarter.tk][EvanMcCarter.tk]]: Website
 * Technical Skills
 ** Programming Languages
    - C++
@@ -46,7 +45,7 @@
     - Followed Scrum & Agile processes
     - Managed Git repository structure, handled creation and merger of branches
     - Implemented Apache Kafka to stream JSON files between modular and object oriented components
-  - Circulation II at Baltimore County Public Library, July 2016 - present
+  - Circulation II at Baltimore County Public Library, July 2016 - March 2020
 * Projects
   - Bash shell utilities (Bash shell)
     - Find functions in source code without header comments (sed)
@@ -69,8 +68,8 @@
     - Used PHP pages, SQL database, and Blockchain.info wallets to track funds donated and trigger payout
     - PHP pages enabled creating new campaigns and displaying campaign statuses
 * Education
-  - University of Maryland, Baltimore County (UMBC), Jan 2017 - present
-    - Anticipated graduation date January 2020: Bachelor degree in computer science
+  - University of Maryland, Baltimore County (UMBC), Jan 2017 - 
+    - Bachelor degree in computer science
     - 3.554/4 GPA, 3.9/4 in-major GPA
   - Associate degree in computer science from Community College of Baltimore County (CCBC), Jan 2014 - Jan 2017. 3.41/4 GPA
 * Coursework
