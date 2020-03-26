@@ -1,6 +1,6 @@
 #+TITLE: Evan James McCarter's Resume
 * Contact information
-  - [[mailto:Evan.McCarter@gmail.com][Evan.McCarter@gmail.com]]: Email
+  - [[mailto:EvanMcCarter@gmail.com][EvanMcCarter@gmail.com]]: Email
   - [[tel:%2B14438407034][+14438407034]]: Main phone
   - [[http:EvanMcCarter.tk][EvanMcCarter.tk]]: Website
 * Technical Skills
