@@ -1,18 +1,23 @@
 #+TITLE: Evan's Git Website
 * Personal Information
-** Contact information
-   - [[http://EvanMcCarter.tk][Domain]]
-   - [[mailto:EvanMcCarter@gmail.com][Gmail]]
-   - [[mailto:EvanMcCarter@airmail.cc][Email]]: XMPP and backup
-   - [[tel:%2B14438407034][+14438407034]]: phone number
-   - [[https://gitlab.com/evanmccarter][GitLab profile]]
-   - [[https://github.com/evanmccarter][GitHub profile]]
-   - [[https://stackoverflow.com/users/3078605/evan][StackOverflow profile]]
-   - [[https://linkedin.com/in/evanmcc][LinkedIn profile]]
-   - [[./resume.org][Resume]]
-   - [[https://docs.google.com/document/d/1Kv4-9uHxDF6_6GYh4FocmxCmam6FF1MX5ToY116-quQ/edit?usp%3Dsharing][Printable Resume]]
+** Contact methods
+*** Secure
+    - [[http://EvanMcCarter.tk][Domain]]
+    - [[mailto:EvanMcCarter@airmail.cc][Email]] & [[xmpp:EvanMcCarter@airmail.cc][XMPP]]
+    - [[https://matrix.to/#/@evanmccarter:matrix.org][@evanmccarter:matrix.org]]: [[https://matrix.org][Matrix.org]] & [[https://riot.im][Riot.im]]
+*** Stable
+    - [[mailto:EvanMcCarter@gmail.com][Gmail]]
+    - [[tel:%2B14438407034][+14438407034]]: phone number
+** Website profiles
+   - [[https://gitlab.com/evanmccarter][GitLab]]
+   - [[https://github.com/evanmccarter][GitHub]]
+   - [[https://stackoverflow.com/users/3078605/evan][StackOverflow]]
+   - [[https://linkedin.com/in/evanmcc][LinkedIn]]
 ** Enterprises
    - [[https://www.youtube.com/user/evanmccarter][My YouTube channel]]
+** Resume
+   - [[./resume.org][Org / HTML]]
+   - [[https://docs.google.com/document/d/1Kv4-9uHxDF6_6GYh4FocmxCmam6FF1MX5ToY116-quQ/edit?usp%3Dsharing][Google Doc]]
 ** Career goals
    1. Enable people to direct and control their computing environment
    2. Enable people to communicate with their neighbors more effectively and efficiently
