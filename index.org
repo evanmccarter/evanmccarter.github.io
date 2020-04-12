@@ -35,7 +35,7 @@
 I made this site to:
   1. Learn org mode
      
-     Org mode is a powerful note-taking markdown language. 
+     [[https://orgmode.org][Org mode]] is a powerful note-taking markdown language. 
      A markdown language combined with Git and a logical folder structure means always being able to find your notes. 
   2. Collect contact information
      
