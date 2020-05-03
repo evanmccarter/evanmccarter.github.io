@@ -143,6 +143,7 @@
    [[https://your.vantagescore.com/free]] shows a list of free VantageScore providers
 ** Credit cards
    Always pay credit cards back in full! They always charge above 8%-30% interest yearly! 
+   Do not accrue a single cent in interest!
    
    Most banks have a way to automatically repay the balance due, or at least the minimum payment due. 
 *** Issuer limits
