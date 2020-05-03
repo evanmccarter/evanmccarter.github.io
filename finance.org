@@ -75,7 +75,7 @@
    - [[https://Redneck.Bank][Redneck Bank]]: Highly competitive FDIC insured money market fund
 ** Investing
    - [[https://Vanguard.com][Vanguard]]: [[https://www.youtube.com/watch?v%3DMLgn_kVKjCE][Especially competitive]] ETFs & Mutual Funds
-   - [[https://Fidelity.com][Fidelity]]: Very competitive investing: [[https://www.fidelity.com/mutual-funds/investing-ideas/index-funds][Zero expense ratio index mutual funds]], no fees for normal accounts, perfect tax strategy available
+   - [[https://Fidelity.com][Fidelity]]: Very competitive investing: [[https://www.fidelity.com/mutual-funds/investing-ideas/index-funds][Zero expense ratio index mutual funds]], no fees for normal accounts, perfect tax strategy available. [[https://fundresearch.fidelity.com/mutual-funds/summary/316067107][FDRXX]] is their cheapest short term money market mutual fund and it's managed by the same people as most of their other short term money market funds
    - [[https://m1.finance/Juu95Dr8lv3I][M1 Finance]]: Automatic rebalancing, excellent tax strategy with no annual fee
      - My Pies
        - [[https://m1.finance/kBJD5zaffK4b][Short-Term Savings]]
@@ -143,6 +143,7 @@
    [[https://your.vantagescore.com/free]] shows a list of free VantageScore providers
 ** Credit cards
    Always pay credit cards back in full! They always charge above 8%-30% interest yearly! 
+   Do not accrue a single cent in interest!
    
    Most banks have a way to automatically repay the balance due, or at least the minimum payment due. 
 *** Issuer limits
@@ -162,6 +163,7 @@
     - [[https://creditcards.chase.com/small-business-credit-cards/ink-cash][Ink Business Cash credit card]]: 5% cash back on office supply stores; internet, cable, and phone services from Chase. Application asks for "Annual business revenue"
     - [[https://chase.com/personal/credit-cards/amazon][Amazon Rewards Visa Signature Cards]]: 3%-5% back on [[https://amazon.com/gp/cobrandcard?&plattr%3DChaseMS][Amazon.com]] from Chase
     - [[https://creditcards.chase.com/cash-back-credit-cards/chase-freedom][Chase Freedom credit card]]: 5% cash back in quarterly bonus categories from Chase
+    - [[https://creditcards.chase.com/cash-back-credit-cards/aarp][AARP® Credit Card]]: 3% Cash Back rewards on purchases at gas stations and restaurants. [[https://www.thebalance.com/aarp-credit-card-review-4767910][Points are worth more when redeemed for travel through Chase. AARP donates to charity for restaurant purchases. you don’t have to be an AARP member to take advantage of this card]]
 **** Best in class
     - [[https://www.paypal.com/us/webapps/mpp/credit-card/2-percent-cash-back-mastercard][PayPal Cashback Mastercard®]]: 2% cash back redeemable *in cash* to your bank account
     - [[https://fidelity.com/cash-management/visa-signature-card][Fidelity® Rewards Visa Signature® Card]]: 2% cash back *automatically redeemable* *in cash* in amounts over $50 to eligible Fidelity account(s), including most non-retirement registrations, and amounts over $25 for travel
@@ -170,6 +172,7 @@
     - [[https://www.americanexpress.com/us/credit-cards/card/blue-cash-everyday/][Blue Cash Everyday® Card]]: 3% cash back at U.S. supermarkets, on up to $6,000 per year in purchases (then 1%)
     - [[https://www.usbank.com/credit-cards/cash-plus-visa-signature-credit-card.html][U.S. Bank cash+ Visa Signature Card]]: 5% cash back on any two of utilities, internet, or phone service bills
     - [[https://www.firstbankcard.com/ducksunlimited/landingpage/visaplat/][Ducks Unlimited Rewards Platinum Edition® Visa® Card]]: Unlimited 5% back on gas & sporting goods
+    - [[https://pages.ebay.com/creditcard][eBay Mastercard]]: [[https://www.thebalance.com/ebay-mastercard-credit-card-review-4779110][Between 2% and 3.333% cash back on eBay.com. Points expire after 24 months or 12 months without using the card]]
     - [[https://bankofamerica.com/credit-cards/products/cash-back-credit-card/][Bank of America® Cash Rewards Credit Card]] & [[https://www.bankofamerica.com/credit-cards/products/student-cash-back-credit-card/][Bank of America® Cash Rewards Credit Card for Students]]: 3% cash back on drug stores (EG CVS, Walgreens) or home improvement / furnishings (EG IKEA, Lowes, Home Depot) or travel (EG E-Zpass, Airbnb, Uber, Delta airlines)
     - [[https://oldnavy.gap.com/products/old-navy-credit-card.jsp][Old Navy credit card]]: 5% back at Old Navy
     - [[https://www.capitalone.com/credit-cards/savorone-dining-rewards/][Capital One SavorOne]]: Unlimited 3% cash back on dining & entertainment
@@ -179,6 +182,7 @@
     - [[https://www.bbt.com/banking/credit-cards/spectrum-cash-rewards.html][BB&T Spectrum Cash Rewards Credit Card]]: 3% cash back on gas, 2% cash back on utilities and groceries, 10% bonus cash when you redeem rewards into your BB&T checking or savings account. Monthly cap of $1,000 on spend at the bonus rates
     - [[https://online1.elancard.com/oad/learnMoreCorrespondent.controller?locationCode%3D4619&offerId%3D3HMQ87X79G&preparerType%3Dcustomer][NBKC Bank Cash Rewards American Express® Card]]: 3% cash back on the first $6,000 in eligible net purchases made each year at gas stations, 2% cash back on supermarket net purchases
     - [[https://online1.elancard.com/oad/learnMoreCorrespondent.controller?locationCode%3D4619&offerId%3DVXXP9BHM3H&preparerType%3Dcustomer][NBKC Bank Visa® Business Cash Card]]: 3% cash back on all eligible net purchases from office supply stores and cellular phone, landline, internet and cable TV services, 2% cash back on restaurant and gas station eligible net purchases
+    - [[https://www.td.com/us/en/personal-banking/credit-cards/cash-card/][TD Cash Credit Card]]: 3% cash back on dining and 2% cash back on groceries
     - [[https://www.navyfederal.org/loans-cards/credit-cards/go-rewards/][Navy Federal GO REWARDS® Credit Card]]: 3% cash back at restaurants, 2% cash back on gas
     - [[https://www.navyfederal.org/loans-cards/credit-cards/cash-rewards/][Navy Federal cashRewards Credit Card]]: 1.5% cash back on all purchases, no minimum redemption amount
 **** Miscelaneous
