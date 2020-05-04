@@ -75,7 +75,9 @@
    - [[https://Redneck.Bank][Redneck Bank]]: Highly competitive FDIC insured money market fund
 ** Investing
    - [[https://Vanguard.com][Vanguard]]: [[https://www.youtube.com/watch?v%3DMLgn_kVKjCE][Especially competitive]] ETFs & Mutual Funds
-   - [[https://Fidelity.com][Fidelity]]: Very competitive investing: [[https://www.fidelity.com/mutual-funds/investing-ideas/index-funds][Zero expense ratio index mutual funds]], no fees for normal accounts, perfect tax strategy available. [[https://fundresearch.fidelity.com/mutual-funds/summary/316067107][FDRXX]] is their cheapest short term money market mutual fund and it's managed by the same people as most of their other short term money market funds
+   - [[https://Fidelity.com][Fidelity]]: Very competitive investing, perfect tax strategy available
+     - [[https://www.fidelity.com/mutual-funds/investing-ideas/index-funds][Zero expense ratio index mutual funds]], no fees for normal accounts
+     - [[https://fundresearch.fidelity.com/mutual-funds/summary/316067107][FDRXX]] is their cheapest short term money market mutual fund and it's managed by the same people as most of their other short term money market funds
    - [[https://m1.finance/Juu95Dr8lv3I][M1 Finance]]: Automatic rebalancing, excellent tax strategy with no annual fee
      - My Pies
        - [[https://m1.finance/kBJD5zaffK4b][Short-Term Savings]]
