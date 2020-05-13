@@ -137,6 +137,7 @@
    - [[https://creditwise.capitalone.com][Credit Wise from Capital One]]
    - [[https://creditsesame.com][Credit Sesame]]
    - [[https://freecreditscore.com][FreeCreditScore.com]] (shows FICO score for free, but annoyingly pushes for paid membership)
+   - [[https://creditscorecard.com][Discover Credit Scorecard]]: Your FICO® Score 8 based on Experian data
    - [[https://bankrate.com/app/create-account][Bankrate]]
    - [[https://credit.com][Credit.com]]
    - [[https://lendingtree.com/credit-score][Lending Tree]]
@@ -172,6 +173,7 @@
     - [[https://citi.com/credit-cards/credit-card-details/citi.action?ID%3Dciti-double-cash-credit-card][Citi® Double Cash Card]]: 2% cash back on every purchase, redeemable in amounts over $25
     - [[https://www.navyfederal.org/loans-cards/credit-cards/more-rewards/][Navy Federal More Rewards American Express® Credit Card]]: 3% cash back on supermarkets, gas and transit, restaurants
     - [[https://www.americanexpress.com/us/credit-cards/card/blue-cash-everyday/][Blue Cash Everyday® Card]]: 3% cash back at U.S. supermarkets, on up to $6,000 per year in purchases (then 1%)
+    - [[https://www.citi.com/credit-cards/credit-card-details/citi.action?ID%3DCiti-costco-anywhere-visa-credit-card][Costco Anywhere Visa®]]: 2% cash back on purchases from costco and Costco.com with a Costco membership
     - [[https://www.usbank.com/credit-cards/cash-plus-visa-signature-credit-card.html][U.S. Bank cash+ Visa Signature Card]]: 5% cash back on any two of utilities, internet, or phone service bills
     - [[https://www.firstbankcard.com/ducksunlimited/landingpage/visaplat/][Ducks Unlimited Rewards Platinum Edition® Visa® Card]]: Unlimited 5% back on gas & sporting goods
     - [[https://pages.ebay.com/creditcard][eBay Mastercard]]: [[https://www.thebalance.com/ebay-mastercard-credit-card-review-4779110][Between 2% and 3.333% cash back on eBay.com. Points expire after 24 months or 12 months without using the card]]
