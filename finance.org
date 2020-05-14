@@ -188,10 +188,9 @@
      - [[https://online1.elancard.com/oad/learnMoreCorrespondent.controller?locationCode%3D4619&offerId%3DVXXP9BHM3H&preparerType%3Dcustomer][NBKC Bank Visa® Business Cash Card]]: 3% cash back on all eligible net purchases from office supply stores and cellular phone, landline, internet and cable TV services, 2% cash back on restaurant and gas station eligible net purchases
      - [[https://www.td.com/us/en/personal-banking/credit-cards/cash-card/][TD Cash Credit Card]]: 3% cash back on dining and 2% cash back on groceries
      - [[https://www.navyfederal.org/loans-cards/credit-cards/go-rewards/][Navy Federal GO REWARDS® Credit Card]]: 3% cash back at restaurants, 2% cash back on gas
-     - [[https://www.navyfederal.org/loans-cards/credit-cards/cash-rewards/][Navy Federal cashRewards Credit Card]]: 1.5% cash back on all purchases, no minimum redemption amount
-**** Miscelaneous
      - [[https://www.discover.com/credit-cards/][Every Discover credit card]]
      - [[https://www.platinumrewardsnow.com/Rewards_Calendar][ABOC Mastercard®]]: 5% cash back in rotating categories
+     - [[https://www.navyfederal.org/loans-cards/credit-cards/cash-rewards/][Navy Federal cashRewards Credit Card]]: 1.5% cash back on all purchases, no minimum redemption amount
 *** Travel
     - [[https://www.navyfederal.org/loans-cards/credit-cards/flagship-visa-signature/][Navy Federal Visa Signature® Flagship Rewards Credit Card]]: 3% points on travel, 2% points on everything else, $49 annual fee
     - [[https://creditcards.chase.com/sapphire-credit-cards][Chase Sapphire Preferred® credit card]]: 2% points on travel and dining, [[https://thepointsguy.com/guide/reasons-to-get-chase-sapphire-preferred/][points are worth more than 1.25 cents]], $95 annual fee
