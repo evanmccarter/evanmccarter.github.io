@@ -5,8 +5,8 @@
   - [[http:EvanMcCarter.tk][EvanMcCarter.tk]]: Website
 * Technical Skills
 ** Programming Languages
+   - POSIX shell
    - C++
-   - Bash shell
    - Javascript
    - Java
    - PHP
@@ -18,19 +18,19 @@
 ** Platforms, Tools, Technology
    - GNU+Linux
    - Git
+   - Node.js
+   - ExpressJS
+   - Org-mode
+   - MySQL Workbench
+   - HTML
+   - CSS
+   - AngularJS
+   - JQuery
+   - Bootstrap
    - Kafka
    - Hadoop
    - Accumulo
    - Zookeeper
-   - AngularJS
-   - Jquery
-   - Bootstrap
-   - Node.js
-   - ExpressJS
-   - Org-mode
-   - HTML
-   - CSS
-   - MySQL
    - Weka
    - Lambda Calculus
 * Employment
@@ -58,7 +58,7 @@
   - Decentralized encrypted forum (Javascript, HTML, Node.js, CryptoJS)
     - Stores user-generated messages into a Decentralized Acyclic Graph tree stored on IPFS
     - IPFS is the InterPlanetary File System, software to share files peer-to-peer even when network size is limited
-    - Messages are packaged into blocks that referenced a set of messages and a set of previous blocks. This forms a tree which can be used by clients to download messages referenced in blocks and discover further blocks
+    - Messages are packaged into blocks that reference a set of messages and a set of previous blocks. This forms a tree which can be used by clients to download messages referenced in blocks and discover further blocks
     - Blocks and messages are JSON objects, holding text or references to other files
     - Media is optionally encrypted and stored as base32 text, partitioned to meet plaintext size ceiling, and reassembled by the client while loading the message
   - Assigning trust ratings to friends-of-friends using Markov chains and bitcoin transaction data (PHP, HTML)
@@ -70,7 +70,7 @@
 * Education
   - University of Maryland, Baltimore County (UMBC), Jan 2017 - 
     - Bachelor degree in computer science
-    - 3.554/4 GPA, 3.9/4 in-major GPA
+    - 3.523/4 GPA, 3.769/4 in-major GPA
   - Associate degree in computer science from Community College of Baltimore County (CCBC), Jan 2014 - Jan 2017. 3.41/4 GPA
 * Coursework
   - Principles of Computer Security
