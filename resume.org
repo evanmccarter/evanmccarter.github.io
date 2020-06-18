@@ -50,15 +50,14 @@
     by generating text from images, speech audio, video
     - Developed full stack application utilizing Microsoft Linux DSVM instances
     - Collected analytics by passing data to various Microsoft Azure Cognitive Services
-    - Implemented Apache Kafka to stream JSON files
-    between modular and object oriented components
     - Utilized and configured technology such as
-    Accumulo, Hadoop, Kafka, Zookeeper, Python, Node.js, AngularJS, Spark, Windows
+    Kafka, Hadoop, Accumulo, Zookeeper, Spark, Node.js, AngularJS, Python, Windows
     - Managed software installation:
     Automated downloading, decompression, configuration editing, setup of
     Zookeeper, Kafka, Hadoop, Accumulo
+    - Used Apache Kafka to stream JSON files between modular and object oriented components
     - Created dynamic web UI using HTML, CSS, Javascript, AngularJS, Bootstrap, Node.js
-    - Wrote Node.js server to fetch data from Accumulo database for web UI
+    - Wrote Node.js server to fetch data from Accumulo database and serve media files for web UI
     - Managed Git repository structure, handled creation and merger of branches
     - Followed Scrum & Agile processes
   - Circulation II at Baltimore County Public Library, July 2016 - March 2020
