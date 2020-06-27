@@ -5,17 +5,19 @@
   - [[http:EvanMcCarter.tk][EvanMcCarter.tk]]: Website
 * Technical Skills
 ** Programming Languages
+   - Lisp
    - C
    - SQL
    - POSIX shell
-   - Bash
-   - C++
+   - Perl
    - Assembly
+   - C++
+   - Bash
    - PHP
    - Java
-   - Javascript
+   - EMCAscript
    - Windows Batch
-** Technology, Tools, Platforms
+** Platforms, Tools, Technology
    - GPL
    - Git
    - Linux
@@ -25,7 +27,7 @@
    - Latex
    - HTML
    - CSS
-   - MYSQL Workbench
+   - MySQL Workbench
    - GNU coreutils
    - Node.js
    - ExpressJS
@@ -37,34 +39,19 @@
    - Lambda Calculus
    - AngularJS
    - jQuery
-** Researching
-   - Lisp
-   - Perl
-   - Plan 9 from User Space
-   - Plan 9 from Bell Labs
-   - kakoune
-   - QT
 * Employment
   - Software Engineer Intern at BrainTrust Holdings, LLC, June 2019 - August 2019
-    - Developed software to rank document relevance
-    by generating text from images, speech audio, video
+    - Developed software to rank document relevance by generating text from images, speech audio, video
     - Developed full stack application utilizing Microsoft Linux DSVM instances
+    - Utilized technology such as Accumulo, Hadoop, Kafka, Zookeeper, Python, Node.js, AngularJS, Windows, Spark
     - Collected analytics by passing data to various Microsoft Azure Cognitive Services
-    - Utilized and configured technology such as
-    Kafka, Hadoop, Accumulo, Zookeeper, Spark, Node.js, AngularJS, Python, Windows
-    - Managed software installation:
-    Automated downloading, decompression, configuration editing, setup of
-    Zookeeper, Kafka, Hadoop, Accumulo
-    - Used Apache Kafka to stream JSON files between modular and object oriented components
+    - Managed software installation: Automated downloading, decompression, configuration editing, setup of Zookeeper, Kafka, Hadoop, Accumulo
     - Created dynamic web UI using HTML, CSS, Javascript, AngularJS, Bootstrap, Node.js
-    - Wrote Node.js server to fetch data from Accumulo database and serve media files for web UI
-    - Managed Git repository structure, handled creation and merger of branches
+    - Wrote Node.js server to fetch data from Accumulo database for web UI
     - Followed Scrum & Agile processes
+    - Managed Git repository structure, handled creation and merger of branches
+    - Implemented Apache Kafka to stream JSON files between modular and object oriented components
   - Circulation II at Baltimore County Public Library, July 2016 - March 2020
-    - Direct experience helping people with technical problems:
-    basic computer usage,
-    signing up for email accounts,
-    navigating user programs (printing in word processor, using tabs in web browser)
 * Projects
   - Bash shell utilities (Bash shell)
     - Find functions in source code without header comments (sed)
