@@ -27,6 +27,7 @@
 * Resources
   - [[./philosophy.org][Philosophy & Ethics]]
   - [[./finance.org][Personal Finance]]
+  - [[./privacy.org][Privacy]]
   - [[./computing.org][Computing]]
   - [[./cryptocurrency.org][Cryptocurrency]]
 * Org Files

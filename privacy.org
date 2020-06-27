@@ -1,0 +1,35 @@
+#+TITLE: Privacy Resources
+* People Search
+** Overview
+   Services such as [[https://whitepages.com][Whitepages]] and [[https://spokeo.com][Spokeo]] collect and associate public data into profiles on individuals.
+   These records include home addresses, previous addresses, phone numbers, relatives.
+   Because they source from public data only the institutions supplying that data can permanently stop information about you from spreading.
+   The sources are usually government institutions which have inherent mandates to open records however.
+** Opt-out
+   You can request that individual pages be removed from each website
+   if you locate actual pages with personal information about you.
+*** Whitepages
+    1. Search [[https://whitepages.com][Whitepages]] for your listing URL, which takes the form of https://www.whitepages.com/name/Your-Name/Your-City/
+    2. Save your listing URL to later verify that it has been deleted
+    3. Go to [[https://www.whitepages.com/suppression_requests]] and supply your listing URL and other non-identifying information they ask for
+*** Spokeo
+    1. Search [[https://spokeo.com][Spokeo]] for your profile URL
+    2. Save your profile URL to later verify that it has been deleted
+    3. Follow the instructions on https://www.spokeo.com/optout
+*** Other
+    https://www.reputationdefender.com/blog/privacy/how-remove-yourself-top-peoplesearch-sites has a list of opt-out procedures for common websites.
+*** Paid databases
+    There are tens if not hundreds of websites that require payment before displaying any personal information,
+    including separate databases on Whitepages and Spokeo.
+    They require that you find the information before they will remove it.
+    This applies to the paid information on Whitepages and Spokeo:
+    your private profile will still be available until you explicitly request its removal
+    even if you remove your public profile.
+    It is prohibitively expensive and time consuming to remove all information about you from paid databases therefore.
+    Additionally, every "loading" page is a guarantee that the site requires payment to complete the search.
+    All sites that have a loading page merely do so to build suspense and waste your time.
+
+    There are some services that trawl people search websites and submit opt-out requests on your behalf.
+
+    Another alternative is providing some personal information such as a picture of your photo ID to convince some websites to remove your information.
+    https://www.reddit.com/r/technology/comments/31u84n/how_to_remove_yourself_from_most_background_check/ has an (outdated) list of examples with opt-out forms.
