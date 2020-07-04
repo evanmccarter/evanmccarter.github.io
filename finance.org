@@ -171,6 +171,7 @@
      - [[https://www.paypal.com/us/webapps/mpp/credit-card/2-percent-cash-back-mastercard][PayPal Cashback Mastercard®]]: 2% cash back redeemable *in cash* to your bank account
      - [[https://fidelity.com/cash-management/visa-signature-card][Fidelity® Rewards Visa Signature® Card]]: 2% cash back *automatically redeemable* *in cash* in amounts over $50 to eligible Fidelity account(s), including most non-retirement registrations, and amounts over $25 for travel
      - [[https://citi.com/credit-cards/credit-card-details/citi.action?ID%3Dciti-double-cash-credit-card][Citi® Double Cash Card]]: 2% cash back on every purchase, redeemable in amounts over $25
+     - [[https://www.verizon.com/solutions-and-services/verizon-visa-card][Verizon Visa® Card]]: 4% cash back on grocery store and gas purchases if you made the mistake of choosing Verizon as your mobile carrier
      - [[https://www.navyfederal.org/loans-cards/credit-cards/more-rewards/][Navy Federal More Rewards American Express® Credit Card]]: 3% cash back on supermarkets, gas and transit, restaurants
      - [[https://www.americanexpress.com/us/credit-cards/card/blue-cash-everyday/][Blue Cash Everyday® Card]]: 3% cash back at U.S. supermarkets, on up to $6,000 per year in purchases (then 1%)
      - [[https://www.citi.com/credit-cards/credit-card-details/citi.action?ID%3DCiti-costco-anywhere-visa-credit-card][Costco Anywhere Visa®]]: 2% cash back on purchases from costco and Costco.com with a Costco membership
