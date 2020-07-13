@@ -3,6 +3,7 @@
 - [[https://www.howtogeek.com/206329/how-to-find-your-lost-windows-or-office-product-keys][How to Find Your Lost Windows or Office Product Keys]]
 - [[./keyboard.org][Keyboard Shortcuts]]
 - [[https://lukesmith.xyz][Luke Smith]]
+- [[https://videos.lukesmith.xyz][Luke Smith videos]]
 - [[https://www.youtube.com/channel/UC2eYFnH61tmytImy1mTYvhA][Luke Smith YouTube]]
 
 [[https://www.youtube.com/watch?v%3D7uLzaKlZSQQ]["The most important thing in programming is naming" - Terry A. Davis]]
