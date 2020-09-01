@@ -16,6 +16,8 @@
     1. Search [[https://spokeo.com][Spokeo]] for your profile URL
     2. Save your profile URL to later verify that it has been deleted
     3. Follow the instructions on https://www.spokeo.com/optout
+*** TruePeopleSearch
+    Follow the instructions on [[https://www.truepeoplesearch.com/removal]]
 *** Other
     https://www.reputationdefender.com/blog/privacy/how-remove-yourself-top-peoplesearch-sites has a list of opt-out procedures for common websites.
 *** Paid databases
