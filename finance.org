@@ -78,12 +78,13 @@
    - [[https://Fidelity.com][Fidelity]]: Very competitive investing, perfect tax strategy available
      - [[https://www.fidelity.com/mutual-funds/investing-ideas/index-funds][Zero expense ratio index mutual funds]], no fees for normal accounts
      - [[https://fundresearch.fidelity.com/mutual-funds/summary/316067107][FDRXX]] is their cheapest short term money market mutual fund and it's managed by the same people as most of their other short term money market funds
-   - [[https://m1.finance/Juu95Dr8lv3I][M1 Finance]]: Automatic rebalancing, excellent tax strategy with no annual fee
+   - [[https://m1.finance/Juu95Dr8lv3I][M1 Finance]]: Automatic rebalancing, excellent tax strategy with no annual fee. Only re-invests cash balances over $25 so has some inefficient drag
      - My Pies
-       - [[https://m1.finance/kBJD5zaffK4b][Short-Term Savings]]
-       - [[https://m1.finance/OwKnB4jFi0Sd][Taxable Investing]]
-   - [[https://www.betterment.com/?referral_key%3Devanmccarter][Betterment]]: Investing with automatic tax loss harvesting, goal-based accounts
-   - [[https://wealthfront.com/c/affiliates/invited/AFFA-RXMQ-8ZFA-ZXV3][Wealthfront]]: "Robo-advice"
+       - [[https://m1.finance/lp3zIzZORsuc][Short-Term Savings]]: Money to be used in 1-2 years
+       - [[https://m1.finance/KvibdCjtpsm0][Directed Investing]]: Money to be used in 6-10 years
+       - [[https://m1.finance/IJVP5zStLY6w][Long-Term Investing]]: Money to be used in over 10 years
+   - [[https://www.betterment.com/?referral_key%3Devanmccarter][Betterment]]: Investing with automatic tax loss harvesting, goal-based accounts. Management fees
+   - [[https://wealthfront.com/c/affiliates/invited/AFFA-RXMQ-8ZFA-ZXV3][Wealthfront]]: "Robo-advice". Management fees
    - [[http://schwab.com/public/schwab/nn/refer-prospect.html?refrid%3DREFER6YUV73ZF][Charles Schwab]]: Various order types
 ** Financial Data & Charting
    - [[https://www.morningstar.com][Morningstar]]: Third party advice and research company, gratuitous data on different funds and assets
