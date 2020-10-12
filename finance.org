@@ -127,7 +127,7 @@
 
   See the [[https://myfico.com][myFico]] links in [[Research]] for more information & sources
 
-  See [[https://creditwise.capitalone.com][Credit Wise from Capital One]], [[https://Nerdwallet.com][Nerdwallet]], or some [[YouTube%20Channels][YouTube Channels]] for credit card advice
+  See [[https://creditwise.capitalone.com][Credit Wise from Capital One]], [[https://Nerdwallet.com][Nerdwallet]], or some YouTube Channels for credit card advice
 ** Credit tracking
    You can use these sites to estimate your credit score in order to gauge when to apply for a better credit card while you're beginning to build credit. 
    However, these sites usually show a [[https://vantagescore.com][Vantage Score]] rather than a [[https://myfico.com][FICO]] [[https://ficoscore.com][score]], which weight categories differently, and most lenders use FICO scores. 
