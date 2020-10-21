@@ -14,8 +14,8 @@
 * Research
   - [[https://Investopedia.com][Investopedia]]: Definitions of financial terms & basic advice
   - [[https://Nerdwallet.com][Nerdwallet]]: Reviews & search functions for institutions & accounts
-    - [[https://nerdwallet.com/rates/savings-account?active_offers%3Dtrue&bank_type%3Dbank&bank_type%3Dcredit_union&bank_type%3Dinternet_bank&deposit_minimum%3D1&min_ratings%3D3&sort_key%3Dapy&sort_order%3Ddesc][High interest savings accounts]]
-    - [[https://nerdwallet.com/checking-accounts?account_features%3Dno_monthly_fee&active_offers%3Dtrue&bank_type%3Dbank&bank_type%3Dcredit_union&bank_type%3Dinternet_bank&checking_daily_balance%3D0&customer_type%3Deveryone&direct_deposit%3D0&sort_key%3Dmonthly_cost&sort_order%3Ddesc][Cheap checking accounts]]
+    - [[https://nerdwallet.com/rates/savings-account?active_offers=true&bank_type=bank&bank_type=credit_union&bank_type=internet_bank&deposit_minimum=1&min_ratings=3&sort_key=apy&sort_order=desc][High interest savings accounts]]
+    - [[https://nerdwallet.com/checking-accounts?account_features=no_monthly_fee&active_offers=true&bank_type=bank&bank_type=credit_union&bank_type=internet_bank&checking_daily_balance=0&customer_type=everyone&direct_deposit=0&sort_key=monthly_cost&sort_order=desc][Cheap checking accounts]]
     - [[https://nerdwallet.com/best/banking/savings-accounts][Best Savings Accounts]]
     - [[https://nerdwallet.com/best/banking/checking-accounts][Best Checking Accounts]]
     - [[https://nerdwallet.com/best/banking/money-market-accounts][Best Money Market Accounts]]
@@ -41,25 +41,25 @@
   - [[https://YouTube.com/user/whygoldandsilver][GoldSilver with Mike Maloney]]
   - [[https://YouTube.com/user/SchiffReport][Peter Schiff]]
 * YouTube Playlists
-  - [[https://YouTube.com/watch?v%3DatZJ4lU3IBE&list%3DPL21534875BFC50EEE][Rules About Investing For Beginners]]
-  - [[https://YouTube.com/watch?v%3DZFRReCL_lLw&list%3DPLdpkIg5_Ms4At-DZbPbkxujh2EGOnOu6H][Why Bother With Bonds]]
-  - [[https://YouTube.com/watch?v%3DKliNYvTasgg&list%3DPLJ1Tti2OGXsCHUCtlfnT2wUFShFdj1iHc][Robert Kiyosaki explains his philosophy: Income, Expenses, Assets, & Liabilities, Employee, Business, & Investor taxation]]
+  - [[https://YouTube.com/watch?v=atZJ4lU3IBE&list=PL21534875BFC50EEE][Rules About Investing For Beginners]]
+  - [[https://YouTube.com/watch?v=ZFRReCL_lLw&list=PLdpkIg5_Ms4At-DZbPbkxujh2EGOnOu6H][Why Bother With Bonds]]
+  - [[https://YouTube.com/watch?v=KliNYvTasgg&list=PLJ1Tti2OGXsCHUCtlfnT2wUFShFdj1iHc][Robert Kiyosaki explains his philosophy: Income, Expenses, Assets, & Liabilities, Employee, Business, & Investor taxation]]
 * Videos
-  - [[https://youtube.com/watch?v%3D1H6qE7eyLWk][Choosing The Entity That Best Fits Your Business Needs...]]
-  - [[https://youtube.com/watch?v%3DY6UNHyD9GSw][S-Corp or LLC - Which is Better? (By John M Miller, CPA)]]
-  - [[https://youtube.com/watch?v%3DFw5TEf-ggTA][C Corporations vs S Corporations Explained]]
-  - [[https://youtube.com/watch?v%3DrDrsofl-_xc][Should I incorporate as an LLC, S-, or C-corp? | WSGR Startup Basics]]
-  - [[https://YouTube.com/watch?v%3DMD71ryp39x0][Robert Kiyosaki: Protect and Cover Your ASSets with Corporations and Entities]]
-  - [[https://YouTube.com/watch?v%3DXdSp5GXbiE4][Protecting assets from legal settlements with LLCs: Proper Use of LLCs for Real Estate]]
-  - [[https://YouTube.com/watch?v%3Dul32Yf9KJB0&list%3DPL3FUah8ohZLyEGjh5I38MHL0Sl1fuzs13&index%3D15][Why You Should Use a Land Trust for Real Estate]]
-  - [[https://YouTube.com/watch?v%3DNNS8aWhNpS4&list%3DPL3FUah8ohZLyEGjh5I38MHL0Sl1fuzs13&index%3D14][What a land trust protects against: Purchasing Property With a Land Trust]]
-  - [[https://youtube.com/watch?v%3DCGvto4eWBHo][The ONLY Credit Cards You Need: 0-850 Credit Score]]
+  - [[https://youtube.com/watch?v=1H6qE7eyLWk][Choosing The Entity That Best Fits Your Business Needs...]]
+  - [[https://youtube.com/watch?v=Y6UNHyD9GSw][S-Corp or LLC - Which is Better? (By John M Miller, CPA)]]
+  - [[https://youtube.com/watch?v=Fw5TEf-ggTA][C Corporations vs S Corporations Explained]]
+  - [[https://youtube.com/watch?v=rDrsofl-_xc][Should I incorporate as an LLC, S-, or C-corp? | WSGR Startup Basics]]
+  - [[https://YouTube.com/watch?v=MD71ryp39x0][Robert Kiyosaki: Protect and Cover Your ASSets with Corporations and Entities]]
+  - [[https://YouTube.com/watch?v=XdSp5GXbiE4][Protecting assets from legal settlements with LLCs: Proper Use of LLCs for Real Estate]]
+  - [[https://YouTube.com/watch?v=ul32Yf9KJB0&list=PL3FUah8ohZLyEGjh5I38MHL0Sl1fuzs13&index=15][Why You Should Use a Land Trust for Real Estate]]
+  - [[https://YouTube.com/watch?v=NNS8aWhNpS4&list=PL3FUah8ohZLyEGjh5I38MHL0Sl1fuzs13&index=14][What a land trust protects against: Purchasing Property With a Land Trust]]
+  - [[https://youtube.com/watch?v=CGvto4eWBHo][The ONLY Credit Cards You Need: 0-850 Credit Score]]
 * Books
   These books are frequently available as audiobooks on YouTube & the authors may have channels, as well as physical or digital forms on Amazon or at your local library
   | Title                      | Author           |           ISBN |
   |----------------------------+------------------+----------------|
-  | [[https://YouTube.com/watch?v%3DgliZHyovI7c][Rich Dad Poor Dad]]          | [[https://YouTube.com/user/RDdotcom][Robert Kiyosaki]]  | 978-1612680170 |
-  | [[https://YouTube.com/watch?v%3DehCVLRHOxBY][The Richest Man in Babylon]] | George S. Clason | 978-1508524359 |
+  | [[https://YouTube.com/watch?v=gliZHyovI7c][Rich Dad Poor Dad]]          | [[https://YouTube.com/user/RDdotcom][Robert Kiyosaki]]  | 978-1612680170 |
+  | [[https://YouTube.com/watch?v=ehCVLRHOxBY][The Richest Man in Babylon]] | George S. Clason | 978-1508524359 |
   | The Total Money Makeover   | [[https://YouTube.com/user/DaveRamseyShow][Dave Ramsey]]      | 978-1595555274 |
   | Everyday Millionaires      | [[https://YouTube.com/user/ChrisHogan360][Chris Hogan]]      | 978-0977489527 |
 * Financial Institutions
@@ -69,12 +69,12 @@
    - [[https://T-MobileMoney.com][T-Mobile Money]]: High interest checking, especially for mobile customers
    - [[https://fidelity.com/cash-management/fidelity-cash-management-account/overview][Fidelity® Cash Management Account]]: Sweeps money into FDIC insured accounts at banks, providing high interest
    - [[https://capitalone.com/bank/checking-accounts/online-checking-account][Capital One]]: Bank with well above normal interest rates
-   - [[http://schwab.com/public/schwab/nn/refer-prospect.html?refrid%3DREFER6YUV73ZF][Charles Schwab]]: [[https://schwab.com/public/schwab/banking_lending/checking_account/][Schwab Bank High Yield Investor Checking® Account]]
-   - [[https://www.betterment.com/?referral_key%3Devanmccarter][Betterment]]: Sweeps money into FDIC insured accounts at banks, providing high interest, sweeps in unneeded cash. Also gives advice & graphs
+   - [[http://schwab.com/public/schwab/nn/refer-prospect.html?refrid=REFER6YUV73ZF][Charles Schwab]]: [[https://schwab.com/public/schwab/banking_lending/checking_account/][Schwab Bank High Yield Investor Checking® Account]]
+   - [[https://www.betterment.com/?referral_key=evanmccarter][Betterment]]: Sweeps money into FDIC insured accounts at banks, providing high interest, sweeps in unneeded cash. Also gives advice & graphs
    - [[https://wealthfront.com/c/affiliates/invited/AFFA-RXMQ-8ZFA-ZXV3][Wealthfront]]: Sweeps money into FDIC insured accounts at banks, providing high interest. Also gives advice & net worth tracking
    - [[https://Redneck.Bank][Redneck Bank]]: Highly competitive FDIC insured money market fund
 ** Investing
-   - [[https://Vanguard.com][Vanguard]]: [[https://www.youtube.com/watch?v%3DMLgn_kVKjCE][Especially competitive]] ETFs & Mutual Funds
+   - [[https://Vanguard.com][Vanguard]]: [[https://www.youtube.com/watch?v=MLgn_kVKjCE][Especially competitive]] ETFs & Mutual Funds
    - [[https://Fidelity.com][Fidelity]]: Very competitive investing, perfect tax strategy available
      - [[https://www.fidelity.com/mutual-funds/investing-ideas/index-funds][Zero expense ratio index mutual funds]], no fees for normal accounts
      - [[https://fundresearch.fidelity.com/mutual-funds/summary/316067107][FDRXX]] is their cheapest short term money market mutual fund and it's managed by the same people as most of their other short term money market funds
@@ -83,9 +83,9 @@
        - [[https://m1.finance/lp3zIzZORsuc][Short-Term Savings]]: Money to be used in 1-2 years
        - [[https://m1.finance/KvibdCjtpsm0][Directed Investing]]: Money to be used in 6-10 years
        - [[https://m1.finance/IJVP5zStLY6w][Long-Term Investing]]: Money to be used in over 10 years
-   - [[https://www.betterment.com/?referral_key%3Devanmccarter][Betterment]]: Investing with automatic tax loss harvesting, goal-based accounts. Management fees
+   - [[https://www.betterment.com/?referral_key=evanmccarter][Betterment]]: Investing with automatic tax loss harvesting, goal-based accounts. Management fees
    - [[https://wealthfront.com/c/affiliates/invited/AFFA-RXMQ-8ZFA-ZXV3][Wealthfront]]: "Robo-advice". Management fees
-   - [[http://schwab.com/public/schwab/nn/refer-prospect.html?refrid%3DREFER6YUV73ZF][Charles Schwab]]: Various order types
+   - [[http://schwab.com/public/schwab/nn/refer-prospect.html?refrid=REFER6YUV73ZF][Charles Schwab]]: Various order types
 ** Financial Data & Charting
    - [[https://www.morningstar.com][Morningstar]]: Third party advice and research company, gratuitous data on different funds and assets
    - [[https://finance.yahoo.com][Yahoo Finance]]: Good charts and indicators
@@ -106,10 +106,10 @@
   - [[https://www.discover.com/online-banking/checking/][DISCOVER Cashback Debit]]: 1% cash back on up to $3,000 in debit card purchases each month
 * Cash Back
   Retailers pay companies to advertize for them, and these companies offer cash back to users in return for acting on those advertizements
-  - [[https://rakuten.com/r/EVANMC99?eeid%3D28187][Rakuten]]: Automatically deposits money into PayPal or mails you a check
+  - [[https://rakuten.com/r/EVANMC99?eeid=28187][Rakuten]]: Automatically deposits money into PayPal or mails you a check
   - [[https://nerdwallet.com/home/dashboard/cash-back][Nerdwallet cash back]]
 * Credit
-  "[[https://YouTube.com/watch?v%3DDyV0OfU3-FU&list%3DPLE88E9ICdiphYjJkeeLL2O09eJoC8r7Dc&index%3D1][Gold is money]]. Everything [[https://YouTube.com/watch?v%3DCxHarNKW7Go][else]] is [[https://YouTube.com/watch?v%3DPHe0bXAIuk0][credit]]." - J. P. Morgan
+  "[[https://YouTube.com/watch?v=DyV0OfU3-FU&list=PLE88E9ICdiphYjJkeeLL2O09eJoC8r7Dc&index=1][Gold is money]]. Everything [[https://YouTube.com/watch?v=CxHarNKW7Go][else]] is [[https://YouTube.com/watch?v=PHe0bXAIuk0][credit]]." - J. P. Morgan
 
   Money maintains or increases its value (to you) over time, whereas currency is a medium of exchange but decreases in value over time. 
 
@@ -159,26 +159,26 @@
 **** Capital One
      [[https://cardrates.com/advice/how-many-capital-one-cards/][Capital One limits the number of directly issued cards available for any cardholder to two]]
 **** Premium companies
-     Companies such as [[https://youtube.com/watch?v%3DfJQD7mVK92w][Barclays]] supposedly won't issue credit cards to you if you don't use your existing credit cards from them or have too many total credit cards
+     Companies such as [[https://youtube.com/watch?v=fJQD7mVK92w][Barclays]] supposedly won't issue credit cards to you if you don't use your existing credit cards from them or have too many total credit cards
 **** American Express
      American Express supposedly limits the total number of cards you can have from them to 4-5, [[https://millionmilesecrets.com/guides/maximum-number-of-american-express-cards-you-can-have/][but this may have changed]]
 *** High cash back, no annual fee
 **** Chase
      - [[https://creditcards.chase.com/small-business-credit-cards/ink-cash][Ink Business Cash credit card]]: 5% cash back on office supply stores; internet, cable, and phone services from Chase. Application asks for "Annual business revenue"
-     - [[https://chase.com/personal/credit-cards/amazon][Amazon Rewards Visa Signature Cards]]: 3%-5% back on [[https://amazon.com/gp/cobrandcard?&plattr%3DChaseMS][Amazon.com]] from Chase
+     - [[https://chase.com/personal/credit-cards/amazon][Amazon Rewards Visa Signature Cards]]: 3%-5% back on [[https://amazon.com/gp/cobrandcard?&plattr=ChaseMS][Amazon.com]] from Chase
      - [[https://creditcards.chase.com/cash-back-credit-cards/aarp][AARP® Credit Card]]: 3% Cash Back rewards on purchases at gas stations and restaurants. [[https://www.thebalance.com/aarp-credit-card-review-4767910][Points are worth more when redeemed for travel through Chase, AARP donates to charity for restaurant purchases, you don’t have to be an AARP member to take advantage of this card]]
      - [[https://creditcards.chase.com/cash-back-credit-cards/chase-freedom][Chase Freedom credit card]]: 5% cash back in quarterly bonus categories from Chase
 **** Best in class
      - [[https://www.paypal.com/us/webapps/mpp/credit-card/2-percent-cash-back-mastercard][PayPal Cashback Mastercard®]]: 2% cash back redeemable *in cash* to your bank account
      - [[https://fidelity.com/cash-management/visa-signature-card][Fidelity® Rewards Visa Signature® Card]]: 2% cash back *automatically redeemable* *in cash* in amounts over $50 to eligible Fidelity account(s), including most non-retirement registrations, and amounts over $25 for travel
-     - [[https://citi.com/credit-cards/credit-card-details/citi.action?ID%3Dciti-double-cash-credit-card][Citi® Double Cash Card]]: 2% cash back on every purchase, redeemable in amounts over $25
+     - [[https://citi.com/credit-cards/credit-card-details/citi.action?ID=citi-double-cash-credit-card][Citi® Double Cash Card]]: 2% cash back on every purchase, redeemable in amounts over $25
      - [[https://www.verizon.com/solutions-and-services/verizon-visa-card][Verizon Visa® Card]]: 4% cash back on grocery store and gas purchases if you made the mistake of choosing Verizon as your mobile carrier
      - [[https://www.navyfederal.org/loans-cards/credit-cards/more-rewards/][Navy Federal More Rewards American Express® Credit Card]]: 3% cash back on supermarkets, gas and transit, restaurants
      - [[https://www.americanexpress.com/us/credit-cards/card/blue-cash-everyday/][Blue Cash Everyday® Card]]: 3% cash back at U.S. supermarkets, on up to $6,000 per year in purchases (then 1%)
-     - [[https://www.citi.com/credit-cards/credit-card-details/citi.action?ID%3DCiti-costco-anywhere-visa-credit-card][Costco Anywhere Visa®]]: 2% cash back on purchases from Costco and Costco.com with a Costco membership
+     - [[https://www.citi.com/credit-cards/credit-card-details/citi.action?ID=Citi-costco-anywhere-visa-credit-card][Costco Anywhere Visa®]]: 2% cash back on purchases from Costco and Costco.com with a Costco membership
      - [[https://www.usbank.com/credit-cards/cash-plus-visa-signature-credit-card.html][U.S. Bank cash+ Visa Signature Card]]: 5% cash back on any two of utilities, internet, or phone service bills
      - [[https://bankofamerica.com/credit-cards/products/cash-back-credit-card/][Bank of America® Cash Rewards Credit Card]] & [[https://www.bankofamerica.com/credit-cards/products/student-cash-back-credit-card/][Bank of America® Cash Rewards Credit Card for Students]]: 3% cash back on drug stores (EG CVS, Walgreens) or home improvement / furnishings (EG IKEA, Lowes, Home Depot) or travel (EG E-Zpass, Airbnb, Uber, Delta airlines)
-     - [[https://www.samsclub.com/sams/pagedetails/content.jsp?pageName%3Dcredit][Sam's Club® Mastercard®]]: 3% cash back on dining & travel. 5% cash back on gas (on the first $6,000 per year, then 1% after). Maximum of $5,000 in Cash Back rewards can be earned in a calendar year. Cash back rewards are forfeited if the Cash Back earned in a calendar year is less than $5.00. Cash back rewards will be *automatically* loaded onto your Sam's Club membership and may be redeemed only at a Sam's Club location or at SamsClub.com
+     - [[https://www.samsclub.com/sams/pagedetails/content.jsp?pageName=credit][Sam's Club® Mastercard®]]: 3% cash back on dining & travel. 5% cash back on gas (on the first $6,000 per year, then 1% after). Maximum of $5,000 in Cash Back rewards can be earned in a calendar year. Cash back rewards are forfeited if the Cash Back earned in a calendar year is less than $5.00. Cash back rewards will be *automatically* loaded onto your Sam's Club membership and may be redeemed only at a Sam's Club location or at SamsClub.com
      - [[https://www.pnc.com/en/personal-banking/banking/credit-cards/pnc-cash-rewards-visa-credit-card.html][PNC Cash Rewards Visa credit card]]: 4% cash back on gas & 3% cash back on restaurants
      - [[https://oldnavy.gap.com/products/old-navy-credit-card.jsp][Old Navy credit card]]: 5% back at Old Navy
      - [[https://pages.ebay.com/creditcard][eBay Mastercard]]: [[https://www.thebalance.com/ebay-mastercard-credit-card-review-4779110][Between 2% and 3.333% cash back on eBay.com. Points expire after 24 months or 12 months without using the card]]
@@ -187,8 +187,8 @@
      - [[https://wellsfargo.com/credit-cards/propel][Wells Fargo Propel American Express® Card]]: 3% cash back on Eating out and ordering in; Gas stations, rideshares, and transit; Flights, hotels, homestays, and car rentals; "Popular streaming services" (Apple Music®, Hulu, Netflix, Pandora®, Sirius XM Radio Inc., Spotify Premium)
 **** Runners-up
      - [[https://www.bbt.com/banking/credit-cards/spectrum-cash-rewards.html][BB&T Spectrum Cash Rewards Credit Card]]: 3% cash back on gas, 2% cash back on utilities and groceries, 10% bonus cash when you redeem rewards into your BB&T checking or savings account. Monthly cap of $1,000 on spend at the bonus rates
-     - [[https://online1.elancard.com/oad/learnMoreCorrespondent.controller?locationCode%3D4619&offerId%3D3HMQ87X79G&preparerType%3Dcustomer][NBKC Bank Cash Rewards American Express® Card]]: 3% cash back on the first $6,000 in eligible net purchases made each year at gas stations, 2% cash back on supermarket net purchases
-     - [[https://online1.elancard.com/oad/learnMoreCorrespondent.controller?locationCode%3D4619&offerId%3DVXXP9BHM3H&preparerType%3Dcustomer][NBKC Bank Visa® Business Cash Card]]: 3% cash back on all eligible net purchases from office supply stores and cellular phone, landline, internet and cable TV services, 2% cash back on restaurant and gas station eligible net purchases
+     - [[https://online1.elancard.com/oad/learnMoreCorrespondent.controller?locationCode=4619&offerId=3HMQ87X79G&preparerType=customer][NBKC Bank Cash Rewards American Express® Card]]: 3% cash back on the first $6,000 in eligible net purchases made each year at gas stations, 2% cash back on supermarket net purchases
+     - [[https://online1.elancard.com/oad/learnMoreCorrespondent.controller?locationCode=4619&offerId=VXXP9BHM3H&preparerType=customer][NBKC Bank Visa® Business Cash Card]]: 3% cash back on all eligible net purchases from office supply stores and cellular phone, landline, internet and cable TV services, 2% cash back on restaurant and gas station eligible net purchases
      - [[https://www.td.com/us/en/personal-banking/credit-cards/cash-card/][TD Cash Credit Card]]: 3% cash back on dining and 2% cash back on groceries
      - [[https://www.navyfederal.org/loans-cards/credit-cards/go-rewards/][Navy Federal GO REWARDS® Credit Card]]: 3% cash back at restaurants, 2% cash back on gas
      - [[https://www.discover.com/credit-cards/][Every Discover credit card]]
@@ -215,11 +215,11 @@
   which means that the company that issues them gets to enjoy the interest on unused currency. 
 
   Take advantage of how worthless gift cards are by buying them for 15%-50% off: 
-  - [[https://paxful.com/?r%3D9LrQJa48GkK][Paxful]]: Trade Bitcoin for gift cards for up to 50% off
+  - [[https://paxful.com/?r=9LrQJa48GkK][Paxful]]: Trade Bitcoin for gift cards for up to 50% off
     - Read the [[https://paxful.com/support/en-us/articles/360014037113-Safety-tips][safety tips]] before trading
     - Don't release Bitcoin from escrow before you get paid and you're happy with the transaction! 
     - Consider [[https://paxful.com/account/verification][getting verified]] to gain access to higher quality sellers
-  - [[https://app.purse.io/?_r%3Devanmcc][Purse]]: Trade Bitcoin for Amazon items for [[https://support.purse.io/en/articles/1670633-shopper-levels-and-limits][up to 33% Off]]
+  - [[https://app.purse.io/?_r=evanmcc][Purse]]: Trade Bitcoin for Amazon items for [[https://support.purse.io/en/articles/1670633-shopper-levels-and-limits][up to 33% Off]]
 * Corporations
   A Limited Liability Company (LLC) can assist you in lawsuits. 
   If an LLC is sued, only the assets owned by the LLC are at risk. 

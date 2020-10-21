@@ -1,11 +1,11 @@
 #+TITLE: Philosophy Resources
 * Videos
   - [[https://www.youtube.com/user/JordanPetersonVideos][Jordan B. Peterson]]
-    - [[https://www.youtube.com/watch?v%3Df-wWBGo6a2w&list%3DPL22J3VaeABQD_IZs7y60I3lUrrFTzkpat][Discovering how to live a good Life through biblical analysis]]
+    - [[https://www.youtube.com/watch?v=f-wWBGo6a2w&list=PL22J3VaeABQD_IZs7y60I3lUrrFTzkpat][Discovering how to live a good Life through biblical analysis]]
   - [[https://www.youtube.com/user/stefbot][Stefan Molyneux]]
-  - [[https://www.youtube.com/watch?v%3DBNYJQaZUDrI&list%3DPL8dPuuaLjXtNgK6MZucdYldNkMybYIHKR&index%3D1][CrashCourse Philosophy playlist]]
+  - [[https://www.youtube.com/watch?v=BNYJQaZUDrI&list=PL8dPuuaLjXtNgK6MZucdYldNkMybYIHKR&index=1][CrashCourse Philosophy playlist]]
 * Books
   These books are frequently available as audiobooks on YouTube & the authors may have channels, as well as physical or digital forms on Amazon or at your local library
   | Title                      | Author           |           ISBN |
   |----------------------------+------------------+----------------|
-  | [[https://YouTube.com/watch?v%3DZUbfskQ-GAY][Think and Grow Rich]]        | Napoleon Hill    | 978-1585424337 |
+  | [[https://YouTube.com/watch?v=ZUbfskQ-GAY][Think and Grow Rich]]        | Napoleon Hill    | 978-1585424337 |

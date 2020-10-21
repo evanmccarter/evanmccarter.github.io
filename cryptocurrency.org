@@ -7,7 +7,7 @@
 * Trade
   Buy and exchange
   - [[https://kraken.6pbw6j.net/akxRN][Kraken]]: Low fees
-  - [[https://binance.com/en/register?ref%3DFRFFEK6D][Binance]]: Low fees but no fiat
+  - [[https://binance.com/en/register?ref=FRFFEK6D][Binance]]: Low fees but no fiat
   - [[https://shapeshift.io][Shapeshift]]: Fast and broad selection
 * Chart
   Sophisticated indicators
@@ -20,11 +20,11 @@
   - [[https://coinbase.com/join/emccarter][Coinbase]]
 * Sell
   Get more for each coin
-  - [[https://paxful.com/?r%3D9LrQJa48GkK][Paxful]]: Trade Bitcoin for gift cards for up to 50% off
+  - [[https://paxful.com/?r=9LrQJa48GkK][Paxful]]: Trade Bitcoin for gift cards for up to 50% off
     - Read the [[https://paxful.com/support/en-us/articles/360014037113-Safety-tips][safety tips]] before trading
     - Don't release Bitcoin from escrow before you get paid and you're happy with the transaction! 
     - Consider [[https://paxful.com/account/verification][getting verified]] to gain access to higher quality sellers
-  - [[https://app.purse.io/?_r%3Devanmcc][Purse]]: Trade Bitcoin for Amazon items for [[https://support.purse.io/en/articles/1670633-shopper-levels-and-limits][up to 33% Off]]
+  - [[https://app.purse.io/?_r=evanmcc][Purse]]: Trade Bitcoin for Amazon items for [[https://support.purse.io/en/articles/1670633-shopper-levels-and-limits][up to 33% Off]]
 * Mine
   Participate at the fundamental level
   - [[https://multipool.us][Multipool]]
@@ -40,5 +40,5 @@
   - [[https://coinwebmining.com][Coin Web Mining]]
 * Donate
   Send me money!
-  - [[bitcoin:1AvUUbf6BNBmEiXweaaM5emL6YvcnK6gz1][Bitcoin]]: 1AvUUbf6BNBmEiXweaaM5emL6YvcnK6gz1
-  - [[monero:4GdoN7NCTi8a5gZug7PrwZNKjvHFmKeV11L6pNJPgj5QNEHsN6eeX3DaAQFwZ1ufD4LYCZKArktt113W7QjWvQ7CW9KjsUmB8q6RPa5mWh][Monero]]: 4GdoN7NCTi8a5gZug7PrwZNKjvHFmKeV11L6pNJPgj5QNEHsN6eeX3DaAQFwZ1ufD4LYCZKArktt113W7QjWvQ7CW9KjsUmB8q6RPa5mWh
+  - Bitcoin: 1AvUUbf6BNBmEiXweaaM5emL6YvcnK6gz1
+  - Monero: 4GdoN7NCTi8a5gZug7PrwZNKjvHFmKeV11L6pNJPgj5QNEHsN6eeX3DaAQFwZ1ufD4LYCZKArktt113W7QjWvQ7CW9KjsUmB8q6RPa5mWh
