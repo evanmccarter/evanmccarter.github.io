@@ -166,7 +166,6 @@
 **** Chase
      - [[https://creditcards.chase.com/small-business-credit-cards/ink-cash][Ink Business Cash credit card]]: 5% cash back on office supply stores; internet, cable, and phone services from Chase. Application asks for "Annual business revenue"
      - [[https://chase.com/personal/credit-cards/amazon][Amazon Rewards Visa Signature Cards]]: 3%-5% back on [[https://amazon.com/gp/cobrandcard?&plattr=ChaseMS][Amazon.com]] from Chase
-     - [[https://creditcards.chase.com/cash-back-credit-cards/aarp][AARP® Credit Card]]: 3% Cash Back rewards on purchases at gas stations and restaurants. [[https://www.thebalance.com/aarp-credit-card-review-4767910][Points are worth more when redeemed for travel through Chase, AARP donates to charity for restaurant purchases, you don’t have to be an AARP member to take advantage of this card]]
      - [[https://creditcards.chase.com/cash-back-credit-cards/chase-freedom][Chase Freedom credit card]]: 5% cash back in quarterly bonus categories from Chase
 **** Best in class
      - [[https://www.paypal.com/us/webapps/mpp/credit-card/2-percent-cash-back-mastercard][PayPal Cashback Mastercard®]]: 2% cash back redeemable *in cash* to your bank account
