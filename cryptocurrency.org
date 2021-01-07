@@ -9,7 +9,7 @@
   Buy and exchange
   - [[https://kraken.6pbw6j.net/akxRN][Kraken]]: Low fees
   - [[https://binance.com/en/register?ref=FRFFEK6D][Binance]]: Low fees but no fiat
-  - [[https://shapeshift.io][Shapeshift]]: Fast and broad selection
+  - [[https://auth.shapeshift.com/signup?af=dBrmtCmkX7Wk9gg9][Shapeshift]]: Fast and broad selection
 * Chart
   Sophisticated indicators
   - [[https://finance.yahoo.com][Yahoo Finance]]
