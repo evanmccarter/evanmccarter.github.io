@@ -15,6 +15,7 @@
   - [[https://tradingview.com][TradingView]]
   - [[https://bitcoincharts.com][Bitcoincharts]]
   - [[https://cryptowat.ch][Cryptowatch]]
+  - [[https://coinmarketcap.com][Coin Market Cap]]
 * Manage
   Automate transfers
   - [[https://coinbase.com/join/emccarter][Coinbase]]
