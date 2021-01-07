@@ -3,6 +3,7 @@
   Wallets
   - [[https://electrum.org][Electrum]]: Desktop
   - [[https://blockchain.com][Blockchain]]: Web
+  - [[https://github.com/monero-project/monero-gui][monero-gui]]: Wallet referenced by [[https://getmonero.org][the official monero website]]
   - [[https://mymonero.com][MyMonero]]: Web (& Desktop)
 * Trade
   Buy and exchange
