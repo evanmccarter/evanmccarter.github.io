@@ -219,6 +219,18 @@
     - Don't release Bitcoin from escrow before you get paid and you're happy with the transaction! 
     - Consider [[https://paxful.com/account/verification][getting verified]] to gain access to higher quality sellers
   - [[https://app.purse.io/?_r=evanmcc][Purse]]: Trade Bitcoin for Amazon items for [[https://support.purse.io/en/articles/1670633-shopper-levels-and-limits][up to 33% Off]]
+* Mobile Internet
+  I value basic mobile data above all else, 
+  as it's much more secure than the Public Switched Telephone Network 
+  and more flexible to send an email than an SMS message, 
+  plus you get web and streaming access. 
+
+  These providers have unlimited 2G mobile data for as low as $15 per month! 
+  - [[https://www.unrealmobile.com/?rfsn=5384968.64bd6a][Unreal Mobile]]: $15/month plan. GSM only
+  - [[https://www.redpocket.com/?rfsn=5384968.64bd6a][Red Pocket]]: $20/month plan. GSM and CDMA
+
+  [[https://www.freedompop.com/?rfsn=5384968.64bd6a][FreedomPop]] has a free plan but automatically charges $8 for data overage and $10 for a SIM card. Maybe useful as a backup. 
+  Only 10 minutes of talk & 10 texts: truly basic. GSM only
 * Corporations
   A Limited Liability Company (LLC) can assist you in lawsuits. 
   If an LLC is sued, only the assets owned by the LLC are at risk. 
