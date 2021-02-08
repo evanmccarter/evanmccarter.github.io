@@ -205,9 +205,9 @@
     - [[https://discover.com/credit-cards/secured/][Discover it® Secured]]: Cash back even on a secured card
     - [[https://capitalone.com/credit-cards/secured-mastercard/][Secured Mastercard® from Capital One®]]: Low fees and some perks
 * Gift Cards
-  Gift cards are less fungible than cash or bank credit. 
-  Gift cards are tied to a single store; 
-  this restriction is actually so limiting that that they can be purchased at a 15%-50% discount: 
+  Gift cards are less fungible than cash or bank credit: 
+  they are tied to a single store. 
+  This restriction is actually so limiting that that they can be purchased at a 15%-50% discount: 
   People would rather trade gift cards for half their value in cash in order to gain the ability to spend that cash in more than one place. 
   Prepaid debit cards are more fungible, but cards cost a fixed fee to open and some vendors charge 3%+ to process credit/debit transactions. 
   Both these types of cards don't earn interest while they hold any value, 
