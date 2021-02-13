@@ -8,9 +8,13 @@
   - [[https://mymonero.com][MyMonero]]: Web (& Desktop)
 * Trade
   Buy and exchange
-  - [[https://kraken.6pbw6j.net/akxRN][Kraken]]: Low fees
-  - [[https://binance.com/en/register?ref=FRFFEK6D][Binance]]: Low fees but no fiat
-  - [[https://auth.shapeshift.com/signup?af=dBrmtCmkX7Wk9gg9][Shapeshift]]: Fast and broad selection
+  - Fiat capable
+    - [[https://ledgerx.com][LedgerX]]: Fixed fees, Bitcoin only, delayed custody for up to 24 hours
+    - [[https://kraken.6pbw6j.net/akxRN][Kraken]]: Percentage fees
+  - Cryptocurrency only
+    - [[https://binance.com/en/register?ref=FRFFEK6D][Binance]]: Lower percentage fees
+    - [[https://auth.shapeshift.com/signup?af=dBrmtCmkX7Wk9gg9][Shapeshift]]: Fast, rewards program
+    - [[https://fixedfloat.com/BTC/XMR?ref=e49tpvpb][FixedFloat]]: Fast, no registration needed
 * Chart
   Sophisticated indicators
   - [[https://finance.yahoo.com][Yahoo Finance]]
