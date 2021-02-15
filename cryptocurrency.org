@@ -47,5 +47,5 @@
   - [[https://coinwebmining.com][Coin Web Mining]]
 * Donate
   Send me money!
-  - Bitcoin: 1AvUUbf6BNBmEiXweaaM5emL6YvcnK6gz1
-  - Monero: 4GdoN7NCTi8a5gZug7PrwZNKjvHFmKeV11L6pNJPgj5QNEHsN6eeX3DaAQFwZ1ufD4LYCZKArktt113W7QjWvQ7CW9KjsUmB8q6RPa5mWh
+  - Bitcoin: 3Fa7ZpwmcGgBsGj8nTD8NURUDfDoXnSxAv
+  - Monero: 84knYMah9LHY61SZU9hA8cYqSSno9hWBLjKxvi9qtm3dRUqpLyYyEDqFVHd35GDMDt9vA3qTSiTnp7pGCeeFV4t553UaXUo
