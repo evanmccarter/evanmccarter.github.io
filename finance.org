@@ -80,9 +80,9 @@
      - [[https://fundresearch.fidelity.com/mutual-funds/summary/316067107][FDRXX]] is their cheapest short term money market mutual fund and it's managed by the same people as most of their other short term money market funds
    - [[https://m1.finance/Juu95Dr8lv3I][M1 Finance]]: Automatic rebalancing, excellent tax strategy with no annual fee. Only re-invests cash balances over $25 so has some inefficient drag
      - My Pies
-       - [[https://m1.finance/lp3zIzZORsuc][Short-Term Savings]]: Money to be used in 1-2 years
-       - [[https://m1.finance/KvibdCjtpsm0][Directed Investing]]: Money to be used in 6-10 years
-       - [[https://m1.finance/IJVP5zStLY6w][Long-Term Investing]]: Money to be used in over 10 years
+       - [[https://m1.finance/GcCcYmyr2TYc][Savings]]: Money to be used in 1-2 years or in a lump sum
+       - [[https://m1.finance/W5oQTZGwT8_l][Income]]: Money to be used in 6-12 years or withdrawn from at a constant rate
+       - [[https://m1.finance/IB1Ar4dfGb0H][Long-Term Growth]]: Money to be used in over 12 years
    - [[https://www.betterment.com/?referral_key=evanmccarter][Betterment]]: Investing with automatic tax loss harvesting, goal-based accounts. Management fees
    - [[https://wealthfront.com/c/affiliates/invited/AFFA-RXMQ-8ZFA-ZXV3][Wealthfront]]: "Robo-advice". Management fees
    - [[http://schwab.com/public/schwab/nn/refer-prospect.html?refrid=REFER6YUV73ZF][Charles Schwab]]: Various order types
