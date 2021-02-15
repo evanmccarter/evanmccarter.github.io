@@ -1,7 +1,11 @@
 #+TITLE: Cryptocurrency Resources
 * Advice
+  - [[https://bitcoin.org][Bitcoin.org]]: The original Bitcoin domain handed down through the ages. Has a good [[https://bitcoin.org/en/choose-your-wallet][wallet chooser]] that outlines the advantages and disadvantages of each
+  - [[https://bitcointalk.org][Original Bitcoin forum]]: Primary announcement vector for transparent projects, lots of historical activity
   - [[https://aantonop.com][Andreas M. Antonopoulos]]: Originally got me to buy in by dollar-cost-average
-  - [[https://bitcoin.org][bitcoin.org]]: The original bitcoin domain handed down through the ages. Has a good [[https://bitcoin.org/en/choose-your-wallet][wallet chooser]] that outlines the advantages and disadvantages of each
+  - Wikis
+    - [[https://bitcoinwiki.org][BitcoinWiki.org]]
+    - [[https://bitcoin.it][Bitcoin.it]]
 * Store
   Wallets
   - [[https://trezor.io/][Trezor]]: Hardware libre
