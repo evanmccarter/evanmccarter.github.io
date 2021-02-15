@@ -1,4 +1,7 @@
 #+TITLE: Cryptocurrency Resources
+* Advice
+  - [[https://aantonop.com][Andreas M. Antonopoulos]]: Originally got me to buy in by dollar-cost-average
+  - [[https://bitcoin.org][bitcoin.org]]: The original bitcoin domain handed down through the ages. Has a good [[https://bitcoin.org/en/choose-your-wallet][wallet chooser]] that outlines the advantages and disadvantages of each
 * Store
   Wallets
   - [[https://trezor.io/][Trezor]]: Hardware libre
