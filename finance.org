@@ -217,6 +217,15 @@
     
     - [[https://discover.com/credit-cards/secured/][Discover it® Secured]]: Cash back even on a secured card
     - [[https://capitalone.com/credit-cards/secured-mastercard/][Secured Mastercard® from Capital One®]]: Low fees and some perks
+*** Opt in to the fast lane
+    [[optoutprescreen.com]] lets you opt out of credit card offers in the mail. 
+    However, there's a reason to opt IN to offers: 
+    these pre-approval offers may not create a credit inquiry on your credit report if you use them to apply for the credit card / product. 
+    Therefore, you could apply for dozens at once and suffer no negative credit impacts. 
+    The determining factor is supposedly whether or not you have to enter your full social security number when applying: 
+    if the form only asks for the final 4 digits of your SSN, that's a sign it may come at no cost to your credit to apply. 
+    
+    Valuable issuers like Chase are still likely to count these new credit lines against you, so this is more of an advanced strategy. 
 * Gift Cards
   Gift cards are less fungible than cash or bank credit: 
   they are tied to a single store. 
