@@ -207,6 +207,9 @@
 *** Secured
     Secured credit cards require a security deposit in order to open the account, usually equal to the credit limit you get. 
     However, this makes it extremely likely that you'll get approved for any that you apply for. 
+    Good issuers will refund the security deposit and upgrade you to a standard card after 6-12 months of timely payments. 
+    
+    Many issuers charge outrageous recurring or one-time fees, but there are some with good fee schedules. 
     
     Nerdwallet has a [[https://nerdwallet.com/best/credit-cards/secured][list of the best secured credit cards]]
     
