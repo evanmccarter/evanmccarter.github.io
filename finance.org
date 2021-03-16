@@ -225,7 +225,9 @@
     The determining factor is supposedly whether or not you have to enter your full social security number when applying: 
     if the form only asks for the final 4 digits of your SSN, that's a sign it may come at no cost to your credit to apply. 
     
-    Valuable issuers like Chase are still likely to count these new credit lines against you, so this is more of an advanced strategy. 
+    Valuable issuers like Chase are still likely to count these new credit lines against you, 
+    and credit issuers reserve the right to deny your application if your credit report changes between when they send the offer and you actually apply, 
+    so this is more of an advanced strategy. 
 * Gift Cards
   Gift cards are less fungible than cash or bank credit: 
   they are tied to a single store. 
