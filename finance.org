@@ -206,10 +206,12 @@
     - [[https://creditcards.chase.com/sapphire-credit-cards][Chase Sapphire Preferred® credit card]]: 2% points on travel and dining, [[https://thepointsguy.com/guide/reasons-to-get-chase-sapphire-preferred/][points are worth more than 1.25 cents]], $95 annual fee
 *** Secured
     Secured credit cards require a security deposit in order to open the account, usually equal to the credit limit you get. 
-    However, this makes it extremely likely that you'll get approved for any that you apply for. 
+    However, this makes it extremely likely that you'll get approved for any that you apply for, 
+    allowing you to build credit history if you're rejected from all other products. 
     Good issuers will refund the security deposit and upgrade you to a standard card after 6-12 months of timely payments. 
     
     Many issuers charge outrageous recurring or one-time fees, but there are some with good fee schedules. 
+    The security deposit is onerous enough, there's no reason to pay more! 
     
     Nerdwallet has a [[https://nerdwallet.com/best/credit-cards/secured][list of the best secured credit cards]]
     
