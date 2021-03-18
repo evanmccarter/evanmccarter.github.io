@@ -65,19 +65,20 @@
 * Financial Institutions
 ** Banking
    - [[https://fidelity.com/go/cash-value][Fidelity Government Money Market Fund]]: Tracks risk-free rate of return by investing in short-term debt securities with low credit risk. When interest rates rise, those higher rates typically pass through to money market funds quickly, but not FDIC insured: SIPC (Securities Investor Protection Corporation) insured against brokerage (Fidelity) bankruptcy, not asset depreciation
-   - [[https://nbkc.com][NBKC]]: High interest checking. Also provides budgeting & net worth tracking tools
-   - [[https://T-MobileMoney.com][T-Mobile Money]]: High interest checking, especially for mobile customers
    - [[https://fidelity.com/cash-management/fidelity-cash-management-account/overview][Fidelity® Cash Management Account]]: Sweeps money into FDIC insured accounts at banks, providing high interest
-   - [[https://capitalone.com/bank/checking-accounts/online-checking-account][Capital One]]: Bank with well above normal interest rates
+   - [[https://marcus.com/share/EVA-QJE-BEJZ][Marcus by Goldman Sachs]]: No wire transfer fees
+   - [[https://nbkc.com][NBKC]]: Provides budgeting & net worth tracking tools
+   - [[https://Redneck.Bank][Redneck Bank]]: Highly competitive FDIC insured money market fund
+   - [[https://T-MobileMoney.com][T-Mobile Money]]: High interest checking, especially for mobile customers
    - [[http://schwab.com/public/schwab/nn/refer-prospect.html?refrid=REFER6YUV73ZF][Charles Schwab]]: [[https://schwab.com/public/schwab/banking_lending/checking_account/][Schwab Bank High Yield Investor Checking® Account]]
+   - [[https://capitalone.com/bank/checking-accounts/online-checking-account][Capital One]]: Easy to use high interest checking
    - [[https://www.betterment.com/?referral_key=evanmccarter][Betterment]]: Sweeps money into FDIC insured accounts at banks, providing high interest, sweeps in unneeded cash. Also gives advice & graphs
    - [[https://wealthfront.com/c/affiliates/invited/AFFA-RXMQ-8ZFA-ZXV3][Wealthfront]]: Sweeps money into FDIC insured accounts at banks, providing high interest. Also gives advice & net worth tracking
-   - [[https://Redneck.Bank][Redneck Bank]]: Highly competitive FDIC insured money market fund
 ** Investing
-   - [[https://Vanguard.com][Vanguard]]: [[https://www.youtube.com/watch?v=MLgn_kVKjCE][Especially competitive]] ETFs & Mutual Funds
    - [[https://Fidelity.com][Fidelity]]: Very competitive investing, perfect tax strategy available
      - [[https://www.fidelity.com/mutual-funds/investing-ideas/index-funds][Zero expense ratio index mutual funds]], no fees for normal accounts
      - [[https://fundresearch.fidelity.com/mutual-funds/summary/316067107][FDRXX]] is their cheapest short term money market mutual fund and it's managed by the same people as most of their other short term money market funds
+   - [[https://Vanguard.com][Vanguard]]: [[https://www.youtube.com/watch?v=MLgn_kVKjCE][Especially competitive]] ETFs & Mutual Funds
    - [[https://m1.finance/Juu95Dr8lv3I][M1 Finance]]: Automatic rebalancing, excellent tax strategy with no annual fee. Only re-invests cash balances over $25 so has some inefficient drag
      - My Pies
        - [[https://m1.finance/GcCcYmyr2TYc][Savings]]: Money to be used in 1-2 years or in a lump sum
