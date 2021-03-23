@@ -57,6 +57,6 @@
   - [[https://coinwebmining.com][Coin Web Mining]]
 * Donate
   Send me money!
-  - Bitcoin: 3EbU654ra7zNJNAut38pcPaJkAqMdW99kn
-  - Monero: 84knYMah9LHY61SZU9hA8cYqSSno9hWBLjKxvi9qtm3dRUqpLyYyEDqFVHd35GDMDt9vA3qTSiTnp7pGCeeFV4t553UaXUo
-  - Cardano: addr1q99v5s4uunaltd0t9w7dz5l5xqhctxly3f080wwyfw7dmpaake2nc3jyanlyu7tup0vtg6cjs5te8nvwzgte7yxs7uvs3dhcmg
+  - bitcoin:3EbU654ra7zNJNAut38pcPaJkAqMdW99kn
+  - monero:84knYMah9LHY61SZU9hA8cYqSSno9hWBLjKxvi9qtm3dRUqpLyYyEDqFVHd35GDMDt9vA3qTSiTnp7pGCeeFV4t553UaXUo
+  - web+cardano:addr1q99v5s4uunaltd0t9w7dz5l5xqhctxly3f080wwyfw7dmpaake2nc3jyanlyu7tup0vtg6cjs5te8nvwzgte7yxs7uvs3dhcmg
