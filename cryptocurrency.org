@@ -23,7 +23,7 @@
     - [[https://ledgerx.com][LedgerX]]: Fixed fees, Bitcoin only, delayed custody for up to 24 hours
     - [[https://kraken.6pbw6j.net/akxRN][Kraken]]: Percentage fees
   - Cryptocurrency only
-    - [[https://binance.com/en/register?ref=FRFFEK6D][Binance]]: Lower percentage fees
+    - [[https://www.binance.com/en/register?ref=BATB6H50][Binance]]: Lower percentage fees
     - [[https://auth.shapeshift.com/signup?af=dBrmtCmkX7Wk9gg9][Shapeshift]]: Fast, rewards program
     - [[https://fixedfloat.com/BTC/XMR?ref=e49tpvpb][FixedFloat]]: Fast, no registration needed
 * Chart
