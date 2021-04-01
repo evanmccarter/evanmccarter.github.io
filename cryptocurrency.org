@@ -26,6 +26,7 @@
     - [[https://www.binance.com/en/register?ref=BATB6H50][Binance]]: Lower percentage fees, US persons banned but works for non-US IPs
     - [[https://auth.shapeshift.com/signup?af=dBrmtCmkX7Wk9gg9][Shapeshift]]: Fast, rewards program
     - [[https://fixedfloat.com/BTC/XMR?ref=e49tpvpb][FixedFloat]]: Fast, no registration needed
+    - [[https://1inch.exchange/#/r/0x8EdB0D95cD95bB549fe069840b586AC7074A7770][1inch]]: Ethereum token exchange aggregator to guarantee the best price
 * Chart
   Sophisticated indicators
   - [[https://finance.yahoo.com][Yahoo Finance]]
@@ -58,5 +59,6 @@
 * Donate
   Send me money!
   - bitcoin:3EbU654ra7zNJNAut38pcPaJkAqMdW99kn
-  - monero:84knYMah9LHY61SZU9hA8cYqSSno9hWBLjKxvi9qtm3dRUqpLyYyEDqFVHd35GDMDt9vA3qTSiTnp7pGCeeFV4t553UaXUo
+  - monero:85uEh8cXFqYfHEDDAHd17ZYtLtNLpEnfFLu1S6uPpHbLWKTbgY3sFz59xdQuu8mnktSAExUVRB2u9c91CkBGDNDi9DZfAY8
   - web+cardano:addr1q99v5s4uunaltd0t9w7dz5l5xqhctxly3f080wwyfw7dmpaake2nc3jyanlyu7tup0vtg6cjs5te8nvwzgte7yxs7uvs3dhcmg
+  - ethereum:0x8EdB0D95cD95bB549fe069840b586AC7074A7770

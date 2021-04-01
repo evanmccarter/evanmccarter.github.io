@@ -3,7 +3,7 @@
 "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
 <head>
-<!-- 2021-03-22 Mon 22:22 -->
+<!-- 2021-03-31 Wed 23:57 -->
 <meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
 <meta name="viewport" content="width=device-width, initial-scale=1" />
 <title>Cryptocurrency Resources</title>
@@ -39,7 +39,7 @@
   }
   pre.src {
     position: relative;
-    overflow: visible;
+    overflow: auto;
     padding-top: 1.2em;
   }
   pre.src:before {
@@ -51,7 +51,7 @@
     padding: 3px;
     border: 1px solid black;
   }
-  pre.src:hover:before { display: inline;}
+  pre.src:hover:before { display: inline; margin-top: 14px;}
   /* Languages per Org manual */
   pre.src-asymptote:before { content: 'Asymptote'; }
   pre.src-awk:before { content: 'Awk'; }
@@ -193,50 +193,26 @@
   /*]]>*/-->
 </style>
 <script type="text/javascript">
-/*
-@licstart  The following is the entire license notice for the
-JavaScript code in this tag.
-
-Copyright (C) 2012-2020 Free Software Foundation, Inc.
-
-The JavaScript code in this tag is free software: you can
-redistribute it and/or modify it under the terms of the GNU
-General Public License (GNU GPL) as published by the Free Software
-Foundation, either version 3 of the License, or (at your option)
-any later version.  The code is distributed WITHOUT ANY WARRANTY;
-without even the implied warranty of MERCHANTABILITY or FITNESS
-FOR A PARTICULAR PURPOSE.  See the GNU GPL for more details.
-
-As additional permission under GNU GPL version 3 section 7, you
-may distribute non-source (e.g., minimized or compacted) forms of
-that code without the copy of the GNU GPL normally required by
-section 4, provided you include this license notice and a URL
-through which recipients can access the Corresponding Source.
-
-
-@licend  The above is the entire license notice
-for the JavaScript code in this tag.
-*/
+// @license magnet:?xt=urn:btih:e95b018ef3580986a04669f1b5879592219e2a7a&dn=public-domain.txt Public Domain
 <!--/*--><![CDATA[/*><!--*/
- function CodeHighlightOn(elem, id)
- {
-   var target = document.getElementById(id);
-   if(null != target) {
-     elem.cacheClassElem = elem.className;
-     elem.cacheClassTarget = target.className;
-     target.className = "code-highlighted";
-     elem.className   = "code-highlighted";
-   }
- }
- function CodeHighlightOff(elem, id)
- {
-   var target = document.getElementById(id);
-   if(elem.cacheClassElem)
-     elem.className = elem.cacheClassElem;
-   if(elem.cacheClassTarget)
-     target.className = elem.cacheClassTarget;
- }
-/*]]>*///-->
+     function CodeHighlightOn(elem, id)
+     {
+       var target = document.getElementById(id);
+       if(null != target) {
+         elem.classList.add("code-highlighted");
+         target.classList.add("code-highlighted");
+       }
+     }
+     function CodeHighlightOff(elem, id)
+     {
+       var target = document.getElementById(id);
+       if(null != target) {
+         elem.classList.remove("code-highlighted");
+         target.classList.remove("code-highlighted");
+       }
+     }
+    /*]]>*///-->
+// @license-end
 </script>
 </head>
 <body>
@@ -246,20 +222,20 @@ for the JavaScript code in this tag.
 <h2>Table of Contents</h2>
 <div id="text-table-of-contents">
 <ul>
-<li><a href="#org98432c4">1. Advice</a></li>
-<li><a href="#org4f6a1fc">2. Store</a></li>
-<li><a href="#orgba5696d">3. Trade</a></li>
-<li><a href="#org75284fa">4. Chart</a></li>
-<li><a href="#org68a1ce6">5. Manage</a></li>
-<li><a href="#org6a79cd4">6. Sell</a></li>
-<li><a href="#org3bce20d">7. Mine</a></li>
-<li><a href="#org2cc8f60">8. Web Miners</a></li>
-<li><a href="#org7aafde4">9. Donate</a></li>
+<li><a href="#orgb91f480">1. Advice</a></li>
+<li><a href="#org89a839d">2. Store</a></li>
+<li><a href="#orgb05981f">3. Trade</a></li>
+<li><a href="#org6a7171a">4. Chart</a></li>
+<li><a href="#orge3431fd">5. Manage</a></li>
+<li><a href="#org4ed43af">6. Sell</a></li>
+<li><a href="#orga4596d8">7. Mine</a></li>
+<li><a href="#org1ed4cb0">8. Web Miners</a></li>
+<li><a href="#org2eb2c8e">9. Donate</a></li>
 </ul>
 </div>
 </div>
-<div id="outline-container-org98432c4" class="outline-2">
-<h2 id="org98432c4"><span class="section-number-2">1</span> Advice</h2>
+<div id="outline-container-orgb91f480" class="outline-2">
+<h2 id="orgb91f480"><span class="section-number-2">1</span> Advice</h2>
 <div class="outline-text-2" id="text-1">
 <ul class="org-ul">
 <li><a href="https://bitcoin.org">The original Bitcoin domain</a> handed down through the ages. Has a good <a href="https://bitcoin.org/en/choose-your-wallet">wallet chooser</a> that outlines the advantages and disadvantages of each</li>
@@ -276,8 +252,8 @@ for the JavaScript code in this tag.
 </ul>
 </div>
 </div>
-<div id="outline-container-org4f6a1fc" class="outline-2">
-<h2 id="org4f6a1fc"><span class="section-number-2">2</span> Store</h2>
+<div id="outline-container-org89a839d" class="outline-2">
+<h2 id="org89a839d"><span class="section-number-2">2</span> Store</h2>
 <div class="outline-text-2" id="text-2">
 <p>
 Wallets
@@ -292,8 +268,8 @@ Wallets
 </ul>
 </div>
 </div>
-<div id="outline-container-orgba5696d" class="outline-2">
-<h2 id="orgba5696d"><span class="section-number-2">3</span> Trade</h2>
+<div id="outline-container-orgb05981f" class="outline-2">
+<h2 id="orgb05981f"><span class="section-number-2">3</span> Trade</h2>
 <div class="outline-text-2" id="text-3">
 <p>
 Buy and exchange
@@ -306,15 +282,16 @@ Buy and exchange
 </ul></li>
 <li>Cryptocurrency only
 <ul class="org-ul">
-<li><a href="https://binance.com/en/register?ref=FRFFEK6D">Binance</a>: Lower percentage fees</li>
+<li><a href="https://www.binance.com/en/register?ref=BATB6H50">Binance</a>: Lower percentage fees, US persons banned but works for non-US IPs</li>
 <li><a href="https://auth.shapeshift.com/signup?af=dBrmtCmkX7Wk9gg9">Shapeshift</a>: Fast, rewards program</li>
 <li><a href="https://fixedfloat.com/BTC/XMR?ref=e49tpvpb">FixedFloat</a>: Fast, no registration needed</li>
+<li><a href="https://1inch.exchange/#/r/0x8EdB0D95cD95bB549fe069840b586AC7074A7770">1inch</a>: Ethereum token exchange aggregator to guarantee the best price</li>
 </ul></li>
 </ul>
 </div>
 </div>
-<div id="outline-container-org75284fa" class="outline-2">
-<h2 id="org75284fa"><span class="section-number-2">4</span> Chart</h2>
+<div id="outline-container-org6a7171a" class="outline-2">
+<h2 id="org6a7171a"><span class="section-number-2">4</span> Chart</h2>
 <div class="outline-text-2" id="text-4">
 <p>
 Sophisticated indicators
@@ -327,8 +304,8 @@ Sophisticated indicators
 </ul>
 </div>
 </div>
-<div id="outline-container-org68a1ce6" class="outline-2">
-<h2 id="org68a1ce6"><span class="section-number-2">5</span> Manage</h2>
+<div id="outline-container-orge3431fd" class="outline-2">
+<h2 id="orge3431fd"><span class="section-number-2">5</span> Manage</h2>
 <div class="outline-text-2" id="text-5">
 <p>
 Automate transfers
@@ -338,8 +315,8 @@ Automate transfers
 </ul>
 </div>
 </div>
-<div id="outline-container-org6a79cd4" class="outline-2">
-<h2 id="org6a79cd4"><span class="section-number-2">6</span> Sell</h2>
+<div id="outline-container-org4ed43af" class="outline-2">
+<h2 id="org4ed43af"><span class="section-number-2">6</span> Sell</h2>
 <div class="outline-text-2" id="text-6">
 <p>
 Get more for each coin
@@ -355,8 +332,8 @@ Get more for each coin
 </ul>
 </div>
 </div>
-<div id="outline-container-org3bce20d" class="outline-2">
-<h2 id="org3bce20d"><span class="section-number-2">7</span> Mine</h2>
+<div id="outline-container-orga4596d8" class="outline-2">
+<h2 id="orga4596d8"><span class="section-number-2">7</span> Mine</h2>
 <div class="outline-text-2" id="text-7">
 <p>
 Participate at the fundamental level
@@ -368,8 +345,8 @@ Participate at the fundamental level
 </ul>
 </div>
 </div>
-<div id="outline-container-org2cc8f60" class="outline-2">
-<h2 id="org2cc8f60"><span class="section-number-2">8</span> Web Miners</h2>
+<div id="outline-container-org1ed4cb0" class="outline-2">
+<h2 id="org1ed4cb0"><span class="section-number-2">8</span> Web Miners</h2>
 <div class="outline-text-2" id="text-8">
 <p>
 Leverage web traffic
@@ -384,23 +361,24 @@ Leverage web traffic
 </ul>
 </div>
 </div>
-<div id="outline-container-org7aafde4" class="outline-2">
-<h2 id="org7aafde4"><span class="section-number-2">9</span> Donate</h2>
+<div id="outline-container-org2eb2c8e" class="outline-2">
+<h2 id="org2eb2c8e"><span class="section-number-2">9</span> Donate</h2>
 <div class="outline-text-2" id="text-9">
 <p>
 Send me money!
 </p>
 <ul class="org-ul">
 <li>bitcoin:3EbU654ra7zNJNAut38pcPaJkAqMdW99kn</li>
-<li>monero:84knYMah9LHY61SZU9hA8cYqSSno9hWBLjKxvi9qtm3dRUqpLyYyEDqFVHd35GDMDt9vA3qTSiTnp7pGCeeFV4t553UaXUo</li>
+<li>monero:85uEh8cXFqYfHEDDAHd17ZYtLtNLpEnfFLu1S6uPpHbLWKTbgY3sFz59xdQuu8mnktSAExUVRB2u9c91CkBGDNDi9DZfAY8</li>
 <li>web+cardano:addr1q99v5s4uunaltd0t9w7dz5l5xqhctxly3f080wwyfw7dmpaake2nc3jyanlyu7tup0vtg6cjs5te8nvwzgte7yxs7uvs3dhcmg</li>
+<li>ethereum:0x8EdB0D95cD95bB549fe069840b586AC7074A7770</li>
 </ul>
 </div>
 </div>
 </div>
 <div id="postamble" class="status">
-<p class="date">Created: 2021-03-22 Mon 22:22</p>
-<p class="validation"><a href="http://validator.w3.org/check?uri=referer">Validate</a></p>
+<p class="date">Created: 2021-03-31 Wed 23:57</p>
+<p class="validation"><a href="https://validator.w3.org/check?uri=referer">Validate</a></p>
 </div>
 </body>
 </html>
