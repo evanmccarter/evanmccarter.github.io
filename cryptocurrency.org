@@ -1,12 +1,12 @@
 #+TITLE: Cryptocurrency Resources
 * Advice
   - [[https://bitcoin.org][The original Bitcoin domain]] handed down through the ages. Has a good [[https://bitcoin.org/en/choose-your-wallet][wallet chooser]] that outlines the advantages and disadvantages of each
-  - [[https://bitcointalk.org][Original Bitcoin forum]], primary announcement vector for transparent projects, lots of historical activity
-  - [[https://www.getmonero.org][Official Monero website]], lists high-quality wallets
-  - [[https://cardano.org][Official Cardano website]], has links to wallets
-  - [[https://aantonop.com][Andreas M. Antonopoulos]], originally got me to buy in by dollar-cost-average
+  - [[https://bitcointalk.org][Original Bitcoin forum]]: primary announcement vector for transparent projects, lots of historical activity
+  - [[https://www.getmonero.org][Official Monero website]]: lists high-quality wallets
+  - [[https://cardano.org][Official Cardano website]]: has links to wallets
+  - [[https://aantonop.com][Andreas M. Antonopoulos]]: originally got me to buy in by dollar-cost-average
   - [[https://whattomine.com][whattomine.com]]: mining profitability list
-  - [[https://coinmarketcap.com][Coin Market Cap]]
+  - [[https://coinmarketcap.com][Coin Market Cap]]: list of coins by objective measures
   - Wikis
     - [[https://bitcoinwiki.org][BitcoinWiki.org]]
     - [[https://bitcoin.it][Bitcoin.it]]
