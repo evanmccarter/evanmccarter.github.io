@@ -3,6 +3,7 @@
 ** Contact methods
 *** Secure
     - [[http://EvanMcCarter.tk][Domain]]
+    - [[http://jami.net][jami.net]] jami:40a4d6da90b4eff674e303aacf0df9a006ade7a8
     - [[mailto:EvanMcCarter@airmail.cc][Email]] & XMPP
     - [[https://matrix.to/#/@evanmccarter:matrix.org][@evanmccarter:matrix.org]]: [[https://matrix.org][Matrix.org]] & [[https://riot.im][Riot.im]]
 *** Stable
