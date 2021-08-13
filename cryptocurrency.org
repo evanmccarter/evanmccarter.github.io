@@ -64,4 +64,4 @@
   - monero:4AJv2eeqKwog3vg4gknkxZHHnmkCvf7a2EDeCv6XdbMsZCog2hWUD5eYvBmv48QRfsC7EQj7LWAcAJ5cG4CU7tEY7URg8Ko
   - cardano:addr1q99v5s4uunaltd0t9w7dz5l5xqhctxly3f080wwyfw7dmpaake2nc3jyanlyu7tup0vtg6cjs5te8nvwzgte7yxs7uvs3dhcmg
   - ethereum:0x8EdB0D95cD95bB549fe069840b586AC7074A7770
-  - bitcoin:3EbU654ra7zNJNAut38pcPaJkAqMdW99kn
+  - bitcoin:bc1qd93rwyde5t7jzn7hu6endnw3jvtu74rj7w792f
