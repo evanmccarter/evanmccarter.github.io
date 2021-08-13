@@ -62,6 +62,6 @@
 * Donate
   Send me money!
   - monero:4AJv2eeqKwog3vg4gknkxZHHnmkCvf7a2EDeCv6XdbMsZCog2hWUD5eYvBmv48QRfsC7EQj7LWAcAJ5cG4CU7tEY7URg8Ko
-  - cardano:addr1q99v5s4uunaltd0t9w7dz5l5xqhctxly3f080wwyfw7dmpaake2nc3jyanlyu7tup0vtg6cjs5te8nvwzgte7yxs7uvs3dhcmg
+  - cardano:addr1q8nyajawms78g006e9l2e3yr3ge5zmqquwyheyvx7q48zjedlfgmswql26n5zlxxvkf5ukcwfmx6e87ts8kc4c7dnn3s7p62w5
   - ethereum:0x4DcFC7D313EE2aC68Af32efcede7ac6fe34a9421
   - bitcoin:bc1qd93rwyde5t7jzn7hu6endnw3jvtu74rj7w792f
