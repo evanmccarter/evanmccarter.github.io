@@ -3,9 +3,9 @@
 ** Contact methods
 *** Secure
     - [[http://EvanMcCarter.tk][Domain]]
+    - [[https://matrix.to/#/@evanmccarter:matrix.org][@evanmccarter:matrix.org]]: [[https://matrix.org][Matrix.org]] & [[https://element.io][element.io]]
     - [[http://jami.net][jami.net]] jami:40a4d6da90b4eff674e303aacf0df9a006ade7a8
     - [[mailto:EvanMcCarter@airmail.cc][Email]] & XMPP
-    - [[https://matrix.to/#/@evanmccarter:matrix.org][@evanmccarter:matrix.org]]: [[https://matrix.org][Matrix.org]] & [[https://riot.im][Riot.im]]
 *** Stable
     - [[mailto:EvanMcCarter@gmail.com][Gmail]]
     - +14438407034: phone number
