@@ -31,7 +31,7 @@
       - [[https://www.btse.com/en/ref?c=CCQqBX][Btse]]: Low percentage fees, US persons banned
   - Cryptocurrency only
     - [[https://auth.shapeshift.com/signup?af=dBrmtCmkX7Wk9gg9][Shapeshift]]: Fast, rewards program
-    - [[https://fixedfloat.com/BTC/XMR?ref=e49tpvpb][FixedFloat]]: Fast, no registration needed
+    - [[https://fixedfloat.com/XMR/ETH?ref=e49tpvpb][FixedFloat]]: Fast, no registration needed
     - [[https://1inch.exchange/#/r/0x4DcFC7D313EE2aC68Af32efcede7ac6fe34a9421][1inch]]: Ethereum token exchange aggregator to guarantee the best price
 * Chart
   Sophisticated indicators
