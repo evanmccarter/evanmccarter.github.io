@@ -8,7 +8,7 @@
     - [[https://matrix.to/#/@evanmccarter:matrix.org][@evanmccarter:matrix.org]]: [[https://matrix.org][Matrix.org]] & [[https://riot.im][Riot.im]]
 *** Stable
     - [[mailto:EvanMcCarter@gmail.com][Gmail]]
-    - +14438407034: phone number
+    - tel:+14438407034: Google Voice
 ** Website profiles
    - [[https://gitlab.com/evanmccarter][GitLab]]
    - [[https://github.com/evanmccarter][GitHub]]
