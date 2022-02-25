@@ -5,7 +5,8 @@
   - [[https://www.getmonero.org][Official Monero website]]: lists high-quality wallets
   - [[https://ethereum.org][Official Ethereum website]]
   - [[https://cardano.org][Official Cardano website]]: has links to wallets
-  - [[https://aantonop.com][Andreas M. Antonopoulos]]: originally got me to buy in by dollar-cost-average
+  - [[https://aantonop.com][Andreas M. Antonopoulos]] [[https://youtube.com/c/aantonop][YouTube Channel]]: originally got me to buy in by dollar-cost-average
+  - [[https://coinbureau.com][Coin Bureau]] [[https://www.youtube.com/c/CoinBureau][YouTube Channel]]: advice less biased than most sources
   - [[https://whattomine.com][whattomine.com]]: mining profitability list
   - [[https://coinmarketcap.com][Coin Market Cap]]: list of coins by objective measures
   - Wikis
