@@ -14,9 +14,9 @@
     - [[https://bitcoin.it][Bitcoin.it]]
 * Store
   Wallets
-  - [[https://trezor.io/][Trezor]]: Hardware libre
+  - [[https://trezor.io][Trezor]]: Hardware libre
   - [[https://electrum.org][Electrum]]: Desktop
-  - [[https://mycelium.com/][Mycelium]]: [[https://github.com/mycelium-com/wallet-android][Libre source]] mobile wallet
+  - [[https://mycelium.com][Mycelium]]: [[https://github.com/mycelium-com/wallet-android][Libre source]] mobile wallet
   - [[https://blockchain.com][Blockchain]]: Web
   - [[https://github.com/monero-project/monero-gui][monero-gui]]: Wallet referenced by [[https://getmonero.org][the official monero website]]
   - [[https://mymonero.com][MyMonero]]: Web (& Desktop)
