@@ -3,9 +3,9 @@
 ** Contact methods
 *** Secure
     - [[http://EvanMcCarter.tk][Domain]]
-    - [[https://matrix.to/#/@evanmccarter:matrix.org][@evanmccarter:matrix.org]]: [[https://matrix.org][Matrix.org]] & [[https://element.io][element.io]]
-    - [[http://jami.net][jami.net]] jami:40a4d6da90b4eff674e303aacf0df9a006ade7a8
     - [[https://getsession.org][getsession.org]] session:05a6aa02c7beee2f0c42218a0f8cb15161a2155d3738c41cbceb6ca58b76a18556
+    - [[http://jami.net][jami.net]] jami:40a4d6da90b4eff674e303aacf0df9a006ade7a8
+    - [[https://matrix.to/#/@evanmccarter:matrix.org][@evanmccarter:matrix.org]]: [[https://matrix.org][Matrix.org]] & [[https://element.io][element.io]]
     - [[mailto:EvanMcCarter@airmail.cc][Email]] & XMPP
 *** Stable
     - [[mailto:EvanMcCarter@gmail.com][Gmail]]
