@@ -7,6 +7,7 @@
     - [[http://jami.net][jami.net]] jami:40a4d6da90b4eff674e303aacf0df9a006ade7a8
     - [[https://matrix.to/#/@evanmccarter:matrix.org][@evanmccarter:matrix.org]]: [[https://matrix.org][Matrix.org]] & [[https://element.io][element.io]]
     - [[mailto:EvanMcCarter@airmail.cc][Email]] & XMPP
+    - [[https://f-droid.org/en/packages/org.smssecure.smssecure/][Encrypted SMS]]
 *** Stable
     - [[mailto:EvanMcCarter@gmail.com][Gmail]]
     - tel:+14438407034: Google Voice
