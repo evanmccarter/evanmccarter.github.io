@@ -3,6 +3,8 @@
   - [[https://bitcoin.org][The original Bitcoin domain]] handed down through the ages. Has a good [[https://bitcoin.org/en/choose-your-wallet][wallet chooser]] that outlines the advantages and disadvantages of each, hosts [[https://bitcoin.org/bitcoin.pdf][the original Bitcoin whitepaper]]
   - [[https://bitcointalk.org][Original Bitcoin forum]]: primary announcement vector for transparent projects, lots of historical activity
   - [[https://www.getmonero.org][Official Monero website]]: has links to wallets
+    - [[https://moneroworld.com/][MoneroWorld]]: Monero node lists
+    - [[https://monero.fail/][monero.fail]]: Monero node lists
   - [[https://ethereum.org][Official Ethereum website]]: has links to wallets
   - [[https://cardano.org][Official Cardano website]]: has links to wallets
   - [[https://aantonop.com][Andreas M. Antonopoulos]] [[https://youtube.com/c/aantonop][YouTube Channel]]: originally got me to buy in by dollar-cost-average
