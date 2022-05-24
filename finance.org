@@ -186,6 +186,7 @@
       - [[https://paypal.com/us/webapps/mpp/credit-card/2-percent-cash-back-mastercard][PayPal Cashback Mastercard®]]: 2% cash back redeemable *in cash* to your bank account
       - [[https://fidelity.com/cash-management/visa-signature-card][Fidelity® Rewards Visa Signature® Card]]: 2% cash back *automatically redeemable* *in cash* in amounts over $50 to eligible Fidelity account(s), including most non-retirement registrations, and amounts over $25 for travel
       - [[https://citi.com/credit-cards/credit-card-details/citi.action?ID=citi-double-cash-credit-card][Citi® Double Cash Card]]: 2% cash back on every purchase, redeemable in amounts over $25
+      - [[https://www.citi.com/credit-cards/citi-custom-cash-credit-card][CITI CUSTOM CASH CARD]]: 5% cash back on purchases in your largest category, 1% cash back on all other purchases
       - [[https://usaa.com/inet/wc/bank-credit-card-cashback-rewards-plus-american-express][Cashback Rewards Plus American Express® Credit Card]]: 5% cash back on your first $3,000 in combined gas station and military base Purchases yearly
       - [[https://verizon.com/solutions-and-services/verizon-visa-card][Verizon Visa® Card]]: 4% cash back on grocery store and gas purchases if you made the mistake of choosing Verizon as your mobile carrier
       - [[https://navyfederal.org/loans-cards/credit-cards/more-rewards][Navy Federal More Rewards American Express® Credit Card]]: 3% cash back on supermarkets, gas and transit, restaurants
