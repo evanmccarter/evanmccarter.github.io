@@ -16,6 +16,6 @@
    [[./finance.org][Personal Finance Resources]]
 
 ** Menus
-   <ALT>+<SPACE> opens an accessibility menu for the current window, allowing you to move, resize, close, minimize, and (un)maximize the window with only the keyboard. 
+   On Microsoft Windows <ALT>+<SPACE> opens an accessibility menu for the current window, allowing you to move, resize, close, minimize, and (un)maximize the window with only the keyboard. 
 * Web Browsers
   <CTRL>+l selects the URL bar
