@@ -7,8 +7,6 @@
    
    Here are some link elements to practice with: 
    
-   [[..][Up one level]]
-   
    [[./index.org][Index]]
    
    [[./keyboard.org][This page]]
