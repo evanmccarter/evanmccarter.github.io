@@ -1,4 +1,34 @@
 #+TITLE: Philosophy Resources
+* A Definition of Life
+
+I define "A Living Thing" as "A system that grows and then splits into multiple independent parts". For example, a bacteria grows larger, then splits into two bacteria, and both can continue to reproduce even if they are separated by a great distance. Human beings become pregnant, grow in mass, give birth, and children eventually become independent agents that can continue to reproduce even when their parents and siblings are absent. 
+
+Incidentally, this suggests that virus particles are not alive (they do not grow, they only move towards ribosomes in other living cells), but that _infections_ *are* alive: they grow in number and mass of virus particles and occupy ever larger geographical areas, and two isolated areas can have infections that are equally able to spread and can survive independent of the other's existence. 
+
+* Embracing Ignorance
+
+In software engineering there is a concept of "suitability for a particular purpose". 
+
+Is (human) consciousness suited for a particular purpose? 
+
+Clearly humans are not well suited to independently understand ethics. However, human consciousness _is_ well suited for preserving the existence of life, including non-human life since we depend on it so greatly (consider EG corn, gut bacteria, dogs, horses, trees, etc). 
+
+Having accepted that I will likely constantly be faced with ethical challenges I am unable to solve independently, I have rejected the responsibility to personally produce an ethical system that explains everything, and I am faced with multiple options to choose from for an overarching life goal. 
+
+** Help Life flourish
+
+The goal I have been operating under for several years without incident is "to ensure that at least one Living Thing exists at as many points in time as possible". This may end up as merely a colony of bacteria living on a spaceship orbiting a black hole, but even that would give the survivors a chance to take advantage of any new energy sources that appear in the universe unexpectedly. 
+
+*** Long term accomplishments
+
+An ideal way to accomplish this goal would be to find a way to reverse entropy in a given area of space. Then we could set up a system where we cause matter to gain momentum or manufacture new particles, where the increase in energy or mass is greater than the inputs we provide, then collect the particles that carry the "free" energy for use elsewhere. If this can be done at a massive scale, producing many undecillions of kilograms of matter or the equivalent in energy, it may be energy efficient to continuously construct black holes with the output of the area of reversed entropy, as dropping matter into black holes makes a large amount of energy available surprisingly: https://www.youtube.com/watch?v=ulCdoCfw-bY 
+
+In the short term, colonizing Mars or Mercury (https://www.einstein-schrodinger.com/mercury_colony.html) or Venus (https://www.youtube.com/watch?v=G-WO-z-QuWI), or at least a Moon or setting up a permanent colony at a Lagrange point, would be an excellent start. 
+
+** Communal Ethics
+
+It may be possible to engage in religious, civic, and state institutions such that the interactions between many conscious beings will produce more ethical results than one individual acting alone. 
+
 * Videos
   - [[https://www.youtube.com/user/JordanPetersonVideos][Jordan B. Peterson]]
     - [[https://www.youtube.com/watch?v=f-wWBGo6a2w&list=PL22J3VaeABQD_IZs7y60I3lUrrFTzkpat][Discovering how to live a good Life through biblical analysis]]
