@@ -12,6 +12,8 @@
   - [[https://aantonop.com][Andreas M. Antonopoulos]] [[https://youtube.com/c/aantonop][YouTube Channel]]: originally got me to buy in by dollar-cost-average
   - [[https://coinbureau.com][Coin Bureau]] [[https://www.youtube.com/c/CoinBureau][YouTube Channel]]: advice less biased than most sources
   - [[https://whattomine.com][whattomine.com]]: mining profitability list
+  - [[https://www.kryptex.com/en/best-gpus-for-mining][Mining GPUs list]]
+  - [[https://www.tomshardware.com/best-picks/best-mining-gpus-benchmarked-and-ranked][Mining GPUs list]]
   - [[https://coinmarketcap.com][Coin Market Cap]]: list of coins and official project links by objective measures
   - [[http://coingecko.com/][CoinGecko]]: list of coins and official project links by objective measures
   - Wikis
