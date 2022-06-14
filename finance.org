@@ -184,10 +184,12 @@
       - [[https://creditcards.chase.com/rewards-credit-cards/disney/rewards][Disney® Visa® Card]]: 1% back in Disney Rewards Dollars, just to build credit
 ***** General
       - [[https://www.paypal.com/credit-application/co/landing][PayPal Cashback Mastercard®]]: at least 2% cash back on all purchases
+      - [[https://x1creditcard.com][X1 Card]]: 2% back when redeemed with partners
       - [[https://fidelity.com/cash-management/visa-signature-card][Fidelity® Rewards Visa Signature® Card]]: 2% cash back *automatically redeemable* *in cash* in amounts over $50 to eligible Fidelity account(s), including most non-retirement registrations, and amounts over $25 for travel
       - [[https://citi.com/credit-cards/credit-card-details/citi.action?ID=citi-double-cash-credit-card][Citi® Double Cash Card]]: 2% cash back on every purchase, redeemable in amounts over $25
       - [[https://www.citi.com/credit-cards/citi-custom-cash-credit-card][CITI CUSTOM CASH CARD]]: 5% cash back on purchases in your largest category, 1% cash back on all other purchases
 ***** Gas
+      - [[https://www.aboundcu.com/Spend-Save/Personal-Accounts/Credit-Cards/Cash-Back-VISA-Card][Abound Credit Union Visa® Platinum Credit Card]]: 5% cash back on gas and rotating categories
       - [[https://usaa.com/inet/wc/bank-credit-card-cashback-rewards-plus-american-express][Cashback Rewards Plus American Express® Credit Card]]: 5% cash back on your first $3,000 in combined gas station and military base Purchases yearly
       - [[https://samsclub.com/sams/pagedetails/content.jsp?pageName=credit][Sam's Club® Mastercard®]]: 3% cash back on dining & travel. 5% cash back on gas (on the first $6,000 per year, then 1% after). Maximum of $5,000 in Cash Back rewards can be earned in a calendar year. Cash back rewards are forfeited if the Cash Back earned in a calendar year is less than $5.00. Cash back rewards will be *automatically* loaded onto your Sam's Club membership and may be redeemed only at a Sam's Club location or at SamsClub.com
       - [[https://pnc.com/en/personal-banking/banking/credit-cards/pnc-cash-rewards-visa-credit-card.html][PNC Cash Rewards Visa credit card]]: 4% cash back on gas & 3% cash back on restaurants
