@@ -7,6 +7,8 @@
     - [[https://xmr.llcoins.net/addresstests.html][advanced xmr seed generator]]
     - [[https://moneroworld.com/][MoneroWorld]]: Monero node lists
     - [[https://monero.fail/][monero.fail]]: Monero node lists
+    - [[https://moneroj.net/][moneroj.net]]
+    - [[https://xmrguide.org/][xmrguide.org]]
   - [[https://ethereum.org][Official Ethereum website]]: has links to wallets
   - [[https://cardano.org][Official Cardano website]]: has links to wallets
   - [[https://aantonop.com][Andreas M. Antonopoulos]] [[https://youtube.com/c/aantonop][YouTube Channel]]: originally got me to buy in by dollar-cost-average
