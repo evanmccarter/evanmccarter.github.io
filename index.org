@@ -9,7 +9,7 @@
     - [[https://briarproject.org][Briar]]
       - Phone: briar://actqjt6hxfrmph7h74lfd2eo7kkkz5745lo2ib5bjpvft2oxwl3fa
       - Laptop: briar://aceorxmzbk4wrftom7iy356b3vv4zonzwzge5fo5ppdlsctcyihs4
-    - [[mailto:EvanMcCarter@airmail.cc][Email]] & XMPP
+    - [[mailto:EvanMcCarter@airmail.cc][Email]] & [[https://xmpp.org][XMPP]]
     - [[https://f-droid.org/en/packages/org.smssecure.smssecure/][Encrypted SMS]]
 *** Stable
     - [[mailto:EvanMcCarter@gmail.com][Gmail]]
