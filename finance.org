@@ -192,6 +192,8 @@
       - [[https://www.sofi.com/credit-card/][SoFi Credit Card]]: 2% unlimited cash back, [[https://support.sofi.com/hc/en-us/articles/360051249532-Does-SoFi-Credit-Card-have-a-foreign-transaction-fee-][no foreign transaction fees]]
       - [[https://creditcards.wellsfargo.com/active-cash-credit-card/?vendor_code=WF&product_code=CC&subproduct_code=AC][Wells Fargo Active Cash Card]]: unlimited 2% cash rewards on purchases
       - [[https://citi.com/credit-cards/credit-card-details/citi.action?ID=citi-double-cash-credit-card][Citi® Double Cash Card]]: 2% cash back on every purchase, redeemable in amounts over $25
+      - [[https://www.americanexpress.com/us/credit-cards/business/business-credit-cards/american-express-blue-business-plus-credit-card-amex/][Blue Business® Plus Credit Card]]: 2X POINTS On Everyday Eligible Business Purchases up to $50k per calendar year
+      - [[https://www.americanexpress.com/en-us/business/credit-cards/blue-business-cash/][Blue Business CashTM Card]]: 2% CASH BACK On Everyday Eligible Business Purchases up to $50k per calendar year, automatically credited to your statement
 ***** Gas
       - [[https://www.aboundcu.com/Spend-Save/Personal-Accounts/Credit-Cards/Cash-Back-VISA-Card][Abound Credit Union Visa® Platinum Credit Card]]: 5% cash back on gas and rotating categories
       - [[https://usaa.com/inet/wc/bank-credit-card-cashback-rewards-plus-american-express][Cashback Rewards Plus American Express® Credit Card]]: 5% cash back on your first $3,000 in combined gas station and military base Purchases yearly
