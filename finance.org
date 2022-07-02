@@ -192,8 +192,6 @@
       - [[https://creditcards.wellsfargo.com/active-cash-credit-card/?vendor_code=WF&product_code=CC&subproduct_code=AC][Wells Fargo Active Cash Card]]: unlimited 2% cash rewards on purchases
       - [[https://citi.com/credit-cards/credit-card-details/citi.action?ID=citi-double-cash-credit-card][Citi® Double Cash Card]]: 2% cash back on every purchase, redeemable in amounts over $25
       - [[https://www.citi.com/credit-cards/citi-custom-cash-credit-card][CITI CUSTOM CASH CARD]]: 5% cash back on purchases in your largest category, 1% cash back on all other purchases
-      - [[https://creditcards.wellsfargo.com/bilt-rewards-credit-card/?vendor_code=WF&product_code=CC&subproduct_code=EC][Wells Fargo Bilt Mastercard®]]: earn 1 rewards point per $1 spent on rent paid through the Bilt App with your card account up to a maximum of Fifty Thousand (50,000) points each calendar year
-      - [[https://www.mgmresorts.com/en/mgm-rewards/mgm-rewards-mastercard.html][MGM Rewards Mastercard®]]: Automatic Upgrade to MGM Rewards status
 ***** Gas
       - [[https://www.aboundcu.com/Spend-Save/Personal-Accounts/Credit-Cards/Cash-Back-VISA-Card][Abound Credit Union Visa® Platinum Credit Card]]: 5% cash back on gas and rotating categories
       - [[https://usaa.com/inet/wc/bank-credit-card-cashback-rewards-plus-american-express][Cashback Rewards Plus American Express® Credit Card]]: 5% cash back on your first $3,000 in combined gas station and military base Purchases yearly
@@ -206,6 +204,7 @@
       - [[https://navyfederal.org/loans-cards/credit-cards/more-rewards][Navy Federal More Rewards American Express® Credit Card]]: 3% cash back on supermarkets, gas and transit, restaurants
       - [[https://americanexpress.com/us/credit-cards/card/blue-cash-everyday][Blue Cash Everyday® Card]]: 3% cash back at U.S. supermarkets, on up to $6,000 per year in purchases (then 1%)
 ***** Other
+      - [[https://creditcards.wellsfargo.com/bilt-rewards-credit-card/?vendor_code=WF&product_code=CC&subproduct_code=EC][Wells Fargo Bilt Mastercard®]]: earn 1 rewards point per $1 spent on rent paid through the Bilt App with your card account up to a maximum of Fifty Thousand (50,000) points each calendar year
       - [[https://citi.com/credit-cards/credit-card-details/citi.action?ID=Citi-costco-anywhere-visa-credit-card][Costco Anywhere Visa®]]: 2% cash back on purchases from Costco and Costco.com with a Costco membership
       - [[https://usbank.com/credit-cards/cash-plus-visa-signature-credit-card.html][U.S. Bank cash+ Visa Signature Card]]: 5% cash back on any two of utilities, internet, phone service bills, or other categories
       - [[https://bankofamerica.com/credit-cards/products/cash-back-credit-card][Bank of America® Cash Rewards Credit Card]] & [[https://bankofamerica.com/credit-cards/products/student-cash-back-credit-card][Bank of America® Cash Rewards Credit Card for Students]]: 3% cash back on drug stores (EG CVS, Walgreens) or home improvement / furnishings (EG IKEA, Lowes, Home Depot) or travel (EG E-Zpass, Airbnb, Uber, Delta airlines)
@@ -218,6 +217,7 @@
       - [[https://navyfederal.org/loans-cards/credit-cards/go-rewards][Navy Federal GO REWARDS® Credit Card]]: 3% cash back at restaurants, 2% cash back on gas
       - [[https://discover.com/credit-cards][Every Discover credit card]]
       - [[https://platinumrewardsnow.com/Rewards_Calendar][ABOC Mastercard®]]: 5% cash back in rotating categories
+      - [[https://www.mgmresorts.com/en/mgm-rewards/mgm-rewards-mastercard.html][MGM Rewards Mastercard®]]: Automatic Upgrade to MGM Rewards status
       - [[https://navyfederal.org/loans-cards/credit-cards/cash-rewards][Navy Federal cashRewards Credit Card]]: 1.5% cash back on all purchases, no minimum redemption amount
 **** Travel
      - [[https://navyfederal.org/loans-cards/credit-cards/flagship-visa-signature][Navy Federal Visa Signature® Flagship Rewards Credit Card]]: 3% points on travel, 2% points on everything else, $49 annual fee
