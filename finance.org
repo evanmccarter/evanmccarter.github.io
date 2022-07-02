@@ -185,13 +185,13 @@
       - [[https://creditcards.chase.com/cash-back-credit-cards/freedom/student][Chase Freedom® Student credit card]]: 1% back, just to build credit
       - [[https://creditcards.chase.com/rewards-credit-cards/disney/rewards][Disney® Visa® Card]]: 1% back in Disney Rewards Dollars, just to build credit
 ***** General
+      - [[https://www.citi.com/credit-cards/citi-custom-cash-credit-card][CITI CUSTOM CASH CARD]]: 5% cash back on purchases in your largest category, 1% cash back on all other purchases
       - [[https://www.paypal.com/credit-application/co/landing][PayPal Cashback Mastercard®]]: at least 2% cash back on all purchases
       - [[https://x1creditcard.com][X1 Card]]: 2% back when redeemed with partners
       - [[https://fidelity.com/cash-management/visa-signature-card][Fidelity® Rewards Visa Signature® Card]]: 2% cash back *automatically redeemable* *in cash* in amounts over $50 to eligible Fidelity account(s), including most non-retirement registrations, and amounts over $25 for travel
       - [[https://www.sofi.com/credit-card/][SoFi Credit Card]]: 2% unlimited cash back, [[https://support.sofi.com/hc/en-us/articles/360051249532-Does-SoFi-Credit-Card-have-a-foreign-transaction-fee-][no foreign transaction fees]]
       - [[https://creditcards.wellsfargo.com/active-cash-credit-card/?vendor_code=WF&product_code=CC&subproduct_code=AC][Wells Fargo Active Cash Card]]: unlimited 2% cash rewards on purchases
       - [[https://citi.com/credit-cards/credit-card-details/citi.action?ID=citi-double-cash-credit-card][Citi® Double Cash Card]]: 2% cash back on every purchase, redeemable in amounts over $25
-      - [[https://www.citi.com/credit-cards/citi-custom-cash-credit-card][CITI CUSTOM CASH CARD]]: 5% cash back on purchases in your largest category, 1% cash back on all other purchases
 ***** Gas
       - [[https://www.aboundcu.com/Spend-Save/Personal-Accounts/Credit-Cards/Cash-Back-VISA-Card][Abound Credit Union Visa® Platinum Credit Card]]: 5% cash back on gas and rotating categories
       - [[https://usaa.com/inet/wc/bank-credit-card-cashback-rewards-plus-american-express][Cashback Rewards Plus American Express® Credit Card]]: 5% cash back on your first $3,000 in combined gas station and military base Purchases yearly
