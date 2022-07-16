@@ -186,6 +186,7 @@
       - [[https://creditcards.chase.com/rewards-credit-cards/disney/rewards][Disney® Visa® Card]]: 1% back in Disney Rewards Dollars, just to build credit
 ***** General
       - [[https://www.citi.com/credit-cards/citi-custom-cash-credit-card][CITI CUSTOM CASH CARD]]: 5% cash back on purchases in your largest category, 1% cash back on all other purchases
+      - [[https://bankofamerica.com/credit-cards/products/cash-back-credit-card][Bank of America® Customized Cash Rewards Credit Card]] & [[https://bankofamerica.com/credit-cards/products/student-cash-back-credit-card][Bank of America® Customized Cash Rewards Credit Card for Students]]: 3% cash back in the category of your choice: gas, online shopping, dining, travel, drug stores, or home improvement/furnishings
       - [[https://www.paypal.com/credit-application/co/landing][PayPal Cashback Mastercard®]]: at least 2% cash back on all purchases
       - [[https://x1creditcard.com][X1 Card]]: 2% back when redeemed with partners
       - [[https://fidelity.com/cash-management/visa-signature-card][Fidelity® Rewards Visa Signature® Card]]: 2% cash back *automatically redeemable* *in cash* in amounts over $50 to eligible Fidelity account(s), including most non-retirement registrations, and amounts over $25 for travel
@@ -207,7 +208,6 @@
       - [[https://americanexpress.com/us/credit-cards/card/blue-cash-everyday][Blue Cash Everyday® Card]]: 3% cash back at U.S. supermarkets, on up to $6,000 per year in purchases (then 1%)
 ***** Other
       - [[https://usbank.com/credit-cards/cash-plus-visa-signature-credit-card.html][U.S. Bank cash+ Visa Signature Card]]: 5% cash back on any two of utilities, internet, phone service bills, or other categories
-      - [[https://bankofamerica.com/credit-cards/products/cash-back-credit-card][Bank of America® Customized Cash Rewards Credit Card]] & [[https://bankofamerica.com/credit-cards/products/student-cash-back-credit-card][Bank of America® Customized Cash Rewards Credit Card for Students]]: 3% cash back in the category of your choice: gas, online shopping, dining, travel, drug stores, or home improvement/furnishings
       - [[https://online1.elancard.com/oad/learnMoreCorrespondent.controller?locationCode=4619&offerId=VXXP9BHM3H&preparerType=customer][NBKC Bank Visa® Business Cash Card]]: 3% cash back on all eligible net purchases from office supply stores and cellular phone, landline, internet and cable TV services, 2% cash back on restaurant and gas station eligible net purchases
       - [[https://discover.com/credit-cards][Every Discover credit card]]
       - [[https://platinumrewardsnow.com/Rewards_Calendar][ABOC Mastercard®]]: 5% cash back in rotating categories
