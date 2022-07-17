@@ -187,7 +187,7 @@
 ***** General
       - [[https://www.citi.com/credit-cards/citi-custom-cash-credit-card][CITI CUSTOM CASH CARD]]: 5% cash back on purchases in your largest category, 1% cash back on all other purchases
       - [[https://bankofamerica.com/credit-cards/products/cash-back-credit-card][Bank of America® Customized Cash Rewards Credit Card]] & [[https://bankofamerica.com/credit-cards/products/student-cash-back-credit-card][Bank of America® Customized Cash Rewards Credit Card for Students]]: 3% cash back in the category of your choice: gas, online shopping, dining, travel, drug stores, or home improvement/furnishings
-      - [[https://www.paypal.com/credit-application/co/landing][PayPal Cashback Mastercard®]]: 3% cash back when you check out with PayPal 2% cash back on all other purchases
+      - [[https://www.paypal.com/credit-application/co/landing][PayPal Cashback Mastercard®]]: 3% cash back when you check out with PayPal. 2% cash back on all other purchases. No limit to the cash you can earn
       - [[https://www.americanexpress.com/us/credit-cards/card/blue-cash-everyday][Blue Cash Everyday® Card]]: 3% CASH BACK On U.S. Online Retail Purchases, 3% CASH BACK On Groceries, 3% CASH BACK On Gas On up to $6,000 per year in purchases (then 1%)
       - [[https://x1creditcard.com][X1 Card]]: 2% back when redeemed with partners
       - [[https://fidelity.com/cash-management/visa-signature-card][Fidelity® Rewards Visa Signature® Card]]: 2% cash back *automatically redeemable* *in cash* in amounts over $50 to eligible Fidelity account(s), including most non-retirement registrations, and amounts over $25 for travel
