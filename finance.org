@@ -195,6 +195,7 @@
       - [[https://citi.com/credit-cards/credit-card-details/citi.action?ID=citi-double-cash-credit-card][Citi® Double Cash Card]]: 2% cash back on every purchase, redeemable in amounts over $25
       - [[https://www.americanexpress.com/us/credit-cards/business/business-credit-cards/american-express-blue-business-plus-credit-card-amex/][Blue Business® Plus Credit Card]]: 2X POINTS On Everyday Eligible Business Purchases up to $50k per calendar year
       - [[https://www.americanexpress.com/en-us/business/credit-cards/blue-business-cash/][Blue Business CashTM Card]]: 2% CASH BACK On Everyday Eligible Business Purchases up to $50k per calendar year, automatically credited to your statement
+      - [[https://www.fnbo.com/personal-banking/credit-cards/evergreen/][Evergreen® by FNBO Credit Card]]: Earn Unlimited 2% CASH BACK on every purchase
       - [[https://x1creditcard.com][X1 Card]]: 2% back when redeemed with partners
 ***** Gas
       - [[https://www.aboundcu.com/Spend-Save/Personal-Accounts/Credit-Cards/Cash-Back-VISA-Card][Abound Credit Union Visa® Platinum Credit Card]]: 5% cash back on gas and rotating categories up to $100.00 in rewards earned per statement cycle
@@ -202,6 +203,7 @@
       - [[https://samsclub.com/sams/pagedetails/content.jsp?pageName=credit][Sam's Club® Mastercard®]]: 3% cash back on dining & travel. 5% cash back on gas (on the first $6,000 per year, then 1% after). Maximum of $5,000 in Cash Back rewards can be earned in a calendar year. Cash back rewards are forfeited if the Cash Back earned in a calendar year is less than $5.00. Cash back rewards will be *automatically* loaded onto your Sam's Club membership and may be redeemed only at a Sam's Club location or at SamsClub.com
       - [[https://pnc.com/en/personal-banking/banking/credit-cards/pnc-cash-rewards-visa-credit-card.html][PNC Cash Rewards Visa credit card]]: 4% cash back on gas & 3% cash back on restaurants
       - [[https://verizon.com/solutions-and-services/verizon-visa-card][Verizon Visa® Card]]: 4% cash back on grocery store and gas purchases if you made the mistake of choosing Verizon as your mobile carrier
+      - [[https://www.fnbo.com/personal-banking/credit-cards/getaway/][Getaway by FNBO Credit Card]]: Earn Unlimited 3x points per dollar spent on travel, dining and gas
       - [[https://online1.elancard.com/oad/learnMoreCorrespondent.controller?locationCode=4619&offerId=3HMQ87X79G&preparerType=customer][NBKC Bank Cash Rewards American Express® Card]]: 3% cash back on the first $6,000 in eligible net purchases made each year at gas stations, 2% cash back on supermarket net purchases
       - [[https://www.truist.com/credit-cards/enjoy-cash][Truist Enjoy Cash credit card]]: 3% cash back on gas, 2% cash back on utilities and groceries, 10% bonus cash when you redeem rewards into your BB&T checking or savings account. Monthly cap of $1,000 on spend at the bonus rates
 ***** Groceries
