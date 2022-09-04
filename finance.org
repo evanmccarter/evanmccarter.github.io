@@ -160,6 +160,8 @@
 **** Capital One
      [[https://cardrates.com/advice/how-many-capital-one-cards][Capital One limits the number of directly issued cards available for any cardholder to two]]
      and supposedly doesn't like giving credit cards to people that already have established credit
+**** [[https://cards.barclaycardus.com/banking/cards/][Barclays]]
+     [[https://cards.barclaycardus.com/banking/cards/aarp-travel-rewards-mastercard/][The AARP® Travel Rewards Mastercard from Barclays]]: Earn Unlimited 3% Cash Back on Airfare, Hotel Stays and Car Rentals
 **** J. P. Morgan Chase
      Chase will only issue credit cards to people with less than 5 new credit cards in the past 24 months. 
      Therefore, others recommend getting enough credit to gain Chase's trust and then 
