@@ -78,9 +78,9 @@
    - [[https://betterment.com/?referral_key=evanmccarter][Betterment]]: Sweeps money into FDIC insured accounts at banks, providing high interest, sweeps in unneeded cash. Also gives advice & graphs
    - [[https://wealthfront.com/c/affiliates/invited/AFFA-RXMQ-8ZFA-ZXV3][Wealthfront]]: Sweeps money into FDIC insured accounts at banks, providing high interest. Also gives advice & net worth tracking
 ** Investing
-   - [[https://Fidelity.com][Fidelity]]: Very competitive investing, perfect tax strategy available
+   - [[https://Fidelity.com][Fidelity]]: Free accounts and very competitive investing, [[https://oltx.fidelity.com/ftgw/fbc/ofaccounts/convertCostBasisMethods][perfect tax strategy]] and [[https://accountmaint.fidelity.com/ftgw/Profile/custpref/divncapg/init][dividend reinvestment]] available
      - [[https://fundresearch.fidelity.com/mutual-funds/summary/316067107][FDRXX]] is their cheapest short term money market mutual fund and it's managed by the same people as most of their other short term money market funds
-     - [[https://fidelity.com/mutual-funds/investing-ideas/index-funds][Zero expense ratio index mutual funds]], no fees for normal accounts
+     - [[https://fidelity.com/mutual-funds/investing-ideas/index-funds][Zero expense ratio index mutual funds]] with useful portfolio weights
      - [[https://www.fidelity.com/retirement-ira/overview][Free IRA accounts]] with no minimums, you must set up an account of each type before the end of the tax year in order to use them to save on tax bills
    - [[https://Vanguard.com][Vanguard]]: [[https://YouTube.com/watch?v=MLgn_kVKjCE][Especially competitive]] ETFs & Mutual Funds
    - [[https://m1.finance/Juu95Dr8lv3I][M1 Finance]]: Automatic rebalancing, excellent tax strategy with no annual fee. Only re-invests cash balances over $25 so has some inefficient drag
