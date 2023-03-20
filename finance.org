@@ -1,18 +1,18 @@
 #+TITLE: Personal Finance Resources
-* Advice
-  - [[https://DaveRamsey.com][Dave Ramsey]]: Famous for [[https://daveramsey.com/blog/what-is-a-budget][budgeting]] & the [[https://daveramsey.com/dave-ramsey-7-baby-steps][7 baby steps]], which are simpler & easier than other advice
+* Information
+  - [[https://DaveRamsey.com][Dave Ramsey]]: Famous for [[https://daveramsey.com/blog/what-is-a-budget][budgeting]] & the [[https://daveramsey.com/dave-ramsey-7-baby-steps][7 baby steps]], which are simpler & easier than other procedures
     - [[https://daveramsey.com/budgeting/how-to-budget][How to budget]]
     - [[https://daveramsey.com/blog/what-is-a-budget][What is a budget?]]
     - [[https://daveramsey.com/blog/zero-based-budget-what-why][Zero based budgeting]]: I recommend this style of budgeting
-  - [[https://Bogleheads.org][Bogleheads]]: Investing advice inspired by John Bogle
+  - [[https://Bogleheads.org][Bogleheads]]: Investing information inspired by John Bogle
     - [[https://bogleheads.org/wiki/Getting_started][Bogleheads Wiki]]: A fountain of information & examples
       - [[https://bogleheads.org/wiki/Prioritizing_investments][Prioritizing investments]]: Where should you invest first?
   - [[https://reddit.com/r/personalfinance/wiki][PersonalFinance Reddit]]: Significantly mirrors Bogleheads philosophy
     - [[https://reddit.com/r/personalfinance/wiki/commontopics][Where should my next dollar go?]]: Similar to Bogleheads investment order & includes [[https://reddit.com/r/personalfinance/wiki/commontopics#wiki_the_flowchart][a flowchart]]
-  - [[https://moneyguy.com][The Money Guy Show]]: Mirrors Bogleheads advice with their [[https://moneyguy.com/2018/08/financial-order-of-operations-how-to-prioritize-your-financial-goals][order of operations]]
+  - [[https://moneyguy.com][The Money Guy Show]]: Mirrors Bogleheads information with their [[https://moneyguy.com/2018/08/financial-order-of-operations-how-to-prioritize-your-financial-goals][order of operations]]
   - [[https://personal.vanguard.com/us/FundsInvQuestionnaire][Vanguard - Determine your asset allocation: Investor questionnaire]]: Questionnaire to gauge where you should be investing in general, or for a specific goal if you limit your answers with one in mind
 * Research
-  - [[https://Investopedia.com][Investopedia]]: Definitions of financial terms & basic advice
+  - [[https://Investopedia.com][Investopedia]]: Definitions of financial terms & basic information
   - [[https://Nerdwallet.com][Nerdwallet]]: Reviews & search functions for institutions & accounts
     - [[https://nerdwallet.com/rates/savings-account?active_offers=true&bank_type=bank&bank_type=credit_union&bank_type=internet_bank&deposit_minimum=1&min_ratings=3&sort_key=apy&sort_order=desc][High interest savings accounts]]
     - [[https://nerdwallet.com/checking-accounts?account_features=no_monthly_fee&active_offers=true&bank_type=bank&bank_type=credit_union&bank_type=internet_bank&checking_daily_balance=0&customer_type=everyone&direct_deposit=0&sort_key=monthly_cost&sort_order=desc][Cheap checking accounts]]
@@ -92,7 +92,7 @@
    - [[https://wealthfront.com/c/affiliates/invited/AFFA-RXMQ-8ZFA-ZXV3][Wealthfront]]: "Robo-advice". Management fees
    - [[http://schwab.com/public/schwab/nn/refer-prospect.html?refrid=REFER6YUV73ZF][Charles Schwab]]: Various order types
 ** Financial Data & Charting
-   - [[https://morningstar.com][Morningstar]]: Third party advice and research company, gratuitous data on different funds and assets
+   - [[https://morningstar.com][Morningstar]]: Third party research company, gratuitous data on different funds and assets
    - [[https://finance.yahoo.com][Yahoo Finance]]: Good charts and indicators
    - [[https://tradingview.com][TradingView]]: Fullscreen charts
 ** Insurance
@@ -132,7 +132,7 @@
 
   See the [[https://myfico.com][myFico]] links in [[Research]] for more information & sources
 
-  See [[https://creditwise.capitalone.com][Credit Wise from Capital One]], [[https://Nerdwallet.com][Nerdwallet]], or some YouTube Channels for credit card advice
+  See [[https://creditwise.capitalone.com][Credit Wise from Capital One]], [[https://Nerdwallet.com][Nerdwallet]], or some YouTube Channels for credit card information
 ** Credit tracking
    You can use these sites to estimate your credit score in order to gauge when to apply for a better credit card while you're beginning to build credit. 
    However, these sites usually show a [[https://vantagescore.com][Vantage Score]] rather than a [[https://myfico.com][FICO]] [[https://ficoscore.com][score]], which weight categories differently, and most lenders use FICO scores. 
