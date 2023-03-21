@@ -89,7 +89,7 @@
        - [[https://m1.finance/W5oQTZGwT8_l][Income]]: Money to be used in 6-12 years or withdrawn from at a constant rate
        - [[https://m1.finance/IB1Ar4dfGb0H][Long-Term Growth]]: Money to be used in over 12 years
    - [[https://betterment.com/?referral_key=evanmccarter][Betterment]]: Investing with automatic tax loss harvesting, goal-based accounts. Management fees
-   - [[https://wealthfront.com/c/affiliates/invited/AFFA-RXMQ-8ZFA-ZXV3][Wealthfront]]: "Robo-advice". Management fees
+   - [[https://wealthfront.com/c/affiliates/invited/AFFA-RXMQ-8ZFA-ZXV3][Wealthfront]]: Wealthfront Advisers, LLC. Management fees
    - [[http://schwab.com/public/schwab/nn/refer-prospect.html?refrid=REFER6YUV73ZF][Charles Schwab]]: Various order types
 ** Financial Data & Charting
    - [[https://morningstar.com][Morningstar]]: Third party research company, gratuitous data on different funds and assets
