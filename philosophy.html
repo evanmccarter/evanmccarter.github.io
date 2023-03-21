@@ -3,36 +3,29 @@
 "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
 <head>
-<!-- 2022-05-30 Mon 13:30 -->
-<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
-<meta name="viewport" content="width=device-width, initial-scale=1" />
 <title>Philosophy Resources</title>
-<meta name="generator" content="Org Mode" />
-<style>
-  #content { max-width: 60em; margin: auto; }
-  .title  { text-align: center;
-             margin-bottom: .2em; }
-  .subtitle { text-align: center;
-              font-size: medium;
-              font-weight: bold;
-              margin-top:0; }
+<!-- 2023-03-21 Tue 00:16 -->
+<meta  http-equiv="Content-Type" content="text/html;charset=utf-8" />
+<meta  name="generator" content="Org-mode" />
+<meta  name="author" content="Evan James McCarter" />
+<style type="text/css">
+ <!--/*--><![CDATA[/*><!--*/
+  .title  { text-align: center; }
   .todo   { font-family: monospace; color: red; }
-  .done   { font-family: monospace; color: green; }
-  .priority { font-family: monospace; color: orange; }
+  .done   { color: green; }
   .tag    { background-color: #eee; font-family: monospace;
             padding: 2px; font-size: 80%; font-weight: normal; }
   .timestamp { color: #bebebe; }
   .timestamp-kwd { color: #5f9ea0; }
-  .org-right  { margin-left: auto; margin-right: 0px;  text-align: right; }
-  .org-left   { margin-left: 0px;  margin-right: auto; text-align: left; }
-  .org-center { margin-left: auto; margin-right: auto; text-align: center; }
+  .right  { margin-left: auto; margin-right: 0px;  text-align: right; }
+  .left   { margin-left: 0px;  margin-right: auto; text-align: left; }
+  .center { margin-left: auto; margin-right: auto; text-align: center; }
   .underline { text-decoration: underline; }
   #postamble p, #preamble p { font-size: 90%; margin: .2em; }
   p.verse { margin-left: 3%; }
   pre {
-    border: 1px solid #e6e6e6;
-    border-radius: 3px;
-    background-color: #f2f2f2;
+    border: 1px solid #ccc;
+    box-shadow: 3px 3px 3px #eee;
     padding: 8pt;
     font-family: monospace;
     overflow: auto;
@@ -40,140 +33,43 @@
   }
   pre.src {
     position: relative;
-    overflow: auto;
+    overflow: visible;
+    padding-top: 1.2em;
   }
   pre.src:before {
     display: none;
     position: absolute;
-    top: -8px;
-    right: 12px;
+    background-color: white;
+    top: -10px;
+    right: 10px;
     padding: 3px;
-    color: #555;
-    background-color: #f2f2f299;
+    border: 1px solid black;
   }
-  pre.src:hover:before { display: inline; margin-top: 14px;}
-  /* Languages per Org manual */
-  pre.src-asymptote:before { content: 'Asymptote'; }
-  pre.src-awk:before { content: 'Awk'; }
-  pre.src-authinfo::before { content: 'Authinfo'; }
-  pre.src-C:before { content: 'C'; }
-  /* pre.src-C++ doesn't work in CSS */
-  pre.src-clojure:before { content: 'Clojure'; }
-  pre.src-css:before { content: 'CSS'; }
-  pre.src-D:before { content: 'D'; }
-  pre.src-ditaa:before { content: 'ditaa'; }
-  pre.src-dot:before { content: 'Graphviz'; }
-  pre.src-calc:before { content: 'Emacs Calc'; }
+  pre.src:hover:before { display: inline;}
+  pre.src-sh:before    { content: 'sh'; }
+  pre.src-bash:before  { content: 'sh'; }
   pre.src-emacs-lisp:before { content: 'Emacs Lisp'; }
-  pre.src-fortran:before { content: 'Fortran'; }
-  pre.src-gnuplot:before { content: 'gnuplot'; }
-  pre.src-haskell:before { content: 'Haskell'; }
-  pre.src-hledger:before { content: 'hledger'; }
-  pre.src-java:before { content: 'Java'; }
-  pre.src-js:before { content: 'Javascript'; }
-  pre.src-latex:before { content: 'LaTeX'; }
-  pre.src-ledger:before { content: 'Ledger'; }
-  pre.src-lisp:before { content: 'Lisp'; }
-  pre.src-lilypond:before { content: 'Lilypond'; }
-  pre.src-lua:before { content: 'Lua'; }
-  pre.src-matlab:before { content: 'MATLAB'; }
-  pre.src-mscgen:before { content: 'Mscgen'; }
-  pre.src-ocaml:before { content: 'Objective Caml'; }
-  pre.src-octave:before { content: 'Octave'; }
-  pre.src-org:before { content: 'Org mode'; }
-  pre.src-oz:before { content: 'OZ'; }
-  pre.src-plantuml:before { content: 'Plantuml'; }
-  pre.src-processing:before { content: 'Processing.js'; }
-  pre.src-python:before { content: 'Python'; }
-  pre.src-R:before { content: 'R'; }
-  pre.src-ruby:before { content: 'Ruby'; }
-  pre.src-sass:before { content: 'Sass'; }
-  pre.src-scheme:before { content: 'Scheme'; }
-  pre.src-screen:before { content: 'Gnu Screen'; }
-  pre.src-sed:before { content: 'Sed'; }
-  pre.src-sh:before { content: 'shell'; }
-  pre.src-sql:before { content: 'SQL'; }
-  pre.src-sqlite:before { content: 'SQLite'; }
-  /* additional languages in org.el's org-babel-load-languages alist */
-  pre.src-forth:before { content: 'Forth'; }
-  pre.src-io:before { content: 'IO'; }
-  pre.src-J:before { content: 'J'; }
-  pre.src-makefile:before { content: 'Makefile'; }
-  pre.src-maxima:before { content: 'Maxima'; }
-  pre.src-perl:before { content: 'Perl'; }
-  pre.src-picolisp:before { content: 'Pico Lisp'; }
-  pre.src-scala:before { content: 'Scala'; }
-  pre.src-shell:before { content: 'Shell Script'; }
-  pre.src-ebnf2ps:before { content: 'ebfn2ps'; }
-  /* additional language identifiers per "defun org-babel-execute"
-       in ob-*.el */
-  pre.src-cpp:before  { content: 'C++'; }
-  pre.src-abc:before  { content: 'ABC'; }
-  pre.src-coq:before  { content: 'Coq'; }
-  pre.src-groovy:before  { content: 'Groovy'; }
-  /* additional language identifiers from org-babel-shell-names in
-     ob-shell.el: ob-shell is the only babel language using a lambda to put
-     the execution function name together. */
-  pre.src-bash:before  { content: 'bash'; }
-  pre.src-csh:before  { content: 'csh'; }
-  pre.src-ash:before  { content: 'ash'; }
-  pre.src-dash:before  { content: 'dash'; }
-  pre.src-ksh:before  { content: 'ksh'; }
-  pre.src-mksh:before  { content: 'mksh'; }
-  pre.src-posh:before  { content: 'posh'; }
-  /* Additional Emacs modes also supported by the LaTeX listings package */
-  pre.src-ada:before { content: 'Ada'; }
-  pre.src-asm:before { content: 'Assembler'; }
-  pre.src-caml:before { content: 'Caml'; }
-  pre.src-delphi:before { content: 'Delphi'; }
-  pre.src-html:before { content: 'HTML'; }
-  pre.src-idl:before { content: 'IDL'; }
-  pre.src-mercury:before { content: 'Mercury'; }
-  pre.src-metapost:before { content: 'MetaPost'; }
-  pre.src-modula-2:before { content: 'Modula-2'; }
-  pre.src-pascal:before { content: 'Pascal'; }
-  pre.src-ps:before { content: 'PostScript'; }
-  pre.src-prolog:before { content: 'Prolog'; }
-  pre.src-simula:before { content: 'Simula'; }
-  pre.src-tcl:before { content: 'tcl'; }
-  pre.src-tex:before { content: 'TeX'; }
-  pre.src-plain-tex:before { content: 'Plain TeX'; }
-  pre.src-verilog:before { content: 'Verilog'; }
-  pre.src-vhdl:before { content: 'VHDL'; }
-  pre.src-xml:before { content: 'XML'; }
-  pre.src-nxml:before { content: 'XML'; }
-  /* add a generic configuration mode; LaTeX export needs an additional
-     (add-to-list 'org-latex-listings-langs '(conf " ")) in .emacs */
-  pre.src-conf:before { content: 'Configuration File'; }
+  pre.src-R:before     { content: 'R'; }
+  pre.src-perl:before  { content: 'Perl'; }
+  pre.src-java:before  { content: 'Java'; }
+  pre.src-sql:before   { content: 'SQL'; }
 
   table { border-collapse:collapse; }
   caption.t-above { caption-side: top; }
   caption.t-bottom { caption-side: bottom; }
   td, th { vertical-align:top;  }
-  th.org-right  { text-align: center;  }
-  th.org-left   { text-align: center;   }
-  th.org-center { text-align: center; }
-  td.org-right  { text-align: right;  }
-  td.org-left   { text-align: left;   }
-  td.org-center { text-align: center; }
+  th.right  { text-align: center;  }
+  th.left   { text-align: center;   }
+  th.center { text-align: center; }
+  td.right  { text-align: right;  }
+  td.left   { text-align: left;   }
+  td.center { text-align: center; }
   dt { font-weight: bold; }
-  .footpara { display: inline; }
+  .footpara:nth-child(2) { display: inline; }
+  .footpara { display: block; }
   .footdef  { margin-bottom: 1em; }
   .figure { padding: 1em; }
   .figure p { text-align: center; }
-  .equation-container {
-    display: table;
-    text-align: center;
-    width: 100%;
-  }
-  .equation {
-    vertical-align: middle;
-  }
-  .equation-label {
-    display: table-cell;
-    text-align: right;
-    vertical-align: middle;
-  }
   .inlinetask {
     padding: 10px;
     border: 2px solid gray;
@@ -190,34 +86,80 @@
     { font-size: 10px; font-weight: bold; white-space: nowrap; }
   .org-info-js_search-highlight
     { background-color: #ffff00; color: #000000; font-weight: bold; }
-  .org-svg { width: 90%; }
+  /*]]>*/-->
 </style>
+<script type="text/javascript">
+/*
+@licstart  The following is the entire license notice for the
+JavaScript code in this tag.
+
+Copyright (C) 2012-2013 Free Software Foundation, Inc.
+
+The JavaScript code in this tag is free software: you can
+redistribute it and/or modify it under the terms of the GNU
+General Public License (GNU GPL) as published by the Free Software
+Foundation, either version 3 of the License, or (at your option)
+any later version.  The code is distributed WITHOUT ANY WARRANTY;
+without even the implied warranty of MERCHANTABILITY or FITNESS
+FOR A PARTICULAR PURPOSE.  See the GNU GPL for more details.
+
+As additional permission under GNU GPL version 3 section 7, you
+may distribute non-source (e.g., minimized or compacted) forms of
+that code without the copy of the GNU GPL normally required by
+section 4, provided you include this license notice and a URL
+through which recipients can access the Corresponding Source.
+
+
+@licend  The above is the entire license notice
+for the JavaScript code in this tag.
+*/
+<!--/*--><![CDATA[/*><!--*/
+ function CodeHighlightOn(elem, id)
+ {
+   var target = document.getElementById(id);
+   if(null != target) {
+     elem.cacheClassElem = elem.className;
+     elem.cacheClassTarget = target.className;
+     target.className = "code-highlighted";
+     elem.className   = "code-highlighted";
+   }
+ }
+ function CodeHighlightOff(elem, id)
+ {
+   var target = document.getElementById(id);
+   if(elem.cacheClassElem)
+     elem.className = elem.cacheClassElem;
+   if(elem.cacheClassTarget)
+     target.className = elem.cacheClassTarget;
+ }
+/*]]>*///-->
+</script>
 </head>
 <body>
-<div id="content" class="content">
+<div id="content">
 <h1 class="title">Philosophy Resources</h1>
-<div id="table-of-contents" role="doc-toc">
+<div id="table-of-contents">
 <h2>Table of Contents</h2>
-<div id="text-table-of-contents" role="doc-toc">
+<div id="text-table-of-contents">
 <ul>
-<li><a href="#orgb4efbe1">1. A Definition of Life</a></li>
-<li><a href="#org8e58536">2. Embracing Ignorance</a>
+<li><a href="#sec-1">1. A Definition of Life</a></li>
+<li><a href="#sec-2">2. Embracing Ignorance</a>
 <ul>
-<li><a href="#orgdc66a71">2.1. Help Life flourish</a>
+<li><a href="#sec-2-1">2.1. Help Life flourish</a>
 <ul>
-<li><a href="#orgb8a1665">2.1.1. Long term accomplishments</a></li>
+<li><a href="#sec-2-1-1">2.1.1. Long term accomplishments</a></li>
 </ul>
 </li>
-<li><a href="#org66d48c1">2.2. Communal Ethics</a></li>
+<li><a href="#sec-2-2">2.2. Communal Ethics</a></li>
 </ul>
 </li>
-<li><a href="#org5b04508">3. Videos</a></li>
-<li><a href="#org94e7369">4. Books</a></li>
+<li><a href="#sec-3">3. Videos</a></li>
+<li><a href="#sec-4">4. Books</a></li>
 </ul>
 </div>
 </div>
-<div id="outline-container-orgb4efbe1" class="outline-2">
-<h2 id="orgb4efbe1"><span class="section-number-2">1.</span> A Definition of Life</h2>
+<div id="outline-container-sec-1" class="outline-2">
+<h2 id="sec-1"><span class="section-number-2">1</span> A Definition of Life</h2>
 <div class="outline-text-2" id="text-1">
 <p>
 I define "A Living Thing" as "A system that grows and then splits into multiple independent parts". For example, a bacteria grows larger, then splits into two bacteria, and both can continue to reproduce even if they are separated by a great distance. Human beings become pregnant, grow in mass, give birth, and children eventually become independent agents that can continue to reproduce even when their parents and siblings are absent. 
@@ -229,8 +171,8 @@ Incidentally, this suggests that virus particles are not alive (they do not grow
 </div>
 </div>
 
-<div id="outline-container-org8e58536" class="outline-2">
-<h2 id="org8e58536"><span class="section-number-2">2.</span> Embracing Ignorance</h2>
+<div id="outline-container-sec-2" class="outline-2">
+<h2 id="sec-2"><span class="section-number-2">2</span> Embracing Ignorance</h2>
 <div class="outline-text-2" id="text-2">
 <p>
 In software engineering there is a concept of "suitability for a particular purpose". 
@@ -249,16 +191,16 @@ Having accepted that I will likely constantly be faced with ethical challenges I
 </p>
 </div>
 
-<div id="outline-container-orgdc66a71" class="outline-3">
-<h3 id="orgdc66a71"><span class="section-number-3">2.1.</span> Help Life flourish</h3>
+<div id="outline-container-sec-2-1" class="outline-3">
+<h3 id="sec-2-1"><span class="section-number-3">2.1</span> Help Life flourish</h3>
 <div class="outline-text-3" id="text-2-1">
 <p>
 The goal I have been operating under for several years without incident is "to ensure that at least one Living Thing exists at as many points in time as possible". This may end up as merely a colony of bacteria living on a spaceship orbiting a black hole, but even that would give the survivors a chance to take advantage of any new energy sources that appear in the universe unexpectedly. 
 </p>
 </div>
 
-<div id="outline-container-orgb8a1665" class="outline-4">
-<h4 id="orgb8a1665"><span class="section-number-4">2.1.1.</span> Long term accomplishments</h4>
+<div id="outline-container-sec-2-1-1" class="outline-4">
+<h4 id="sec-2-1-1"><span class="section-number-4">2.1.1</span> Long term accomplishments</h4>
 <div class="outline-text-4" id="text-2-1-1">
 <p>
 An ideal way to accomplish this goal would be to find a way to reverse entropy in a given area of space. Then we could set up a system where we cause matter to gain momentum or manufacture new particles, where the increase in energy or mass is greater than the inputs we provide, then collect the particles that carry the "free" energy for use elsewhere. If this can be done at a massive scale, producing many undecillions of kilograms of matter or the equivalent in energy, it may be energy efficient to continuously construct black holes with the output of the area of reversed entropy, as dropping matter into black holes makes a large amount of energy available surprisingly: <a href="https://www.youtube.com/watch?v=ulCdoCfw-bY">https://www.youtube.com/watch?v=ulCdoCfw-bY</a> 
@@ -271,8 +213,8 @@ In the short term, colonizing Mars or Mercury (<a href="https://www.einstein-sch
 </div>
 </div>
 
-<div id="outline-container-org66d48c1" class="outline-3">
-<h3 id="org66d48c1"><span class="section-number-3">2.2.</span> Communal Ethics</h3>
+<div id="outline-container-sec-2-2" class="outline-3">
+<h3 id="sec-2-2"><span class="section-number-3">2.2</span> Communal Ethics</h3>
 <div class="outline-text-3" id="text-2-2">
 <p>
 It may be possible to engage in religious, civic, and state institutions such that the interactions between many conscious beings will produce more ethical results than one individual acting alone. 
@@ -281,20 +223,23 @@ It may be possible to engage in religious, civic, and state institutions such th
 </div>
 </div>
 
-<div id="outline-container-org5b04508" class="outline-2">
-<h2 id="org5b04508"><span class="section-number-2">3.</span> Videos</h2>
+<div id="outline-container-sec-3" class="outline-2">
+<h2 id="sec-3"><span class="section-number-2">3</span> Videos</h2>
 <div class="outline-text-2" id="text-3">
 <ul class="org-ul">
 <li><a href="https://www.youtube.com/user/JordanPetersonVideos">Jordan B. Peterson</a>
 <ul class="org-ul">
-<li><a href="https://www.youtube.com/watch?v=f-wWBGo6a2w&amp;list=PL22J3VaeABQD_IZs7y60I3lUrrFTzkpat">Discovering how to live a good Life through biblical analysis</a></li>
-</ul></li>
-<li><a href="https://www.youtube.com/watch?v=BNYJQaZUDrI&amp;list=PL8dPuuaLjXtNgK6MZucdYldNkMybYIHKR&amp;index=1">CrashCourse Philosophy playlist</a></li>
+<li><a href="https://www.youtube.com/watch?v=f-wWBGo6a2w&list=PL22J3VaeABQD_IZs7y60I3lUrrFTzkpat">Discovering how to live a good Life through biblical analysis</a>
+</li>
+</ul>
+</li>
+<li><a href="https://www.youtube.com/watch?v=BNYJQaZUDrI&list=PL8dPuuaLjXtNgK6MZucdYldNkMybYIHKR&index=1">CrashCourse Philosophy playlist</a>
+</li>
 </ul>
 </div>
 </div>
-<div id="outline-container-org94e7369" class="outline-2">
-<h2 id="org94e7369"><span class="section-number-2">4.</span> Books</h2>
+<div id="outline-container-sec-4" class="outline-2">
+<h2 id="sec-4"><span class="section-number-2">4</span> Books</h2>
 <div class="outline-text-2" id="text-4">
 <p>
 These books are frequently available as audiobooks on YouTube &amp; the authors may have channels, as well as physical or digital forms on Amazon or at your local library
@@ -303,24 +248,24 @@ These books are frequently available as audiobooks on YouTube &amp; the authors 
 
 
 <colgroup>
-<col  class="org-left" />
+<col  class="left" />
 
-<col  class="org-left" />
+<col  class="left" />
 
-<col  class="org-right" />
+<col  class="right" />
 </colgroup>
 <thead>
 <tr>
-<th scope="col" class="org-left">Title</th>
-<th scope="col" class="org-left">Author</th>
-<th scope="col" class="org-right">ISBN</th>
+<th scope="col" class="left">Title</th>
+<th scope="col" class="left">Author</th>
+<th scope="col" class="right">ISBN</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="org-left"><a href="https://youtube.com/watch?v=ZUbfskQ-GAY">Think and Grow Rich</a></td>
-<td class="org-left">Napoleon Hill</td>
-<td class="org-right">978-1585424337</td>
+<td class="left"><a href="https://YouTube.com/watch?v=ZUbfskQ-GAY">Think and Grow Rich</a></td>
+<td class="left">Napoleon Hill</td>
+<td class="right">978-1585424337</td>
 </tr>
 </tbody>
 </table>
@@ -328,8 +273,10 @@ These books are frequently available as audiobooks on YouTube &amp; the authors 
 </div>
 </div>
 <div id="postamble" class="status">
-<p class="date">Created: 2022-05-30 Mon 13:30</p>
-<p class="validation"><a href="https://validator.w3.org/check?uri=referer">Validate</a></p>
+<p class="author">Author: Evan James McCarter</p>
+<p class="date">Created: 2023-03-21 Tue 00:16</p>
+<p class="creator"><a href="http://www.gnu.org/software/emacs/">Emacs</a> 25.3.1 (<a href="http://orgmode.org">Org</a> mode 8.2.10)</p>
+<p class="validation"><a href="http://validator.w3.org/check?uri=referer">Validate</a></p>
 </div>
 </body>
 </html>
