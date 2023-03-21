@@ -3,36 +3,29 @@
 "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
 <head>
-<!-- 2022-06-25 Sat 12:11 -->
-<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
-<meta name="viewport" content="width=device-width, initial-scale=1" />
 <title>Cryptocurrency Resources</title>
-<meta name="generator" content="Org Mode" />
-<style>
-  #content { max-width: 60em; margin: auto; }
-  .title  { text-align: center;
-             margin-bottom: .2em; }
-  .subtitle { text-align: center;
-              font-size: medium;
-              font-weight: bold;
-              margin-top:0; }
+<!-- 2023-03-21 Tue 00:09 -->
+<meta  http-equiv="Content-Type" content="text/html;charset=utf-8" />
+<meta  name="generator" content="Org-mode" />
+<meta  name="author" content="Evan James McCarter" />
+<style type="text/css">
+ <!--/*--><![CDATA[/*><!--*/
+  .title  { text-align: center; }
   .todo   { font-family: monospace; color: red; }
-  .done   { font-family: monospace; color: green; }
-  .priority { font-family: monospace; color: orange; }
+  .done   { color: green; }
   .tag    { background-color: #eee; font-family: monospace;
             padding: 2px; font-size: 80%; font-weight: normal; }
   .timestamp { color: #bebebe; }
   .timestamp-kwd { color: #5f9ea0; }
-  .org-right  { margin-left: auto; margin-right: 0px;  text-align: right; }
-  .org-left   { margin-left: 0px;  margin-right: auto; text-align: left; }
-  .org-center { margin-left: auto; margin-right: auto; text-align: center; }
+  .right  { margin-left: auto; margin-right: 0px;  text-align: right; }
+  .left   { margin-left: 0px;  margin-right: auto; text-align: left; }
+  .center { margin-left: auto; margin-right: auto; text-align: center; }
   .underline { text-decoration: underline; }
   #postamble p, #preamble p { font-size: 90%; margin: .2em; }
   p.verse { margin-left: 3%; }
   pre {
-    border: 1px solid #e6e6e6;
-    border-radius: 3px;
-    background-color: #f2f2f2;
+    border: 1px solid #ccc;
+    box-shadow: 3px 3px 3px #eee;
     padding: 8pt;
     font-family: monospace;
     overflow: auto;
@@ -40,140 +33,43 @@
   }
   pre.src {
     position: relative;
-    overflow: auto;
+    overflow: visible;
+    padding-top: 1.2em;
   }
   pre.src:before {
     display: none;
     position: absolute;
-    top: -8px;
-    right: 12px;
+    background-color: white;
+    top: -10px;
+    right: 10px;
     padding: 3px;
-    color: #555;
-    background-color: #f2f2f299;
+    border: 1px solid black;
   }
-  pre.src:hover:before { display: inline; margin-top: 14px;}
-  /* Languages per Org manual */
-  pre.src-asymptote:before { content: 'Asymptote'; }
-  pre.src-awk:before { content: 'Awk'; }
-  pre.src-authinfo::before { content: 'Authinfo'; }
-  pre.src-C:before { content: 'C'; }
-  /* pre.src-C++ doesn't work in CSS */
-  pre.src-clojure:before { content: 'Clojure'; }
-  pre.src-css:before { content: 'CSS'; }
-  pre.src-D:before { content: 'D'; }
-  pre.src-ditaa:before { content: 'ditaa'; }
-  pre.src-dot:before { content: 'Graphviz'; }
-  pre.src-calc:before { content: 'Emacs Calc'; }
+  pre.src:hover:before { display: inline;}
+  pre.src-sh:before    { content: 'sh'; }
+  pre.src-bash:before  { content: 'sh'; }
   pre.src-emacs-lisp:before { content: 'Emacs Lisp'; }
-  pre.src-fortran:before { content: 'Fortran'; }
-  pre.src-gnuplot:before { content: 'gnuplot'; }
-  pre.src-haskell:before { content: 'Haskell'; }
-  pre.src-hledger:before { content: 'hledger'; }
-  pre.src-java:before { content: 'Java'; }
-  pre.src-js:before { content: 'Javascript'; }
-  pre.src-latex:before { content: 'LaTeX'; }
-  pre.src-ledger:before { content: 'Ledger'; }
-  pre.src-lisp:before { content: 'Lisp'; }
-  pre.src-lilypond:before { content: 'Lilypond'; }
-  pre.src-lua:before { content: 'Lua'; }
-  pre.src-matlab:before { content: 'MATLAB'; }
-  pre.src-mscgen:before { content: 'Mscgen'; }
-  pre.src-ocaml:before { content: 'Objective Caml'; }
-  pre.src-octave:before { content: 'Octave'; }
-  pre.src-org:before { content: 'Org mode'; }
-  pre.src-oz:before { content: 'OZ'; }
-  pre.src-plantuml:before { content: 'Plantuml'; }
-  pre.src-processing:before { content: 'Processing.js'; }
-  pre.src-python:before { content: 'Python'; }
-  pre.src-R:before { content: 'R'; }
-  pre.src-ruby:before { content: 'Ruby'; }
-  pre.src-sass:before { content: 'Sass'; }
-  pre.src-scheme:before { content: 'Scheme'; }
-  pre.src-screen:before { content: 'Gnu Screen'; }
-  pre.src-sed:before { content: 'Sed'; }
-  pre.src-sh:before { content: 'shell'; }
-  pre.src-sql:before { content: 'SQL'; }
-  pre.src-sqlite:before { content: 'SQLite'; }
-  /* additional languages in org.el's org-babel-load-languages alist */
-  pre.src-forth:before { content: 'Forth'; }
-  pre.src-io:before { content: 'IO'; }
-  pre.src-J:before { content: 'J'; }
-  pre.src-makefile:before { content: 'Makefile'; }
-  pre.src-maxima:before { content: 'Maxima'; }
-  pre.src-perl:before { content: 'Perl'; }
-  pre.src-picolisp:before { content: 'Pico Lisp'; }
-  pre.src-scala:before { content: 'Scala'; }
-  pre.src-shell:before { content: 'Shell Script'; }
-  pre.src-ebnf2ps:before { content: 'ebfn2ps'; }
-  /* additional language identifiers per "defun org-babel-execute"
-       in ob-*.el */
-  pre.src-cpp:before  { content: 'C++'; }
-  pre.src-abc:before  { content: 'ABC'; }
-  pre.src-coq:before  { content: 'Coq'; }
-  pre.src-groovy:before  { content: 'Groovy'; }
-  /* additional language identifiers from org-babel-shell-names in
-     ob-shell.el: ob-shell is the only babel language using a lambda to put
-     the execution function name together. */
-  pre.src-bash:before  { content: 'bash'; }
-  pre.src-csh:before  { content: 'csh'; }
-  pre.src-ash:before  { content: 'ash'; }
-  pre.src-dash:before  { content: 'dash'; }
-  pre.src-ksh:before  { content: 'ksh'; }
-  pre.src-mksh:before  { content: 'mksh'; }
-  pre.src-posh:before  { content: 'posh'; }
-  /* Additional Emacs modes also supported by the LaTeX listings package */
-  pre.src-ada:before { content: 'Ada'; }
-  pre.src-asm:before { content: 'Assembler'; }
-  pre.src-caml:before { content: 'Caml'; }
-  pre.src-delphi:before { content: 'Delphi'; }
-  pre.src-html:before { content: 'HTML'; }
-  pre.src-idl:before { content: 'IDL'; }
-  pre.src-mercury:before { content: 'Mercury'; }
-  pre.src-metapost:before { content: 'MetaPost'; }
-  pre.src-modula-2:before { content: 'Modula-2'; }
-  pre.src-pascal:before { content: 'Pascal'; }
-  pre.src-ps:before { content: 'PostScript'; }
-  pre.src-prolog:before { content: 'Prolog'; }
-  pre.src-simula:before { content: 'Simula'; }
-  pre.src-tcl:before { content: 'tcl'; }
-  pre.src-tex:before { content: 'TeX'; }
-  pre.src-plain-tex:before { content: 'Plain TeX'; }
-  pre.src-verilog:before { content: 'Verilog'; }
-  pre.src-vhdl:before { content: 'VHDL'; }
-  pre.src-xml:before { content: 'XML'; }
-  pre.src-nxml:before { content: 'XML'; }
-  /* add a generic configuration mode; LaTeX export needs an additional
-     (add-to-list 'org-latex-listings-langs '(conf " ")) in .emacs */
-  pre.src-conf:before { content: 'Configuration File'; }
+  pre.src-R:before     { content: 'R'; }
+  pre.src-perl:before  { content: 'Perl'; }
+  pre.src-java:before  { content: 'Java'; }
+  pre.src-sql:before   { content: 'SQL'; }
 
   table { border-collapse:collapse; }
   caption.t-above { caption-side: top; }
   caption.t-bottom { caption-side: bottom; }
   td, th { vertical-align:top;  }
-  th.org-right  { text-align: center;  }
-  th.org-left   { text-align: center;   }
-  th.org-center { text-align: center; }
-  td.org-right  { text-align: right;  }
-  td.org-left   { text-align: left;   }
-  td.org-center { text-align: center; }
+  th.right  { text-align: center;  }
+  th.left   { text-align: center;   }
+  th.center { text-align: center; }
+  td.right  { text-align: right;  }
+  td.left   { text-align: left;   }
+  td.center { text-align: center; }
   dt { font-weight: bold; }
-  .footpara { display: inline; }
+  .footpara:nth-child(2) { display: inline; }
+  .footpara { display: block; }
   .footdef  { margin-bottom: 1em; }
   .figure { padding: 1em; }
   .figure p { text-align: center; }
-  .equation-container {
-    display: table;
-    text-align: center;
-    width: 100%;
-  }
-  .equation {
-    vertical-align: middle;
-  }
-  .equation-label {
-    display: table-cell;
-    text-align: right;
-    vertical-align: middle;
-  }
   .inlinetask {
     padding: 10px;
     border: 2px solid gray;
@@ -190,78 +86,151 @@
     { font-size: 10px; font-weight: bold; white-space: nowrap; }
   .org-info-js_search-highlight
     { background-color: #ffff00; color: #000000; font-weight: bold; }
-  .org-svg { width: 90%; }
+  /*]]>*/-->
 </style>
+<script type="text/javascript">
+/*
+@licstart  The following is the entire license notice for the
+JavaScript code in this tag.
+
+Copyright (C) 2012-2013 Free Software Foundation, Inc.
+
+The JavaScript code in this tag is free software: you can
+redistribute it and/or modify it under the terms of the GNU
+General Public License (GNU GPL) as published by the Free Software
+Foundation, either version 3 of the License, or (at your option)
+any later version.  The code is distributed WITHOUT ANY WARRANTY;
+without even the implied warranty of MERCHANTABILITY or FITNESS
+FOR A PARTICULAR PURPOSE.  See the GNU GPL for more details.
+
+As additional permission under GNU GPL version 3 section 7, you
+may distribute non-source (e.g., minimized or compacted) forms of
+that code without the copy of the GNU GPL normally required by
+section 4, provided you include this license notice and a URL
+through which recipients can access the Corresponding Source.
+
+
+@licend  The above is the entire license notice
+for the JavaScript code in this tag.
+*/
+<!--/*--><![CDATA[/*><!--*/
+ function CodeHighlightOn(elem, id)
+ {
+   var target = document.getElementById(id);
+   if(null != target) {
+     elem.cacheClassElem = elem.className;
+     elem.cacheClassTarget = target.className;
+     target.className = "code-highlighted";
+     elem.className   = "code-highlighted";
+   }
+ }
+ function CodeHighlightOff(elem, id)
+ {
+   var target = document.getElementById(id);
+   if(elem.cacheClassElem)
+     elem.className = elem.cacheClassElem;
+   if(elem.cacheClassTarget)
+     target.className = elem.cacheClassTarget;
+ }
+/*]]>*///-->
+</script>
 </head>
 <body>
-<div id="content" class="content">
+<div id="content">
 <h1 class="title">Cryptocurrency Resources</h1>
-<div id="table-of-contents" role="doc-toc">
+<div id="table-of-contents">
 <h2>Table of Contents</h2>
-<div id="text-table-of-contents" role="doc-toc">
+<div id="text-table-of-contents">
 <ul>
-<li><a href="#org4c43ed2">1. Advice</a></li>
-<li><a href="#org848d418">2. Store</a></li>
-<li><a href="#org613afde">3. Trade</a></li>
-<li><a href="#org7b72bbf">4. Chart</a></li>
-<li><a href="#org397b271">5. Manage</a></li>
-<li><a href="#orga1034b8">6. Sell</a></li>
-<li><a href="#org0f1e9c5">7. Mine</a></li>
-<li><a href="#orgc5edc05">8. Web Miners</a></li>
-<li><a href="#orgb4083d7">9. Donate</a></li>
+<li><a href="#sec-1">1. Information</a></li>
+<li><a href="#sec-2">2. Store</a></li>
+<li><a href="#sec-3">3. Trade</a></li>
+<li><a href="#sec-4">4. Chart</a></li>
+<li><a href="#sec-5">5. Manage</a></li>
+<li><a href="#sec-6">6. Sell</a></li>
+<li><a href="#sec-7">7. Mine</a></li>
+<li><a href="#sec-8">8. Web Miners</a></li>
+<li><a href="#sec-9">9. Donate</a></li>
 </ul>
 </div>
 </div>
-<div id="outline-container-org4c43ed2" class="outline-2">
-<h2 id="org4c43ed2"><span class="section-number-2">1.</span> Advice</h2>
+<div id="outline-container-sec-1" class="outline-2">
+<h2 id="sec-1"><span class="section-number-2">1</span> Information</h2>
 <div class="outline-text-2" id="text-1">
 <ul class="org-ul">
-<li><a href="https://bitcoin.org">The original Bitcoin domain</a> handed down through the ages. Has a good <a href="https://bitcoin.org/en/choose-your-wallet">wallet chooser</a> that outlines the advantages and disadvantages of each, hosts <a href="https://bitcoin.org/bitcoin.pdf">the original Bitcoin whitepaper</a></li>
-<li><a href="https://bitcointalk.org">Original Bitcoin forum</a>: primary announcement vector for transparent projects, lots of historical activity</li>
+<li><a href="https://bitcoin.org">The original Bitcoin domain</a> handed down through the ages. Has a good <a href="https://bitcoin.org/en/choose-your-wallet">wallet chooser</a> that outlines the advantages and disadvantages of each, hosts <a href="https://bitcoin.org/bitcoin.pdf">the original Bitcoin whitepaper</a>
+</li>
+<li><a href="https://bitcointalk.org">Original Bitcoin forum</a>: primary announcement vector for transparent projects, lots of historical activity
+</li>
 <li><a href="https://www.getmonero.org">Official Monero website</a>: has links to wallets
 <ul class="org-ul">
-<li><a href="https://monero.how">monero.how</a>: links to resources</li>
-<li><a href="https://xmr.llcoins.net/addresstests.html">advanced xmr seed generator</a></li>
-<li><a href="https://moneroworld.com/">MoneroWorld</a>: Monero node lists</li>
-<li><a href="https://monero.fail/">monero.fail</a>: Monero node lists</li>
-<li><a href="https://moneroj.net/">moneroj.net</a></li>
-<li><a href="https://xmrguide.org/">xmrguide.org</a></li>
-</ul></li>
-<li><a href="https://ethereum.org">Official Ethereum website</a>: has links to wallets</li>
-<li><a href="https://cardano.org">Official Cardano website</a>: has links to wallets</li>
-<li><a href="https://aantonop.com">Andreas M. Antonopoulos</a> <a href="https://youtube.com/c/aantonop">YouTube Channel</a>: originally got me to buy in by dollar-cost-average</li>
-<li><a href="https://coinbureau.com">Coin Bureau</a> <a href="https://www.youtube.com/c/CoinBureau">YouTube Channel</a>: advice less biased than most sources</li>
-<li><a href="https://whattomine.com">whattomine.com</a>: mining profitability list</li>
-<li><a href="https://www.kryptex.com/en/best-gpus-for-mining">Mining GPUs list</a></li>
-<li><a href="https://www.tomshardware.com/best-picks/best-mining-gpus-benchmarked-and-ranked">Mining GPUs list</a></li>
-<li><a href="https://coinmarketcap.com">Coin Market Cap</a>: list of coins and official project links by objective measures</li>
-<li><a href="http://coingecko.com/">CoinGecko</a>: list of coins and official project links by objective measures</li>
+<li><a href="https://monero.how">monero.how</a>: links to resources
+</li>
+<li><a href="https://xmr.llcoins.net/addresstests.html">advanced xmr seed generator</a>
+</li>
+<li><a href="https://moneroworld.com/">MoneroWorld</a>: Monero node lists
+</li>
+<li><a href="https://monero.fail/">monero.fail</a>: Monero node lists
+</li>
+<li><a href="https://moneroj.net/">moneroj.net</a>
+</li>
+<li><a href="https://xmrguide.org/">xmrguide.org</a>
+</li>
+</ul>
+</li>
+<li><a href="https://ethereum.org">Official Ethereum website</a>: has links to wallets
+</li>
+<li><a href="https://cardano.org">Official Cardano website</a>: has links to wallets
+</li>
+<li><a href="https://aantonop.com">Andreas M. Antonopoulos</a> <a href="https://youtube.com/c/aantonop">YouTube Channel</a>: originally got me to buy in by dollar-cost-average
+</li>
+<li><a href="https://coinbureau.com">Coin Bureau</a> <a href="https://www.youtube.com/c/CoinBureau">YouTube Channel</a>: Information less biased than most sources
+</li>
+<li><a href="https://whattomine.com">whattomine.com</a>: mining profitability list
+</li>
+<li><a href="https://www.kryptex.com/en/best-gpus-for-mining">Mining GPUs list</a>
+</li>
+<li><a href="https://www.tomshardware.com/best-picks/best-mining-gpus-benchmarked-and-ranked">Mining GPUs list</a>
+</li>
+<li><a href="https://coinmarketcap.com">Coin Market Cap</a>: list of coins and official project links by objective measures
+</li>
+<li><a href="http://coingecko.com/">CoinGecko</a>: list of coins and official project links by objective measures
+</li>
 <li>Wikis
 <ul class="org-ul">
-<li><a href="https://bitcoinwiki.org">BitcoinWiki.org</a></li>
-<li><a href="https://bitcoin.it">Bitcoin.it</a></li>
-</ul></li>
+<li><a href="https://bitcoinwiki.org">BitcoinWiki.org</a>
+</li>
+<li><a href="https://bitcoin.it">Bitcoin.it</a>
+</li>
+</ul>
+</li>
 </ul>
 </div>
 </div>
-<div id="outline-container-org848d418" class="outline-2">
-<h2 id="org848d418"><span class="section-number-2">2.</span> Store</h2>
+<div id="outline-container-sec-2" class="outline-2">
+<h2 id="sec-2"><span class="section-number-2">2</span> Store</h2>
 <div class="outline-text-2" id="text-2">
 <p>
 Wallets
 </p>
 <ul class="org-ul">
-<li><a href="https://trezor.io">Trezor</a>: Hardware libre</li>
-<li><a href="https://electrum.org">Electrum</a>: Desktop</li>
-<li><a href="https://mycelium.com">Mycelium</a>: <a href="https://github.com/mycelium-com/wallet-android">Libre source</a> mobile wallet</li>
-<li><a href="https://blockchain.com">Blockchain</a>: Web</li>
-<li><a href="https://github.com/monero-project/monero-gui">monero-gui</a>: Wallet referenced by <a href="https://getmonero.org">the official monero website</a></li>
-<li><a href="https://mymonero.com">MyMonero</a>: Web (&amp; Desktop)</li>
+<li><a href="https://trezor.io">Trezor</a>: Hardware libre
+</li>
+<li><a href="https://electrum.org">Electrum</a>: Desktop
+</li>
+<li><a href="https://mycelium.com">Mycelium</a>: <a href="https://github.com/mycelium-com/wallet-android">Libre source</a> mobile wallet
+</li>
+<li><a href="https://blockchain.com">Blockchain</a>: Web
+</li>
+<li><a href="https://github.com/monero-project/monero-gui">monero-gui</a>: Wallet referenced by <a href="https://getmonero.org">the official monero website</a>
+</li>
+<li><a href="https://mymonero.com">MyMonero</a>: Web (&amp; Desktop)
+</li>
 </ul>
 </div>
 </div>
-<div id="outline-container-org613afde" class="outline-2">
-<h2 id="org613afde"><span class="section-number-2">3.</span> Trade</h2>
+<div id="outline-container-sec-3" class="outline-2">
+<h2 id="sec-3"><span class="section-number-2">3</span> Trade</h2>
 <div class="outline-text-2" id="text-3">
 <p>
 Buy and exchange
@@ -269,58 +238,76 @@ Buy and exchange
 <ul class="org-ul">
 <li>Fiat capable
 <ul class="org-ul">
-<li><a href="https://ledgerx.com">LedgerX</a>: Fixed fees, only USD pairs, delayed custody for up to 24 hours</li>
-<li><a href="https://kraken.6pbw6j.net/akxRN">Kraken</a>: Percentage fees</li>
+<li><a href="https://ledgerx.com">LedgerX</a>: Fixed fees, only USD pairs, delayed custody for up to 24 hours
+</li>
+<li><a href="https://kraken.6pbw6j.net/akxRN">Kraken</a>: Percentage fees
+</li>
 <li>Cryptocurrency focus
 <ul class="org-ul">
-<li><a href="https://www.binance.com/en/register?ref=BATB6H50">Binance</a>: Lower percentage fees, US persons banned</li>
-<li><a href="https://www.kucoin.com/ucenter/signup?rcode=rJ6ASUZ">Kucoin</a>: Low percentage fees, US persons tolerated</li>
-<li><a href="https://southxchange.com">SouthXchange</a>: Low percentage fees, no US-based fiat transfers supported</li>
-<li><a href="https://www.btse.com/en/ref?c=CCQqBX">Btse</a>: Low percentage fees, US persons banned</li>
-</ul></li>
-</ul></li>
+<li><a href="https://www.binance.com/en/register?ref=BATB6H50">Binance</a>: Lower percentage fees, US persons banned
+</li>
+<li><a href="https://www.kucoin.com/ucenter/signup?rcode=rJ6ASUZ">Kucoin</a>: Low percentage fees, US persons tolerated
+</li>
+<li><a href="https://southxchange.com">SouthXchange</a>: Low percentage fees, no US-based fiat transfers supported
+</li>
+<li><a href="https://www.btse.com/en/ref?c=CCQqBX">Btse</a>: Low percentage fees, US persons banned
+</li>
+</ul>
+</li>
+</ul>
+</li>
 <li>Cryptocurrency only
 <ul class="org-ul">
-<li><a href="https://auth.shapeshift.com/signup?af=dBrmtCmkX7Wk9gg9">Shapeshift</a>: Fast, rewards program</li>
-<li><a href="https://fixedfloat.com/XMR/ETH?ref=e49tpvpb">FixedFloat</a>: Fast, no registration needed</li>
-<li><a href="https://1inch.exchange/#/r/0x4DcFC7D313EE2aC68Af32efcede7ac6fe34a9421">1inch</a>: Ethereum token exchange aggregator to guarantee the best price</li>
-</ul></li>
+<li><a href="https://auth.shapeshift.com/signup?af=dBrmtCmkX7Wk9gg9">Shapeshift</a>: Fast, rewards program
+</li>
+<li><a href="https://fixedfloat.com/XMR/ETH?ref=e49tpvpb">FixedFloat</a>: Fast, no registration needed
+</li>
+<li><a href="https://1inch.exchange/#/r/0x4DcFC7D313EE2aC68Af32efcede7ac6fe34a9421">1inch</a>: Ethereum token exchange aggregator to guarantee the best price
+</li>
+</ul>
+</li>
 </ul>
 </div>
 </div>
-<div id="outline-container-org7b72bbf" class="outline-2">
-<h2 id="org7b72bbf"><span class="section-number-2">4.</span> Chart</h2>
+<div id="outline-container-sec-4" class="outline-2">
+<h2 id="sec-4"><span class="section-number-2">4</span> Chart</h2>
 <div class="outline-text-2" id="text-4">
 <p>
 Sophisticated indicators
 </p>
 <ul class="org-ul">
-<li><a href="https://finance.yahoo.com">Yahoo Finance</a></li>
-<li><a href="https://tradingview.com">TradingView</a></li>
-<li><a href="https://bitcoincharts.com">Bitcoincharts</a></li>
-<li><a href="https://cryptowat.ch">Cryptowatch</a></li>
+<li><a href="https://finance.yahoo.com">Yahoo Finance</a>
+</li>
+<li><a href="https://tradingview.com">TradingView</a>
+</li>
+<li><a href="https://bitcoincharts.com">Bitcoincharts</a>
+</li>
+<li><a href="https://cryptowat.ch">Cryptowatch</a>
+</li>
 </ul>
 </div>
 </div>
-<div id="outline-container-org397b271" class="outline-2">
-<h2 id="org397b271"><span class="section-number-2">5.</span> Manage</h2>
+<div id="outline-container-sec-5" class="outline-2">
+<h2 id="sec-5"><span class="section-number-2">5</span> Manage</h2>
 <div class="outline-text-2" id="text-5">
 <p>
 Earn dividends
 </p>
 <ul class="org-ul">
-<li><a href="https://yearn.finance">Yearn</a></li>
+<li><a href="https://yearn.finance">Yearn</a>
+</li>
 </ul>
 <p>
 Automate transfers
 </p>
 <ul class="org-ul">
-<li><a href="https://coinbase.com/join/emccarter">Coinbase</a></li>
+<li><a href="https://coinbase.com/join/emccarter">Coinbase</a>
+</li>
 </ul>
 </div>
 </div>
-<div id="outline-container-orga1034b8" class="outline-2">
-<h2 id="orga1034b8"><span class="section-number-2">6.</span> Sell</h2>
+<div id="outline-container-sec-6" class="outline-2">
+<h2 id="sec-6"><span class="section-number-2">6</span> Sell</h2>
 <div class="outline-text-2" id="text-6">
 <p>
 Get more for each coin
@@ -328,29 +315,37 @@ Get more for each coin
 <ul class="org-ul">
 <li><a href="https://paxful.com/?r=9LrQJa48GkK">Paxful</a>: Trade Bitcoin for gift cards for up to 50% off
 <ul class="org-ul">
-<li>Read the <a href="https://paxful.com/support/en-us/articles/360014037113-Safety-tips">safety tips</a> before trading</li>
-<li>Don't release Bitcoin from escrow before you get paid and you're happy with the transaction!</li>
-<li>Consider <a href="https://paxful.com/account/verification">getting verified</a> to gain access to higher quality sellers</li>
-</ul></li>
-<li><a href="https://app.purse.io/?_r=evanmcc">Purse</a>: Trade Bitcoin for Amazon items for <a href="https://support.purse.io/en/articles/1670633-shopper-levels-and-limits">up to 33% Off</a></li>
+<li>Read the <a href="https://paxful.com/support/en-us/articles/360014037113-Safety-tips">safety tips</a> before trading
+</li>
+<li>Don't release Bitcoin from escrow before you get paid and you're happy with the transaction! 
+</li>
+<li>Consider <a href="https://paxful.com/account/verification">getting verified</a> to gain access to higher quality sellers
+</li>
+</ul>
+</li>
+<li><a href="https://app.purse.io/?_r=evanmcc">Purse</a>: Trade Bitcoin for Amazon items for <a href="https://support.purse.io/en/articles/1670633-shopper-levels-and-limits">up to 33% Off</a>
+</li>
 </ul>
 </div>
 </div>
-<div id="outline-container-org0f1e9c5" class="outline-2">
-<h2 id="org0f1e9c5"><span class="section-number-2">7.</span> Mine</h2>
+<div id="outline-container-sec-7" class="outline-2">
+<h2 id="sec-7"><span class="section-number-2">7</span> Mine</h2>
 <div class="outline-text-2" id="text-7">
 <p>
 Participate at the fundamental level
 </p>
 <ul class="org-ul">
-<li><a href="https://multipool.us">Multipool</a></li>
-<li><a href="https://moneroocean.stream">Monero Ocean</a></li>
-<li><a href="https://reddit.com/r/multimining/wiki/index/pool_list#wiki_active_pools_list">Multimining Pool List</a></li>
+<li><a href="https://multipool.us">Multipool</a>
+</li>
+<li><a href="https://moneroocean.stream">Monero Ocean</a>
+</li>
+<li><a href="https://reddit.com/r/multimining/wiki/index/pool_list#wiki_active_pools_list">Multimining Pool List</a>
+</li>
 </ul>
 </div>
 </div>
-<div id="outline-container-orgc5edc05" class="outline-2">
-<h2 id="orgc5edc05"><span class="section-number-2">8.</span> Web Miners</h2>
+<div id="outline-container-sec-8" class="outline-2">
+<h2 id="sec-8"><span class="section-number-2">8</span> Web Miners</h2>
 <div class="outline-text-2" id="text-8">
 <p>
 Leverage web traffic
@@ -358,31 +353,41 @@ Leverage web traffic
 <div class="minero-hidden" style="display: none" data-key="3b33caff2fbd65bf5aa8bf0d2389a20e"></div>
 </p>
 <ul class="org-ul">
-<li><a href="https://cryptojackingtest.com">Cryptojacking test</a>: Test if web mining is possible on your browser</li>
-<li><a href="https://minero.cc">Minero</a></li>
-<li><a href="http://www.coinimp.com/invite/87500bf5-dd21-4b15-8366-37c52d15aab0">CoinIMP</a></li>
-<li><a href="https://coinwebmining.com">Coin Web Mining</a></li>
+<li><a href="https://cryptojackingtest.com">Cryptojacking test</a>: Test if web mining is possible on your browser
+</li>
+<li><a href="https://minero.cc">Minero</a>
+</li>
+<li><a href="http://www.coinimp.com/invite/87500bf5-dd21-4b15-8366-37c52d15aab0">CoinIMP</a>
+</li>
+<li><a href="https://coinwebmining.com">Coin Web Mining</a>
+</li>
 </ul>
 </div>
 </div>
-<div id="outline-container-orgb4083d7" class="outline-2">
-<h2 id="orgb4083d7"><span class="section-number-2">9.</span> Donate</h2>
+<div id="outline-container-sec-9" class="outline-2">
+<h2 id="sec-9"><span class="section-number-2">9</span> Donate</h2>
 <div class="outline-text-2" id="text-9">
 <p>
 Send me money!
 </p>
 <ul class="org-ul">
-<li>monero:4AJv2eeqKwog3vg4gknkxZHHnmkCvf7a2EDeCv6XdbMsZCog2hWUD5eYvBmv48QRfsC7EQj7LWAcAJ5cG4CU7tEY7URg8Ko</li>
-<li>cardano:addr1q8nyajawms78g006e9l2e3yr3ge5zmqquwyheyvx7q48zjedlfgmswql26n5zlxxvkf5ukcwfmx6e87ts8kc4c7dnn3s7p62w5</li>
-<li>ethereum:0x4DcFC7D313EE2aC68Af32efcede7ac6fe34a9421</li>
-<li>bitcoin:bc1qd93rwyde5t7jzn7hu6endnw3jvtu74rj7w792f</li>
+<li>monero:4AJv2eeqKwog3vg4gknkxZHHnmkCvf7a2EDeCv6XdbMsZCog2hWUD5eYvBmv48QRfsC7EQj7LWAcAJ5cG4CU7tEY7URg8Ko
+</li>
+<li>cardano:addr1q8nyajawms78g006e9l2e3yr3ge5zmqquwyheyvx7q48zjedlfgmswql26n5zlxxvkf5ukcwfmx6e87ts8kc4c7dnn3s7p62w5
+</li>
+<li>ethereum:0x4DcFC7D313EE2aC68Af32efcede7ac6fe34a9421
+</li>
+<li>bitcoin:bc1qd93rwyde5t7jzn7hu6endnw3jvtu74rj7w792f
+</li>
 </ul>
 </div>
 </div>
 </div>
 <div id="postamble" class="status">
-<p class="date">Created: 2022-06-25 Sat 12:11</p>
-<p class="validation"><a href="https://validator.w3.org/check?uri=referer">Validate</a></p>
+<p class="author">Author: Evan James McCarter</p>
+<p class="date">Created: 2023-03-21 Tue 00:09</p>
+<p class="creator"><a href="http://www.gnu.org/software/emacs/">Emacs</a> 25.3.1 (<a href="http://orgmode.org">Org</a> mode 8.2.10)</p>
+<p class="validation"><a href="http://validator.w3.org/check?uri=referer">Validate</a></p>
 </div>
 </body>
 </html>
