@@ -3,29 +3,23 @@
 "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
 <head>
-<!-- 2021-12-01 Wed 02:01 -->
-<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
-<meta name="viewport" content="width=device-width, initial-scale=1" />
 <title>Personal Finance Resources</title>
-<meta name="generator" content="Org mode" />
+<!-- 2023-03-21 Tue 00:16 -->
+<meta  http-equiv="Content-Type" content="text/html;charset=utf-8" />
+<meta  name="generator" content="Org-mode" />
+<meta  name="author" content="Evan James McCarter" />
 <style type="text/css">
  <!--/*--><![CDATA[/*><!--*/
-  .title  { text-align: center;
-             margin-bottom: .2em; }
-  .subtitle { text-align: center;
-              font-size: medium;
-              font-weight: bold;
-              margin-top:0; }
+  .title  { text-align: center; }
   .todo   { font-family: monospace; color: red; }
-  .done   { font-family: monospace; color: green; }
-  .priority { font-family: monospace; color: orange; }
+  .done   { color: green; }
   .tag    { background-color: #eee; font-family: monospace;
             padding: 2px; font-size: 80%; font-weight: normal; }
   .timestamp { color: #bebebe; }
   .timestamp-kwd { color: #5f9ea0; }
-  .org-right  { margin-left: auto; margin-right: 0px;  text-align: right; }
-  .org-left   { margin-left: 0px;  margin-right: auto; text-align: left; }
-  .org-center { margin-left: auto; margin-right: auto; text-align: center; }
+  .right  { margin-left: auto; margin-right: 0px;  text-align: right; }
+  .left   { margin-left: 0px;  margin-right: auto; text-align: left; }
+  .center { margin-left: auto; margin-right: auto; text-align: center; }
   .underline { text-decoration: underline; }
   #postamble p, #preamble p { font-size: 90%; margin: .2em; }
   p.verse { margin-left: 3%; }
@@ -39,7 +33,7 @@
   }
   pre.src {
     position: relative;
-    overflow: auto;
+    overflow: visible;
     padding-top: 1.2em;
   }
   pre.src:before {
@@ -51,128 +45,31 @@
     padding: 3px;
     border: 1px solid black;
   }
-  pre.src:hover:before { display: inline; margin-top: 14px;}
-  /* Languages per Org manual */
-  pre.src-asymptote:before { content: 'Asymptote'; }
-  pre.src-awk:before { content: 'Awk'; }
-  pre.src-C:before { content: 'C'; }
-  /* pre.src-C++ doesn't work in CSS */
-  pre.src-clojure:before { content: 'Clojure'; }
-  pre.src-css:before { content: 'CSS'; }
-  pre.src-D:before { content: 'D'; }
-  pre.src-ditaa:before { content: 'ditaa'; }
-  pre.src-dot:before { content: 'Graphviz'; }
-  pre.src-calc:before { content: 'Emacs Calc'; }
+  pre.src:hover:before { display: inline;}
+  pre.src-sh:before    { content: 'sh'; }
+  pre.src-bash:before  { content: 'sh'; }
   pre.src-emacs-lisp:before { content: 'Emacs Lisp'; }
-  pre.src-fortran:before { content: 'Fortran'; }
-  pre.src-gnuplot:before { content: 'gnuplot'; }
-  pre.src-haskell:before { content: 'Haskell'; }
-  pre.src-hledger:before { content: 'hledger'; }
-  pre.src-java:before { content: 'Java'; }
-  pre.src-js:before { content: 'Javascript'; }
-  pre.src-latex:before { content: 'LaTeX'; }
-  pre.src-ledger:before { content: 'Ledger'; }
-  pre.src-lisp:before { content: 'Lisp'; }
-  pre.src-lilypond:before { content: 'Lilypond'; }
-  pre.src-lua:before { content: 'Lua'; }
-  pre.src-matlab:before { content: 'MATLAB'; }
-  pre.src-mscgen:before { content: 'Mscgen'; }
-  pre.src-ocaml:before { content: 'Objective Caml'; }
-  pre.src-octave:before { content: 'Octave'; }
-  pre.src-org:before { content: 'Org mode'; }
-  pre.src-oz:before { content: 'OZ'; }
-  pre.src-plantuml:before { content: 'Plantuml'; }
-  pre.src-processing:before { content: 'Processing.js'; }
-  pre.src-python:before { content: 'Python'; }
-  pre.src-R:before { content: 'R'; }
-  pre.src-ruby:before { content: 'Ruby'; }
-  pre.src-sass:before { content: 'Sass'; }
-  pre.src-scheme:before { content: 'Scheme'; }
-  pre.src-screen:before { content: 'Gnu Screen'; }
-  pre.src-sed:before { content: 'Sed'; }
-  pre.src-sh:before { content: 'shell'; }
-  pre.src-sql:before { content: 'SQL'; }
-  pre.src-sqlite:before { content: 'SQLite'; }
-  /* additional languages in org.el's org-babel-load-languages alist */
-  pre.src-forth:before { content: 'Forth'; }
-  pre.src-io:before { content: 'IO'; }
-  pre.src-J:before { content: 'J'; }
-  pre.src-makefile:before { content: 'Makefile'; }
-  pre.src-maxima:before { content: 'Maxima'; }
-  pre.src-perl:before { content: 'Perl'; }
-  pre.src-picolisp:before { content: 'Pico Lisp'; }
-  pre.src-scala:before { content: 'Scala'; }
-  pre.src-shell:before { content: 'Shell Script'; }
-  pre.src-ebnf2ps:before { content: 'ebfn2ps'; }
-  /* additional language identifiers per "defun org-babel-execute"
-       in ob-*.el */
-  pre.src-cpp:before  { content: 'C++'; }
-  pre.src-abc:before  { content: 'ABC'; }
-  pre.src-coq:before  { content: 'Coq'; }
-  pre.src-groovy:before  { content: 'Groovy'; }
-  /* additional language identifiers from org-babel-shell-names in
-     ob-shell.el: ob-shell is the only babel language using a lambda to put
-     the execution function name together. */
-  pre.src-bash:before  { content: 'bash'; }
-  pre.src-csh:before  { content: 'csh'; }
-  pre.src-ash:before  { content: 'ash'; }
-  pre.src-dash:before  { content: 'dash'; }
-  pre.src-ksh:before  { content: 'ksh'; }
-  pre.src-mksh:before  { content: 'mksh'; }
-  pre.src-posh:before  { content: 'posh'; }
-  /* Additional Emacs modes also supported by the LaTeX listings package */
-  pre.src-ada:before { content: 'Ada'; }
-  pre.src-asm:before { content: 'Assembler'; }
-  pre.src-caml:before { content: 'Caml'; }
-  pre.src-delphi:before { content: 'Delphi'; }
-  pre.src-html:before { content: 'HTML'; }
-  pre.src-idl:before { content: 'IDL'; }
-  pre.src-mercury:before { content: 'Mercury'; }
-  pre.src-metapost:before { content: 'MetaPost'; }
-  pre.src-modula-2:before { content: 'Modula-2'; }
-  pre.src-pascal:before { content: 'Pascal'; }
-  pre.src-ps:before { content: 'PostScript'; }
-  pre.src-prolog:before { content: 'Prolog'; }
-  pre.src-simula:before { content: 'Simula'; }
-  pre.src-tcl:before { content: 'tcl'; }
-  pre.src-tex:before { content: 'TeX'; }
-  pre.src-plain-tex:before { content: 'Plain TeX'; }
-  pre.src-verilog:before { content: 'Verilog'; }
-  pre.src-vhdl:before { content: 'VHDL'; }
-  pre.src-xml:before { content: 'XML'; }
-  pre.src-nxml:before { content: 'XML'; }
-  /* add a generic configuration mode; LaTeX export needs an additional
-     (add-to-list 'org-latex-listings-langs '(conf " ")) in .emacs */
-  pre.src-conf:before { content: 'Configuration File'; }
+  pre.src-R:before     { content: 'R'; }
+  pre.src-perl:before  { content: 'Perl'; }
+  pre.src-java:before  { content: 'Java'; }
+  pre.src-sql:before   { content: 'SQL'; }
 
   table { border-collapse:collapse; }
   caption.t-above { caption-side: top; }
   caption.t-bottom { caption-side: bottom; }
   td, th { vertical-align:top;  }
-  th.org-right  { text-align: center;  }
-  th.org-left   { text-align: center;   }
-  th.org-center { text-align: center; }
-  td.org-right  { text-align: right;  }
-  td.org-left   { text-align: left;   }
-  td.org-center { text-align: center; }
+  th.right  { text-align: center;  }
+  th.left   { text-align: center;   }
+  th.center { text-align: center; }
+  td.right  { text-align: right;  }
+  td.left   { text-align: left;   }
+  td.center { text-align: center; }
   dt { font-weight: bold; }
-  .footpara { display: inline; }
+  .footpara:nth-child(2) { display: inline; }
+  .footpara { display: block; }
   .footdef  { margin-bottom: 1em; }
   .figure { padding: 1em; }
   .figure p { text-align: center; }
-  .equation-container {
-    display: table;
-    text-align: center;
-    width: 100%;
-  }
-  .equation {
-    vertical-align: middle;
-  }
-  .equation-label {
-    display: table-cell;
-    text-align: right;
-    vertical-align: middle;
-  }
   .inlinetask {
     padding: 10px;
     border: 2px solid gray;
@@ -189,30 +86,53 @@
     { font-size: 10px; font-weight: bold; white-space: nowrap; }
   .org-info-js_search-highlight
     { background-color: #ffff00; color: #000000; font-weight: bold; }
-  .org-svg { width: 90%; }
   /*]]>*/-->
 </style>
 <script type="text/javascript">
-// @license magnet:?xt=urn:btih:e95b018ef3580986a04669f1b5879592219e2a7a&dn=public-domain.txt Public Domain
+/*
+@licstart  The following is the entire license notice for the
+JavaScript code in this tag.
+
+Copyright (C) 2012-2013 Free Software Foundation, Inc.
+
+The JavaScript code in this tag is free software: you can
+redistribute it and/or modify it under the terms of the GNU
+General Public License (GNU GPL) as published by the Free Software
+Foundation, either version 3 of the License, or (at your option)
+any later version.  The code is distributed WITHOUT ANY WARRANTY;
+without even the implied warranty of MERCHANTABILITY or FITNESS
+FOR A PARTICULAR PURPOSE.  See the GNU GPL for more details.
+
+As additional permission under GNU GPL version 3 section 7, you
+may distribute non-source (e.g., minimized or compacted) forms of
+that code without the copy of the GNU GPL normally required by
+section 4, provided you include this license notice and a URL
+through which recipients can access the Corresponding Source.
+
+
+@licend  The above is the entire license notice
+for the JavaScript code in this tag.
+*/
 <!--/*--><![CDATA[/*><!--*/
-     function CodeHighlightOn(elem, id)
-     {
-       var target = document.getElementById(id);
-       if(null != target) {
-         elem.classList.add("code-highlighted");
-         target.classList.add("code-highlighted");
-       }
-     }
-     function CodeHighlightOff(elem, id)
-     {
-       var target = document.getElementById(id);
-       if(null != target) {
-         elem.classList.remove("code-highlighted");
-         target.classList.remove("code-highlighted");
-       }
-     }
-    /*]]>*///-->
-// @license-end
+ function CodeHighlightOn(elem, id)
+ {
+   var target = document.getElementById(id);
+   if(null != target) {
+     elem.cacheClassElem = elem.className;
+     elem.cacheClassTarget = target.className;
+     target.className = "code-highlighted";
+     elem.className   = "code-highlighted";
+   }
+ }
+ function CodeHighlightOff(elem, id)
+ {
+   var target = document.getElementById(id);
+   if(elem.cacheClassElem)
+     elem.className = elem.cacheClassElem;
+   if(elem.cacheClassTarget)
+     target.className = elem.cacheClassTarget;
+ }
+/*]]>*///-->
 </script>
 </head>
 <body>
@@ -222,144 +142,201 @@
 <h2>Table of Contents</h2>
 <div id="text-table-of-contents">
 <ul>
-<li><a href="#orgd60cc31">1. Advice</a></li>
-<li><a href="#org6ad1f30">2. Research</a></li>
-<li><a href="#org43417d5">3. YouTube Channels</a></li>
-<li><a href="#org91643d7">4. YouTube Playlists</a></li>
-<li><a href="#org99111b3">5. Videos</a></li>
-<li><a href="#org5ae0424">6. Books</a></li>
-<li><a href="#org298958c">7. Financial Institutions</a>
+<li><a href="#sec-1">1. Information</a></li>
+<li><a href="#sec-2">2. Research</a></li>
+<li><a href="#sec-3">3. YouTube Channels</a></li>
+<li><a href="#sec-4">4. YouTube Playlists</a></li>
+<li><a href="#sec-5">5. Videos</a></li>
+<li><a href="#sec-6">6. Books</a></li>
+<li><a href="#sec-7">7. Financial Institutions</a>
 <ul>
-<li><a href="#org9543393">7.1. Banking</a></li>
-<li><a href="#orga3b4dc8">7.2. Investing</a></li>
-<li><a href="#org81a4df3">7.3. Financial Data &amp; Charting</a></li>
-<li><a href="#org12641bf">7.4. Insurance</a></li>
-<li><a href="#orgc76511d">7.5. Grants, Scholarships, Financial Aid</a></li>
-<li><a href="#org2fcd7fa">7.6. Loans</a></li>
+<li><a href="#sec-7-1">7.1. Banking</a></li>
+<li><a href="#sec-7-2">7.2. Investing</a></li>
+<li><a href="#sec-7-3">7.3. Financial Data &amp; Charting</a></li>
+<li><a href="#sec-7-4">7.4. Insurance</a></li>
+<li><a href="#sec-7-5">7.5. Grants, Scholarships, Financial Aid</a></li>
+<li><a href="#sec-7-6">7.6. Loans</a></li>
 </ul>
 </li>
-<li><a href="#org1937932">8. Social Security</a></li>
-<li><a href="#org5cce037">9. Cash Back Debit Cards</a></li>
-<li><a href="#org1e1dc51">10. Cash Back</a></li>
-<li><a href="#orgbafafcb">11. Credit</a>
+<li><a href="#sec-8">8. Social Security</a></li>
+<li><a href="#sec-9">9. Cash Back Debit Cards</a></li>
+<li><a href="#sec-10">10. Cash Back</a></li>
+<li><a href="#sec-11">11. Credit</a>
 <ul>
-<li><a href="#org3e61f37">11.1. Credit tracking</a></li>
-<li><a href="#org6e476aa">11.2. Credit cards</a>
+<li><a href="#sec-11-1">11.1. Credit tracking</a></li>
+<li><a href="#sec-11-2">11.2. Credit cards</a>
 <ul>
-<li><a href="#org4500347">11.2.1. Warning!</a></li>
-<li><a href="#org904d699">11.2.2. Issuer limits</a></li>
-<li><a href="#org7043600">11.2.3. High cash back</a></li>
-<li><a href="#orgdd9075d">11.2.4. Secured</a></li>
-<li><a href="#org1c1fbbf">11.2.5. Opt in to the fast lane</a></li>
+<li><a href="#sec-11-2-1">11.2.1. Warning!</a></li>
+<li><a href="#sec-11-2-2">11.2.2. Issuer limits</a></li>
+<li><a href="#sec-11-2-3">11.2.3. High cash back</a></li>
+<li><a href="#sec-11-2-4">11.2.4. Others' lists</a></li>
+<li><a href="#sec-11-2-5">11.2.5. Secured</a></li>
+<li><a href="#sec-11-2-6">11.2.6. Opt in to the fast lane</a></li>
 </ul>
 </li>
 </ul>
 </li>
-<li><a href="#orge50aa7a">12. Gift Cards</a></li>
-<li><a href="#orgf7bbbac">13. Mobile Internet</a></li>
-<li><a href="#org8349c07">14. Corporations</a></li>
+<li><a href="#sec-12">12. Gift Cards</a></li>
+<li><a href="#sec-13">13. Mobile Internet</a></li>
+<li><a href="#sec-14">14. Corporations</a></li>
 </ul>
 </div>
 </div>
-<div id="outline-container-orgd60cc31" class="outline-2">
-<h2 id="orgd60cc31"><span class="section-number-2">1</span> Advice</h2>
+<div id="outline-container-sec-1" class="outline-2">
+<h2 id="sec-1"><span class="section-number-2">1</span> Information</h2>
 <div class="outline-text-2" id="text-1">
 <ul class="org-ul">
-<li><a href="https://daveramsey.com">Dave Ramsey</a>: Famous for <a href="https://daveramsey.com/blog/what-is-a-budget">budgeting</a> &amp; the <a href="https://daveramsey.com/dave-ramsey-7-baby-steps">7 baby steps</a>, which are simpler &amp; easier than other advice
+<li><a href="https://DaveRamsey.com">Dave Ramsey</a>: Famous for <a href="https://daveramsey.com/blog/what-is-a-budget">budgeting</a> &amp; the <a href="https://daveramsey.com/dave-ramsey-7-baby-steps">7 baby steps</a>, which are simpler &amp; easier than other procedures
 <ul class="org-ul">
-<li><a href="https://daveramsey.com/budgeting/how-to-budget/">How to budget</a></li>
-<li><a href="https://daveramsey.com/blog/what-is-a-budget">What is a budget?</a></li>
-<li><a href="https://daveramsey.com/blog/zero-based-budget-what-why">Zero based budgeting</a>: I recommend this style of budgeting</li>
-</ul></li>
-<li><a href="https://bogleheads.org">Bogleheads</a>: Investing advice inspired by John Bogle
+<li><a href="https://daveramsey.com/budgeting/how-to-budget">How to budget</a>
+</li>
+<li><a href="https://daveramsey.com/blog/what-is-a-budget">What is a budget?</a>
+</li>
+<li><a href="https://daveramsey.com/blog/zero-based-budget-what-why">Zero based budgeting</a>: I recommend this style of budgeting
+</li>
+</ul>
+</li>
+<li><a href="https://Bogleheads.org">Bogleheads</a>: Investing information inspired by John Bogle
 <ul class="org-ul">
 <li><a href="https://bogleheads.org/wiki/Getting_started">Bogleheads Wiki</a>: A fountain of information &amp; examples
 <ul class="org-ul">
-<li><a href="https://bogleheads.org/wiki/Prioritizing_investments">Prioritizing investments</a>: Where should you invest first?</li>
-</ul></li>
-</ul></li>
+<li><a href="https://bogleheads.org/wiki/Prioritizing_investments">Prioritizing investments</a>: Where should you invest first?
+</li>
+</ul>
+</li>
+</ul>
+</li>
 <li><a href="https://reddit.com/r/personalfinance/wiki">PersonalFinance Reddit</a>: Significantly mirrors Bogleheads philosophy
 <ul class="org-ul">
-<li><a href="https://reddit.com/r/personalfinance/wiki/commontopics">Where should my next dollar go?</a>: Similar to Bogleheads investment order &amp; includes <a href="https://reddit.com/r/personalfinance/wiki/commontopics#wiki_the_flowchart">a flowchart</a></li>
-</ul></li>
-<li><a href="https://moneyguy.com">The Money Guy Show</a>: Mirrors Bogleheads advice with their <a href="https://moneyguy.com/2018/08/financial-order-of-operations-how-to-prioritize-your-financial-goals/">order of operations</a></li>
-<li><a href="https://personal.vanguard.com/us/FundsInvQuestionnaire">Vanguard - Determine your asset allocation: Investor questionnaire</a>: Questionnaire to gauge where you should be investing in general, or for a specific goal if you limit your answers with one in mind</li>
+<li><a href="https://reddit.com/r/personalfinance/wiki/commontopics">Where should my next dollar go?</a>: Similar to Bogleheads investment order &amp; includes <a href="https://reddit.com/r/personalfinance/wiki/commontopics#wiki_the_flowchart">a flowchart</a>
+</li>
+</ul>
+</li>
+<li><a href="https://moneyguy.com">The Money Guy Show</a>: Mirrors Bogleheads information with their <a href="https://moneyguy.com/2018/08/financial-order-of-operations-how-to-prioritize-your-financial-goals">order of operations</a>
+</li>
+<li><a href="https://personal.vanguard.com/us/FundsInvQuestionnaire">Vanguard - Determine your asset allocation: Investor questionnaire</a>: Questionnaire to gauge where you should be investing in general, or for a specific goal if you limit your answers with one in mind
+</li>
 </ul>
 </div>
 </div>
-<div id="outline-container-org6ad1f30" class="outline-2">
-<h2 id="org6ad1f30"><span class="section-number-2">2</span> Research</h2>
+<div id="outline-container-sec-2" class="outline-2">
+<h2 id="sec-2"><span class="section-number-2">2</span> Research</h2>
 <div class="outline-text-2" id="text-2">
 <ul class="org-ul">
-<li><a href="https://investopedia.com">Investopedia</a>: Definitions of financial terms &amp; basic advice</li>
-<li><a href="https://nerdwallet.com">Nerdwallet</a>: Reviews &amp; search functions for institutions &amp; accounts
+<li><a href="https://Investopedia.com">Investopedia</a>: Definitions of financial terms &amp; basic information
+</li>
+<li><a href="https://Nerdwallet.com">Nerdwallet</a>: Reviews &amp; search functions for institutions &amp; accounts
 <ul class="org-ul">
-<li><a href="https://nerdwallet.com/rates/savings-account?active_offers=true&amp;bank_type=bank&amp;bank_type=credit_union&amp;bank_type=internet_bank&amp;deposit_minimum=1&amp;min_ratings=3&amp;sort_key=apy&amp;sort_order=desc">High interest savings accounts</a></li>
-<li><a href="https://nerdwallet.com/checking-accounts?account_features=no_monthly_fee&amp;active_offers=true&amp;bank_type=bank&amp;bank_type=credit_union&amp;bank_type=internet_bank&amp;checking_daily_balance=0&amp;customer_type=everyone&amp;direct_deposit=0&amp;sort_key=monthly_cost&amp;sort_order=desc">Cheap checking accounts</a></li>
-<li><a href="https://nerdwallet.com/best/banking/savings-accounts">Best Savings Accounts</a></li>
-<li><a href="https://nerdwallet.com/best/banking/checking-accounts">Best Checking Accounts</a></li>
-<li><a href="https://nerdwallet.com/best/banking/money-market-accounts">Best Money Market Accounts</a></li>
-</ul></li>
+<li><a href="https://nerdwallet.com/rates/savings-account?active_offers=true&bank_type=bank&bank_type=credit_union&bank_type=internet_bank&deposit_minimum=1&min_ratings=3&sort_key=apy&sort_order=desc">High interest savings accounts</a>
+</li>
+<li><a href="https://nerdwallet.com/checking-accounts?account_features=no_monthly_fee&active_offers=true&bank_type=bank&bank_type=credit_union&bank_type=internet_bank&checking_daily_balance=0&customer_type=everyone&direct_deposit=0&sort_key=monthly_cost&sort_order=desc">Cheap checking accounts</a>
+</li>
+<li><a href="https://nerdwallet.com/best/banking/savings-accounts">Best Savings Accounts</a>
+</li>
+<li><a href="https://nerdwallet.com/best/banking/checking-accounts">Best Checking Accounts</a>
+</li>
+<li><a href="https://nerdwallet.com/best/banking/money-market-accounts">Best Money Market Accounts</a>
+</li>
+</ul>
+</li>
 <li><a href="https://myfico.com">myFICO</a>: Official credit score education website
 <ul class="org-ul">
-<li><a href="https://myfico.com/credit-education">Credit basics</a></li>
-<li><a href="https://myfico.com/credit-education/whats-in-your-credit-score">How credit is calculated</a></li>
-</ul></li>
+<li><a href="https://myfico.com/credit-education">Credit basics</a>
+</li>
+<li><a href="https://myfico.com/credit-education/whats-in-your-credit-score">How credit is calculated</a>
+</li>
+</ul>
+</li>
 </ul>
 </div>
 </div>
-<div id="outline-container-org43417d5" class="outline-2">
-<h2 id="org43417d5"><span class="section-number-2">3</span> YouTube Channels</h2>
+<div id="outline-container-sec-3" class="outline-2">
+<h2 id="sec-3"><span class="section-number-2">3</span> YouTube Channels</h2>
 <div class="outline-text-2" id="text-3">
 <ul class="org-ul">
-<li><a href="https://youtube.com/user/FinancingLife101">FinancingLife</a></li>
-<li><a href="https://youtube.com/user/MoneyGuyShow">The Money Guy Show</a></li>
-<li><a href="https://www.youtube.com/channel/UCDXTQ8nWmx_EhZ2v-kp7QxA">Ben Felix</a></li>
-<li><a href="https://youtube.com/channel/UCL8w_A8p8P1HWI3k6PR5Z6w">Two Cents</a></li>
-<li><a href="https://youtube.com/channel/UCV6KDgJskWaEckne5aPA0aQ">Graham Stephan</a></li>
-<li><a href="https://youtube.com/channel/UCzpwkXk_GlfmWntZ9v4l3Tg">The Dave Ramsey Show LIVE</a></li>
-<li><a href="https://youtube.com/user/ChrisHogan360">Chris Hogan</a></li>
-<li><a href="https://youtube.com/user/DaveRamseyShow">The Dave Ramsey Show</a></li>
-<li><a href="https://youtube.com/channel/UCFCEuCsyWP0YkP3CZ3Mr01Q">The Plain Bagel</a></li>
-<li><a href="https://youtube.com/channel/UCGy7SkBjcIAgTiwkXEtPnYg">Andrei Jikh</a></li>
-<li><a href="https://youtube.com/channel/UCbta0n8i6Rljh0obO7HzG9A">Joseph Carlson</a></li>
-<li><a href="https://youtube.com/user/kenclarkchannel">Kenny Robinson</a></li>
-<li><a href="https://youtube.com/channel/UCEVXhsR6e3D522BHQj9MlLg">The Credit Shifu</a></li>
-<li><a href="https://youtube.com/channel/UC2cC48A261pBVKztLyzOAnA">Ask Sebby</a></li>
-<li><a href="https://youtube.com/channel/UCBIt1VN5j37PVM8LLSuTTlw">Improvement Pill</a></li>
-<li><a href="https://youtube.com/user/whygoldandsilver">GoldSilver with Mike Maloney</a></li>
-<li><a href="https://youtube.com/user/SchiffReport">Peter Schiff</a></li>
+<li><a href="https://YouTube.com/user/FinancingLife101">FinancingLife</a>
+</li>
+<li><a href="https://YouTube.com/user/MoneyGuyShow">The Money Guy Show</a>
+</li>
+<li><a href="https://YouTube.com/channel/UCDXTQ8nWmx_EhZ2v-kp7QxA">Ben Felix</a>
+</li>
+<li><a href="https://YouTube.com/channel/UCFCEuCsyWP0YkP3CZ3Mr01Q">The Plain Bagel</a>
+</li>
+<li><a href="https://YouTube.com/channel/UCL8w_A8p8P1HWI3k6PR5Z6w">Two Cents</a>
+</li>
+<li><a href="https://YouTube.com/user/whygoldandsilver">GoldSilver with Mike Maloney</a>
+</li>
+<li><a href="https://YouTube.com/user/SchiffReport">Peter Schiff</a>
+</li>
+<li><a href="https://YouTube.com/channel/UCV6KDgJskWaEckne5aPA0aQ">Graham Stephan</a>
+</li>
+<li><a href="https://YouTube.com/channel/UCbta0n8i6Rljh0obO7HzG9A">Joseph Carlson</a>
+</li>
+<li><a href="https://YouTube.com/channel/UCEVXhsR6e3D522BHQj9MlLg">Ben Hedges</a>
+</li>
+<li><a href="https://YouTube.com/channel/UC2cC48A261pBVKztLyzOAnA">Ask Sebby</a>
+</li>
+<li><a href="https://YouTube.com/c/ProudMoneycom">ProudMoney.com</a>
+</li>
+<li><a href="https://YouTube.com/channel/UCzpwkXk_GlfmWntZ9v4l3Tg">The Dave Ramsey Show LIVE</a>
+</li>
+<li><a href="https://YouTube.com/user/DaveRamseyShow">The Dave Ramsey Show</a>
+</li>
+<li><a href="https://YouTube.com/user/ChrisHogan360">Chris Hogan</a>
+</li>
+<li><a href="https://www.youtube.com/channel/UCcmZHsuUt_DOzcgIcLd0Qnw">Kamikaze Cash</a>: educational advanced financial strategies
+</li>
+<li><a href="https://www.youtube.com/channel/UCkcnYVAVZQOB-nXHechtXDg">Benjamin</a>: educational and funny advanced financial strategies
+</li>
+<li><a href="https://YouTube.com/channel/UCGy7SkBjcIAgTiwkXEtPnYg">Andrei Jikh</a>
+</li>
+<li><a href="https://YouTube.com/channel/UCBIt1VN5j37PVM8LLSuTTlw">Improvement Pill</a>
+</li>
+<li><a href="https://YouTube.com/user/kenclarkchannel">Kenny Robinson</a>
+</li>
 </ul>
 </div>
 </div>
-<div id="outline-container-org91643d7" class="outline-2">
-<h2 id="org91643d7"><span class="section-number-2">4</span> YouTube Playlists</h2>
+<div id="outline-container-sec-4" class="outline-2">
+<h2 id="sec-4"><span class="section-number-2">4</span> YouTube Playlists</h2>
 <div class="outline-text-2" id="text-4">
 <ul class="org-ul">
-<li><a href="https://youtube.com/watch?v=atZJ4lU3IBE&amp;list=PL21534875BFC50EEE">Rules About Investing For Beginners</a></li>
-<li><a href="https://youtube.com/watch?v=ZFRReCL_lLw&amp;list=PLdpkIg5_Ms4At-DZbPbkxujh2EGOnOu6H">Why Bother With Bonds</a></li>
-<li><a href="https://youtube.com/watch?v=KliNYvTasgg&amp;list=PLJ1Tti2OGXsCHUCtlfnT2wUFShFdj1iHc">Robert Kiyosaki explains his philosophy: Income, Expenses, Assets, &amp; Liabilities, Employee, Business, &amp; Investor taxation</a></li>
+<li><a href="https://YouTube.com/watch?v=atZJ4lU3IBE&list=PL21534875BFC50EEE">Rules About Investing For Beginners</a>
+</li>
+<li><a href="https://YouTube.com/watch?v=ZFRReCL_lLw&list=PLdpkIg5_Ms4At-DZbPbkxujh2EGOnOu6H">Why Bother With Bonds</a>
+</li>
+<li><a href="https://YouTube.com/watch?v=KliNYvTasgg&list=PLJ1Tti2OGXsCHUCtlfnT2wUFShFdj1iHc">Robert Kiyosaki explains his philosophy: Income, Expenses, Assets, &amp; Liabilities, Employee, Business, &amp; Investor taxation</a>
+</li>
 </ul>
 </div>
 </div>
-<div id="outline-container-org99111b3" class="outline-2">
-<h2 id="org99111b3"><span class="section-number-2">5</span> Videos</h2>
+<div id="outline-container-sec-5" class="outline-2">
+<h2 id="sec-5"><span class="section-number-2">5</span> Videos</h2>
 <div class="outline-text-2" id="text-5">
 <ul class="org-ul">
-<li><a href="https://youtube.com/watch?v=1H6qE7eyLWk">Choosing The Entity That Best Fits Your Business Needs&#x2026;</a></li>
-<li><a href="https://youtube.com/watch?v=Y6UNHyD9GSw">S-Corp or LLC - Which is Better? (By John M Miller, CPA)</a></li>
-<li><a href="https://youtube.com/watch?v=Fw5TEf-ggTA">C Corporations vs S Corporations Explained</a></li>
-<li><a href="https://youtube.com/watch?v=rDrsofl-_xc">Should I incorporate as an LLC, S-, or C-corp? | WSGR Startup Basics</a></li>
-<li><a href="https://youtube.com/watch?v=MD71ryp39x0">Robert Kiyosaki: Protect and Cover Your ASSets with Corporations and Entities</a></li>
-<li><a href="https://youtube.com/watch?v=XdSp5GXbiE4">Protecting assets from legal settlements with LLCs: Proper Use of LLCs for Real Estate</a></li>
-<li><a href="https://youtube.com/watch?v=ul32Yf9KJB0&amp;list=PL3FUah8ohZLyEGjh5I38MHL0Sl1fuzs13&amp;index=15">Why You Should Use a Land Trust for Real Estate</a></li>
-<li><a href="https://youtube.com/watch?v=NNS8aWhNpS4&amp;list=PL3FUah8ohZLyEGjh5I38MHL0Sl1fuzs13&amp;index=14">What a land trust protects against: Purchasing Property With a Land Trust</a></li>
-<li><a href="https://youtube.com/watch?v=CGvto4eWBHo">The ONLY Credit Cards You Need: 0-850 Credit Score</a></li>
+<li><a href="https://YouTube.com/watch?v=1H6qE7eyLWk">Choosing The Entity That Best Fits Your Business Needs&#x2026;</a>
+</li>
+<li><a href="https://YouTube.com/watch?v=Y6UNHyD9GSw">S-Corp or LLC - Which is Better? (By John M Miller, CPA)</a>
+</li>
+<li><a href="https://YouTube.com/watch?v=Fw5TEf-ggTA">C Corporations vs S Corporations Explained</a>
+</li>
+<li><a href="https://YouTube.com/watch?v=rDrsofl-_xc">Should I incorporate as an LLC, S-, or C-corp? | WSGR Startup Basics</a>
+</li>
+<li><a href="https://YouTube.com/watch?v=MD71ryp39x0">Robert Kiyosaki: Protect and Cover Your ASSets with Corporations and Entities</a>
+</li>
+<li><a href="https://YouTube.com/watch?v=XdSp5GXbiE4">Protecting assets from legal settlements with LLCs: Proper Use of LLCs for Real Estate</a>
+</li>
+<li><a href="https://YouTube.com/watch?v=ul32Yf9KJB0&list=PL3FUah8ohZLyEGjh5I38MHL0Sl1fuzs13&index=15">Why You Should Use a Land Trust for Real Estate</a>
+</li>
+<li><a href="https://YouTube.com/watch?v=NNS8aWhNpS4&list=PL3FUah8ohZLyEGjh5I38MHL0Sl1fuzs13&index=14">What a land trust protects against: Purchasing Property With a Land Trust</a>
+</li>
+<li><a href="https://YouTube.com/watch?v=CGvto4eWBHo">The ONLY Credit Cards You Need: 0-850 Credit Score</a>
+</li>
 </ul>
 </div>
 </div>
-<div id="outline-container-org5ae0424" class="outline-2">
-<h2 id="org5ae0424"><span class="section-number-2">6</span> Books</h2>
+<div id="outline-container-sec-6" class="outline-2">
+<h2 id="sec-6"><span class="section-number-2">6</span> Books</h2>
 <div class="outline-text-2" id="text-6">
 <p>
 These books are frequently available as audiobooks on YouTube &amp; the authors may have channels, as well as physical or digital forms on Amazon or at your local library
@@ -368,165 +345,200 @@ These books are frequently available as audiobooks on YouTube &amp; the authors 
 
 
 <colgroup>
-<col  class="org-left" />
+<col  class="left" />
 
-<col  class="org-left" />
+<col  class="left" />
 
-<col  class="org-right" />
+<col  class="right" />
 </colgroup>
 <thead>
 <tr>
-<th scope="col" class="org-left">Title</th>
-<th scope="col" class="org-left">Author</th>
-<th scope="col" class="org-right">ISBN</th>
+<th scope="col" class="left">Title</th>
+<th scope="col" class="left">Author</th>
+<th scope="col" class="right">ISBN</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="org-left"><a href="https://youtube.com/watch?v=gliZHyovI7c">Rich Dad Poor Dad</a></td>
-<td class="org-left"><a href="https://youtube.com/user/RDdotcom">Robert Kiyosaki</a></td>
-<td class="org-right">978-1612680170</td>
+<td class="left"><a href="https://YouTube.com/watch?v=gliZHyovI7c">Rich Dad Poor Dad</a></td>
+<td class="left"><a href="https://YouTube.com/user/RDdotcom">Robert Kiyosaki</a></td>
+<td class="right">978-1612680170</td>
 </tr>
 
 <tr>
-<td class="org-left"><a href="https://youtube.com/watch?v=ehCVLRHOxBY">The Richest Man in Babylon</a></td>
-<td class="org-left">George S. Clason</td>
-<td class="org-right">978-1508524359</td>
+<td class="left"><a href="https://YouTube.com/watch?v=ehCVLRHOxBY">The Richest Man in Babylon</a></td>
+<td class="left">George S. Clason</td>
+<td class="right">978-1508524359</td>
 </tr>
 
 <tr>
-<td class="org-left">The Total Money Makeover</td>
-<td class="org-left"><a href="https://youtube.com/user/DaveRamseyShow">Dave Ramsey</a></td>
-<td class="org-right">978-1595555274</td>
+<td class="left">The Total Money Makeover</td>
+<td class="left"><a href="https://YouTube.com/user/DaveRamseyShow">Dave Ramsey</a></td>
+<td class="right">978-1595555274</td>
 </tr>
 
 <tr>
-<td class="org-left">Everyday Millionaires</td>
-<td class="org-left"><a href="https://youtube.com/user/ChrisHogan360">Chris Hogan</a></td>
-<td class="org-right">978-0977489527</td>
+<td class="left">Everyday Millionaires</td>
+<td class="left"><a href="https://YouTube.com/user/ChrisHogan360">Chris Hogan</a></td>
+<td class="right">978-0977489527</td>
 </tr>
 </tbody>
 </table>
 </div>
 </div>
-<div id="outline-container-org298958c" class="outline-2">
-<h2 id="org298958c"><span class="section-number-2">7</span> Financial Institutions</h2>
+<div id="outline-container-sec-7" class="outline-2">
+<h2 id="sec-7"><span class="section-number-2">7</span> Financial Institutions</h2>
 <div class="outline-text-2" id="text-7">
-</div>
-<div id="outline-container-org9543393" class="outline-3">
-<h3 id="org9543393"><span class="section-number-3">7.1</span> Banking</h3>
+</div><div id="outline-container-sec-7-1" class="outline-3">
+<h3 id="sec-7-1"><span class="section-number-3">7.1</span> Banking</h3>
 <div class="outline-text-3" id="text-7-1">
 <ul class="org-ul">
-<li><a href="https://fidelity.com/go/cash-value">Fidelity Government Money Market Fund</a>: Tracks risk-free rate of return by investing in short-term debt securities with low credit risk. When interest rates rise, those higher rates typically pass through to money market funds quickly, but not FDIC insured: SIPC (Securities Investor Protection Corporation) insured against brokerage (Fidelity) bankruptcy, not asset depreciation</li>
-<li><a href="https://fidelity.com/cash-management/fidelity-cash-management-account/overview">Fidelity® Cash Management Account</a>: Sweeps money into FDIC insured accounts at banks, providing high interest</li>
-<li><a href="https://marcus.com/share/EVA-QJE-BEJZ">Marcus by Goldman Sachs</a>: No wire transfer fees</li>
-<li><a href="https://nbkc.com">NBKC</a>: Provides budgeting &amp; net worth tracking tools</li>
-<li><a href="https://redneck.bank">Redneck Bank</a>: Highly competitive FDIC insured money market fund</li>
-<li><a href="https://t-mobilemoney.com">T-Mobile Money</a>: High interest checking, especially for mobile customers</li>
-<li><a href="http://schwab.com/public/schwab/nn/refer-prospect.html?refrid=REFER6YUV73ZF">Charles Schwab</a>: <a href="https://schwab.com/public/schwab/banking_lending/checking_account/">Schwab Bank High Yield Investor Checking® Account</a></li>
-<li><a href="https://capitalone.com/bank/checking-accounts/online-checking-account">Capital One</a>: Easy to use high interest checking</li>
-<li><a href="https://www.betterment.com/?referral_key=evanmccarter">Betterment</a>: Sweeps money into FDIC insured accounts at banks, providing high interest, sweeps in unneeded cash. Also gives advice &amp; graphs</li>
-<li><a href="https://wealthfront.com/c/affiliates/invited/AFFA-RXMQ-8ZFA-ZXV3">Wealthfront</a>: Sweeps money into FDIC insured accounts at banks, providing high interest. Also gives advice &amp; net worth tracking</li>
+<li><a href="https://fidelity.com/go/cash-value">Fidelity Government Money Market Fund</a>: Tracks risk-free rate of return by investing in short-term debt securities with low credit risk. When interest rates rise, those higher rates typically pass through to money market funds quickly, but not FDIC insured: SIPC (Securities Investor Protection Corporation) insured against brokerage (Fidelity) bankruptcy, not asset depreciation
+</li>
+<li><a href="https://fidelity.com/cash-management/fidelity-cash-management-account/overview">Fidelity® Cash Management Account</a>: Sweeps money into FDIC insured accounts at banks, providing high interest
+</li>
+<li><a href="https://marcus.com/share/EVA-QJE-BEJZ">Marcus by Goldman Sachs</a>: No wire transfer fees
+</li>
+<li><a href="https://nbkc.com">NBKC</a>: Provides budgeting &amp; net worth tracking tools
+</li>
+<li><a href="https://Redneck.Bank">Redneck Bank</a>: Highly competitive FDIC insured money market fund
+</li>
+<li><a href="https://T-MobileMoney.com">T-Mobile Money</a>: High interest checking, especially for mobile customers
+</li>
+<li><a href="http://schwab.com/public/schwab/nn/refer-prospect.html?refrid=REFER6YUV73ZF">Charles Schwab</a>: <a href="https://schwab.com/public/schwab/banking_lending/checking_account">Schwab Bank High Yield Investor Checking® Account</a>
+</li>
+<li><a href="https://capitalone.com/bank/checking-accounts/online-checking-account">Capital One</a>: Easy to use high interest checking
+</li>
+<li><a href="https://betterment.com/?referral_key=evanmccarter">Betterment</a>: Sweeps money into FDIC insured accounts at banks, providing high interest, sweeps in unneeded cash. Also has graphs. Advisory services are provided by Betterment LLC
+</li>
+<li><a href="https://wealthfront.com/c/affiliates/invited/AFFA-RXMQ-8ZFA-ZXV3">Wealthfront</a>: Sweeps money into FDIC insured accounts at banks, providing high interest. Also has net worth tracking. Advisory services are provided by Wealthfront Advisers LLC (“Wealthfront Advisers”)
+</li>
 </ul>
 </div>
 </div>
-<div id="outline-container-orga3b4dc8" class="outline-3">
-<h3 id="orga3b4dc8"><span class="section-number-3">7.2</span> Investing</h3>
+<div id="outline-container-sec-7-2" class="outline-3">
+<h3 id="sec-7-2"><span class="section-number-3">7.2</span> Investing</h3>
 <div class="outline-text-3" id="text-7-2">
 <ul class="org-ul">
-<li><a href="https://fidelity.com">Fidelity</a>: Very competitive investing, perfect tax strategy available
+<li><a href="https://Fidelity.com">Fidelity</a>: Free accounts and very competitive investing, <a href="https://oltx.fidelity.com/ftgw/fbc/ofaccounts/convertCostBasisMethods">perfect tax strategy</a> and <a href="https://accountmaint.fidelity.com/ftgw/Profile/custpref/divncapg/init">dividend reinvestment</a> available
 <ul class="org-ul">
-<li><a href="https://www.fidelity.com/mutual-funds/investing-ideas/index-funds">Zero expense ratio index mutual funds</a>, no fees for normal accounts</li>
-<li><a href="https://fundresearch.fidelity.com/mutual-funds/summary/316067107">FDRXX</a> is their cheapest short term money market mutual fund and it's managed by the same people as most of their other short term money market funds</li>
-</ul></li>
-<li><a href="https://vanguard.com">Vanguard</a>: <a href="https://www.youtube.com/watch?v=MLgn_kVKjCE">Especially competitive</a> ETFs &amp; Mutual Funds</li>
+<li><a href="https://fundresearch.fidelity.com/mutual-funds/summary/316067107">FDRXX</a> is their cheapest short term money market mutual fund and it's managed by the same people as most of their other short term money market funds
+</li>
+<li><a href="https://fidelity.com/mutual-funds/investing-ideas/index-funds">Zero expense ratio index mutual funds</a> with useful portfolio weights
+</li>
+<li><a href="https://www.fidelity.com/retirement-ira/overview">Free IRA accounts</a> with no minimums, you must set up an account of each type before the end of the tax year in order to use them to save on tax bills
+</li>
+</ul>
+</li>
+<li><a href="https://Vanguard.com">Vanguard</a>: <a href="https://YouTube.com/watch?v=MLgn_kVKjCE">Especially competitive</a> ETFs &amp; Mutual Funds
+</li>
 <li><a href="https://m1.finance/Juu95Dr8lv3I">M1 Finance</a>: Automatic rebalancing, excellent tax strategy with no annual fee. Only re-invests cash balances over $25 so has some inefficient drag
 <ul class="org-ul">
 <li>My Pies
 <ul class="org-ul">
-<li><a href="https://m1.finance/GcCcYmyr2TYc">Savings</a>: Money to be used in 1-2 years or in a lump sum</li>
-<li><a href="https://m1.finance/W5oQTZGwT8_l">Income</a>: Money to be used in 6-12 years or withdrawn from at a constant rate</li>
-<li><a href="https://m1.finance/IB1Ar4dfGb0H">Long-Term Growth</a>: Money to be used in over 12 years</li>
-</ul></li>
-</ul></li>
-<li><a href="https://www.betterment.com/?referral_key=evanmccarter">Betterment</a>: Investing with automatic tax loss harvesting, goal-based accounts. Management fees</li>
-<li><a href="https://wealthfront.com/c/affiliates/invited/AFFA-RXMQ-8ZFA-ZXV3">Wealthfront</a>: "Robo-advice". Management fees</li>
-<li><a href="http://schwab.com/public/schwab/nn/refer-prospect.html?refrid=REFER6YUV73ZF">Charles Schwab</a>: Various order types</li>
+<li><a href="https://m1.finance/GcCcYmyr2TYc">Savings</a>: Money to be used in 1-2 years or in a lump sum
+</li>
+<li><a href="https://m1.finance/W5oQTZGwT8_l">Income</a>: Money to be used in 6-12 years or withdrawn from at a constant rate
+</li>
+<li><a href="https://m1.finance/IB1Ar4dfGb0H">Long-Term Growth</a>: Money to be used in over 12 years
+</li>
+</ul>
+</li>
+</ul>
+</li>
+<li><a href="https://betterment.com/?referral_key=evanmccarter">Betterment</a>: Investing with automatic tax loss harvesting, goal-based accounts. Management fees
+</li>
+<li><a href="https://wealthfront.com/c/affiliates/invited/AFFA-RXMQ-8ZFA-ZXV3">Wealthfront</a>: Wealthfront Advisers, LLC. Management fees
+</li>
+<li><a href="http://schwab.com/public/schwab/nn/refer-prospect.html?refrid=REFER6YUV73ZF">Charles Schwab</a>: Various order types
+</li>
 </ul>
 </div>
 </div>
-<div id="outline-container-org81a4df3" class="outline-3">
-<h3 id="org81a4df3"><span class="section-number-3">7.3</span> Financial Data &amp; Charting</h3>
+<div id="outline-container-sec-7-3" class="outline-3">
+<h3 id="sec-7-3"><span class="section-number-3">7.3</span> Financial Data &amp; Charting</h3>
 <div class="outline-text-3" id="text-7-3">
 <ul class="org-ul">
-<li><a href="https://www.morningstar.com">Morningstar</a>: Third party advice and research company, gratuitous data on different funds and assets</li>
-<li><a href="https://finance.yahoo.com">Yahoo Finance</a>: Good charts and indicators</li>
-<li><a href="https://tradingview.com">TradingView</a>: Fullscreen charts</li>
+<li><a href="https://morningstar.com">Morningstar</a>: Third party research company, gratuitous data on different funds and assets
+</li>
+<li><a href="https://finance.yahoo.com">Yahoo Finance</a>: Good charts and indicators
+</li>
+<li><a href="https://tradingview.com">TradingView</a>: Fullscreen charts
+</li>
 </ul>
 </div>
 </div>
-<div id="outline-container-org12641bf" class="outline-3">
-<h3 id="org12641bf"><span class="section-number-3">7.4</span> Insurance</h3>
+<div id="outline-container-sec-7-4" class="outline-3">
+<h3 id="sec-7-4"><span class="section-number-3">7.4</span> Insurance</h3>
 <div class="outline-text-3" id="text-7-4">
 <ul class="org-ul">
-<li><a href="https://zanderins.com">Zander Insurance</a>: Independent agents that compare policies from many insurance companies</li>
-<li><a href="https://usaa.com">USAA</a>: Competitive insurance</li>
+<li><a href="https://Zanderins.com">Zander Insurance</a>: Independent agents that compare policies from many insurance companies
+</li>
+<li><a href="https://usaa.com">USAA</a>: Competitive insurance
+</li>
 </ul>
 </div>
 </div>
-<div id="outline-container-orgc76511d" class="outline-3">
-<h3 id="orgc76511d"><span class="section-number-3">7.5</span> Grants, Scholarships, Financial Aid</h3>
+<div id="outline-container-sec-7-5" class="outline-3">
+<h3 id="sec-7-5"><span class="section-number-3">7.5</span> Grants, Scholarships, Financial Aid</h3>
 <div class="outline-text-3" id="text-7-5">
 <ul class="org-ul">
-<li><a href="https://fafsa.gov">FAFSA</a>: Surprisingly large aid grants, free and simple application</li>
+<li><a href="https://fafsa.gov">FAFSA</a>: Surprisingly large aid grants, free and simple application
+</li>
 </ul>
 </div>
 </div>
-<div id="outline-container-org2fcd7fa" class="outline-3">
-<h3 id="org2fcd7fa"><span class="section-number-3">7.6</span> Loans</h3>
+<div id="outline-container-sec-7-6" class="outline-3">
+<h3 id="sec-7-6"><span class="section-number-3">7.6</span> Loans</h3>
 <div class="outline-text-3" id="text-7-6">
 <ul class="org-ul">
-<li><a href="https://navyfederal.org">Navy Federal</a>: Credit union with good interest rates &amp; rewards</li>
-<li><a href="https://towerfcu.org">Tower Federal Credit Union</a>: Credit union with good interest rates</li>
+<li><a href="https://NavyFederal.org">Navy Federal</a>: Credit union with good interest rates &amp; rewards
+</li>
+<li><a href="https://TowerFCU.org">Tower Federal Credit Union</a>: Credit union with good interest rates
+</li>
 </ul>
 </div>
 </div>
 </div>
-<div id="outline-container-org1937932" class="outline-2">
-<h2 id="org1937932"><span class="section-number-2">8</span> Social Security</h2>
+<div id="outline-container-sec-8" class="outline-2">
+<h2 id="sec-8"><span class="section-number-2">8</span> Social Security</h2>
 <div class="outline-text-2" id="text-8">
 <p>
-<a href="https://www.ssa.gov/planners/retire/delayret.html">Get 8% more Social Security retirement benefits for each year you delay retirement, up to age 70</a>, 
-but be sure to <a href="https://www.ssa.gov/planners/retire/justmedicare.html">apply for medicare</a> at age 65 regardless of circumstance
+<a href="https://ssa.gov/planners/retire/delayret.html">Get 8% more Social Security retirement benefits for each year you delay retirement, up to age 70</a>, 
+but be sure to <a href="https://ssa.gov/planners/retire/justmedicare.html">apply for medicare</a> at age 65 regardless of circumstance
 </p>
 </div>
 </div>
-<div id="outline-container-org5cce037" class="outline-2">
-<h2 id="org5cce037"><span class="section-number-2">9</span> Cash Back Debit Cards</h2>
+<div id="outline-container-sec-9" class="outline-2">
+<h2 id="sec-9"><span class="section-number-2">9</span> Cash Back Debit Cards</h2>
 <div class="outline-text-2" id="text-9">
 <ul class="org-ul">
-<li><a href="https://target.com/redcard/about">Target RedCard</a>: 5% off at Target</li>
-<li><a href="https://www.discover.com/online-banking/checking/">DISCOVER Cashback Debit</a>: 1% cash back on up to $3,000 in debit card purchases each month</li>
+<li><a href="https://target.com/redcard/about">Target RedCard</a>: 5% off at Target
+</li>
+<li><a href="https://discover.com/online-banking/checking">DISCOVER Cashback Debit</a>: 1% cash back on up to $3,000 in debit card purchases each month
+</li>
 </ul>
 </div>
 </div>
-<div id="outline-container-org1e1dc51" class="outline-2">
-<h2 id="org1e1dc51"><span class="section-number-2">10</span> Cash Back</h2>
+<div id="outline-container-sec-10" class="outline-2">
+<h2 id="sec-10"><span class="section-number-2">10</span> Cash Back</h2>
 <div class="outline-text-2" id="text-10">
 <p>
 Retailers pay companies to advertize for them, and these companies offer cash back to users in return for acting on those advertizements
 </p>
 <ul class="org-ul">
-<li><a href="https://rakuten.com/r/EVANMC99?eeid=28187">Rakuten</a>: Automatically deposits money into PayPal or mails you a check</li>
-<li><a href="https://nerdwallet.com/home/dashboard/cash-back">Nerdwallet cash back</a></li>
+<li><a href="https://rakuten.com/r/EVANMC99?eeid=28187">Rakuten</a>: Automatically deposits money into PayPal or mails you a check
+</li>
+<li><a href="https://nerdwallet.com/home/dashboard/cash-back">Nerdwallet cash back</a>
+</li>
 </ul>
 </div>
 </div>
-<div id="outline-container-orgbafafcb" class="outline-2">
-<h2 id="orgbafafcb"><span class="section-number-2">11</span> Credit</h2>
+<div id="outline-container-sec-11" class="outline-2">
+<h2 id="sec-11"><span class="section-number-2">11</span> Credit</h2>
 <div class="outline-text-2" id="text-11">
 <p>
-"<a href="https://youtube.com/watch?v=DyV0OfU3-FU&amp;list=PLE88E9ICdiphYjJkeeLL2O09eJoC8r7Dc&amp;index=1">Gold is money</a>. Everything <a href="https://youtube.com/watch?v=CxHarNKW7Go">else</a> is <a href="https://youtube.com/watch?v=PHe0bXAIuk0">credit</a>." - J. P. Morgan
+"<a href="https://YouTube.com/watch?v=DyV0OfU3-FU&list=PLE88E9ICdiphYjJkeeLL2O09eJoC8r7Dc&index=1">Gold is money</a>. Everything <a href="https://YouTube.com/watch?v=CxHarNKW7Go">else</a> is <a href="https://YouTube.com/watch?v=PHe0bXAIuk0">credit</a>." - J. P. Morgan
 </p>
 
 <p>
@@ -554,15 +566,15 @@ Credit card issuers will often give you a free credit score every few months, si
 </p>
 
 <p>
-See the <a href="https://myfico.com">myFico</a> links in <a href="#org6ad1f30">2</a> for more information &amp; sources
+See the <a href="https://myfico.com">myFico</a> links in <a href="#sec-2">2</a> for more information &amp; sources
 </p>
 
 <p>
-See <a href="https://creditwise.capitalone.com">Credit Wise from Capital One</a>, <a href="https://nerdwallet.com">Nerdwallet</a>, or some YouTube Channels for credit card advice
+See <a href="https://creditwise.capitalone.com">Credit Wise from Capital One</a>, <a href="https://Nerdwallet.com">Nerdwallet</a>, or some YouTube Channels for credit card information
 </p>
 </div>
-<div id="outline-container-org3e61f37" class="outline-3">
-<h3 id="org3e61f37"><span class="section-number-3">11.1</span> Credit tracking</h3>
+<div id="outline-container-sec-11-1" class="outline-3">
+<h3 id="sec-11-1"><span class="section-number-3">11.1</span> Credit tracking</h3>
 <div class="outline-text-3" id="text-11-1">
 <p>
 You can use these sites to estimate your credit score in order to gauge when to apply for a better credit card while you're beginning to build credit. 
@@ -571,29 +583,39 @@ Therefore, these free scores are <b>only estimates</b>.
 After building good credit, the main factor in improving credit is time, but these sites also track and graph your credit score over time. 
 </p>
 <ul class="org-ul">
-<li><a href="https://nerdwallet.com/home/dashboard/credit-score">Nerdwallet</a></li>
-<li><a href="https://creditkarma.com">Credit Karma</a></li>
-<li><a href="https://creditwise.capitalone.com">Credit Wise from Capital One</a></li>
-<li><a href="https://creditsesame.com">Credit Sesame</a></li>
-<li><a href="https://freecreditscore.com">FreeCreditScore.com</a> (shows FICO score for free, but annoyingly pushes for paid membership)</li>
-<li><a href="https://creditscorecard.com">Discover Credit Scorecard</a>: Your FICO® Score 8 based on Experian data</li>
-<li><a href="https://bankrate.com/app/create-account">Bankrate</a></li>
-<li><a href="https://credit.com">Credit.com</a></li>
-<li><a href="https://lendingtree.com/credit-score">Lending Tree</a></li>
-<li><a href="https://nav.com">Nav</a> (targeted at business owners but gives a basic personal report)</li>
-<li><a href="https://wallethub.com">Wallet Hub</a></li>
+<li><a href="https://nerdwallet.com/home/dashboard/credit-score">Nerdwallet</a>
+</li>
+<li><a href="https://creditkarma.com">Credit Karma</a>
+</li>
+<li><a href="https://creditwise.capitalone.com">Credit Wise from Capital One</a>
+</li>
+<li><a href="https://creditsesame.com">Credit Sesame</a>
+</li>
+<li><a href="https://freecreditscore.com">FreeCreditScore.com</a> (shows FICO score for free, but annoyingly pushes for paid membership)
+</li>
+<li><a href="https://creditscorecard.com">Discover Credit Scorecard</a>: Your FICO® Score 8 based on Experian data
+</li>
+<li><a href="https://bankrate.com/app/create-account">Bankrate</a>
+</li>
+<li><a href="https://credit.com">Credit.com</a>
+</li>
+<li><a href="https://lendingtree.com/credit-score">Lending Tree</a>
+</li>
+<li><a href="https://nav.com">Nav</a> (targeted at business owners but gives a basic personal report)
+</li>
+<li><a href="https://wallethub.com">Wallet Hub</a>
+</li>
 </ul>
 <p>
 <a href="https://your.vantagescore.com/free">https://your.vantagescore.com/free</a> shows a list of free VantageScore providers
 </p>
 </div>
 </div>
-<div id="outline-container-org6e476aa" class="outline-3">
-<h3 id="org6e476aa"><span class="section-number-3">11.2</span> Credit cards</h3>
+<div id="outline-container-sec-11-2" class="outline-3">
+<h3 id="sec-11-2"><span class="section-number-3">11.2</span> Credit cards</h3>
 <div class="outline-text-3" id="text-11-2">
-</div>
-<div id="outline-container-org4500347" class="outline-4">
-<h4 id="org4500347"><span class="section-number-4">11.2.1</span> Warning!</h4>
+</div><div id="outline-container-sec-11-2-1" class="outline-4">
+<h4 id="sec-11-2-1"><span class="section-number-4">11.2.1</span> Warning!</h4>
 <div class="outline-text-4" id="text-11-2-1">
 <p>
 Always pay credit cards back in full! They always charge above 8%-30% interest yearly!
@@ -605,120 +627,210 @@ Most banks have a way to automatically repay the balance due, or at least the mi
 </p>
 </div>
 </div>
-<div id="outline-container-org904d699" class="outline-4">
-<h4 id="org904d699"><span class="section-number-4">11.2.2</span> Issuer limits</h4>
+<div id="outline-container-sec-11-2-2" class="outline-4">
+<h4 id="sec-11-2-2"><span class="section-number-4">11.2.2</span> Issuer limits</h4>
 <div class="outline-text-4" id="text-11-2-2">
 <p>
-<a href="https://thepointsguy.com/guide/credit-card-application-restrictions/">Some credit card companies have rules and restrictions that limit how many cards they'll issue you based on your recent history</a>
+<a href="https://thepointsguy.com/guide/credit-card-application-restrictions">Some credit card companies have rules and restrictions that limit how many cards they'll issue you based on your recent history</a>
 </p>
 </div>
-<ol class="org-ol">
-<li><a id="orgb8a1ef3"></a>J. P. Morgan Chase<br />
-<div class="outline-text-5" id="text-11-2-2-1">
+<ol class="org-ol"><li><a id="sec-11-2-2-1" name="sec-11-2-2-1"></a>Capital One<br  /><div class="outline-text-5" id="text-11-2-2-1">
+<p>
+<a href="https://cardrates.com/advice/how-many-capital-one-cards">Capital One limits the number of directly issued cards available for any cardholder to two</a>
+and supposedly doesn't like giving credit cards to people that already have established credit
+</p>
+</div>
+</li>
+<li><a id="sec-11-2-2-2" name="sec-11-2-2-2"></a><a href="https://cards.barclaycardus.com/banking/cards/">Barclays</a><br  /><div class="outline-text-5" id="text-11-2-2-2">
+<p>
+<a href="https://cards.barclaycardus.com/banking/cards/aarp-travel-rewards-mastercard/">The AARP® Travel Rewards Mastercard from Barclays</a>: Earn Unlimited 3% Cash Back on Airfare, Hotel Stays and Car Rentals
+</p>
+</div>
+</li>
+<li><a id="sec-11-2-2-3" name="sec-11-2-2-3"></a>J. P. Morgan Chase<br  /><div class="outline-text-5" id="text-11-2-2-3">
 <p>
 Chase will only issue credit cards to people with less than 5 new credit cards in the past 24 months. 
 Therefore, others recommend getting enough credit to gain Chase's trust and then 
 apply for your desired Chase cards before applying for other credit cards. 
+Supposedly Chase wants to see you have at least one credit card with over a $5000 limit before giving you a credit card.
 </p>
 </div>
 </li>
-<li><a id="org14560a9"></a>Capital One<br />
-<div class="outline-text-5" id="text-11-2-2-2">
+<li><a id="sec-11-2-2-4" name="sec-11-2-2-4"></a>Premium companies<br  /><div class="outline-text-5" id="text-11-2-2-4">
 <p>
-<a href="https://cardrates.com/advice/how-many-capital-one-cards/">Capital One limits the number of directly issued cards available for any cardholder to two</a>
+Companies such as <a href="https://YouTube.com/watch?v=fJQD7mVK92w">Barclays</a> supposedly won't issue credit cards to you if you don't use your existing credit cards from them or have too many total credit cards
 </p>
 </div>
 </li>
-<li><a id="orgb29cb28"></a>Premium companies<br />
-<div class="outline-text-5" id="text-11-2-2-3">
+<li><a id="sec-11-2-2-5" name="sec-11-2-2-5"></a>American Express<br  /><div class="outline-text-5" id="text-11-2-2-5">
 <p>
-Companies such as <a href="https://youtube.com/watch?v=fJQD7mVK92w">Barclays</a> supposedly won't issue credit cards to you if you don't use your existing credit cards from them or have too many total credit cards
+American Express supposedly limits the total number of cards you can have from them to 4-5, <a href="https://millionmilesecrets.com/guides/maximum-number-of-american-express-cards-you-can-have">but this may have changed</a>
 </p>
 </div>
-</li>
-<li><a id="orge19a706"></a>American Express<br />
-<div class="outline-text-5" id="text-11-2-2-4">
-<p>
-American Express supposedly limits the total number of cards you can have from them to 4-5, <a href="https://millionmilesecrets.com/guides/maximum-number-of-american-express-cards-you-can-have/">but this may have changed</a>
-</p>
+</li></ol>
 </div>
-</li>
-</ol>
-</div>
-<div id="outline-container-org7043600" class="outline-4">
-<h4 id="org7043600"><span class="section-number-4">11.2.3</span> High cash back</h4>
+<div id="outline-container-sec-11-2-3" class="outline-4">
+<h4 id="sec-11-2-3"><span class="section-number-4">11.2.3</span> High cash back</h4>
 <div class="outline-text-4" id="text-11-2-3">
-</div>
-<ol class="org-ol">
-<li><a id="orgcdfd47c"></a>No annual fee<br />
-<ol class="org-ol">
-<li><a id="orgd0710e2"></a><a href="https://creditcards.chase.com/all-credit-cards">Chase</a><br />
-<div class="outline-text-6" id="text-11-2-3-1-1">
+</div><ol class="org-ol"><li><a id="sec-11-2-3-1" name="sec-11-2-3-1"></a>No annual fee<br  /><ol class="org-ol"><li><a id="sec-11-2-3-1-1" name="sec-11-2-3-1-1"></a>Capital One<br  /><div class="outline-text-6" id="text-11-2-3-1-1">
 <ul class="org-ul">
-<li><a href="https://creditcards.chase.com/small-business-credit-cards/ink-cash">Ink Business Cash credit card</a>: 5% cash back on office supply stores; internet, cable, and phone services. Application asks for "Annual business revenue". <a href="https://youtube.com/watch?v=81lrxXX5cNY">Video guide on how to navigate the application process</a></li>
-<li><a href="https://chase.com/personal/credit-cards/amazon">Amazon Rewards Visa Signature Cards</a>: 3%-5% back on <a href="https://amazon.com/gp/cobrandcard?&amp;plattr=ChaseMS">Amazon.com</a></li>
-<li><a href="https://www.referyourchasecard.com/18a/F7RZFWZZLX">Chase Freedom credit cards</a>: 5% cash back in quarterly bonus categories on one card and 5% cash back on travel purchased through Chase on the other</li>
-<li><a href="https://creditcards.chase.com/travel-credit-cards/united/united-gateway">United Gateway(SM) Credit Card</a>: 2 miles per dollar spent on travel expenses, 25% back on United inflight purchases</li>
-<li><a href="https://creditcards.chase.com/travel-credit-cards/marriott-bonvoy/bold">Marriott Bonvoy Bold™ credit card</a>: 3 points per dollar spent at participating Marriott hotels, 2 points per dollar spent on travel, higher loyalty status with Marriott</li>
-<li><a href="https://creditcards.chase.com/a1/ihg/140k60ksbsnaep">IHG® Rewards Club Traveler Credit Card</a>: high cash back at IHG and better redemption rates and loyalty status, but points are worth less than one cent, so it's difficult to assign a real value</li>
-<li><a href="https://creditcards.chase.com/business-credit-cards/ink/unlimited">Ink Business Unlimited® credit card</a>: 1.5% back, just to build credit</li>
-<li><a href="https://creditcards.chase.com/cash-back-credit-cards/freedom/student">Chase Freedom® Student credit card</a>: 1% back, just to build credit</li>
-<li><a href="https://creditcards.chase.com/rewards-credit-cards/disney/rewards">Disney® Visa® Card</a>: 1% back in Disney Rewards Dollars, just to build credit</li>
+<li><a href="https://capital.one/3j9M7yF">Capital One SavorOne</a>: Unlimited 3% cash back on dining &amp; entertainment
+</li>
 </ul>
 </div>
 </li>
-<li><a id="org00bf2a2"></a>Best in class<br />
-<div class="outline-text-6" id="text-11-2-3-1-2">
+<li><a id="sec-11-2-3-1-2" name="sec-11-2-3-1-2"></a><a href="https://creditcards.chase.com/all-credit-cards">Chase</a> (use <a href="https://www.chase.com/mybonus">https://www.chase.com/mybonus</a> to use bonus point offers)<br  /><div class="outline-text-6" id="text-11-2-3-1-2">
 <ul class="org-ul">
-<li><a href="https://www.paypal.com/us/webapps/mpp/credit-card/2-percent-cash-back-mastercard">PayPal Cashback Mastercard®</a>: 2% cash back redeemable <b>in cash</b> to your bank account</li>
-<li><a href="https://fidelity.com/cash-management/visa-signature-card">Fidelity® Rewards Visa Signature® Card</a>: 2% cash back <b>automatically redeemable</b> <b>in cash</b> in amounts over $50 to eligible Fidelity account(s), including most non-retirement registrations, and amounts over $25 for travel</li>
-<li><a href="https://citi.com/credit-cards/credit-card-details/citi.action?ID=citi-double-cash-credit-card">Citi® Double Cash Card</a>: 2% cash back on every purchase, redeemable in amounts over $25</li>
-<li><a href="https://www.usaa.com/inet/wc/bank-credit-card-cashback-rewards-plus-american-express">Cashback Rewards Plus American Express® Credit Card</a>: 5% cash back on your first $3,000 in combined gas station and military base Purchases yearly</li>
-<li><a href="https://www.verizon.com/solutions-and-services/verizon-visa-card">Verizon Visa® Card</a>: 4% cash back on grocery store and gas purchases if you made the mistake of choosing Verizon as your mobile carrier</li>
-<li><a href="https://www.navyfederal.org/loans-cards/credit-cards/more-rewards/">Navy Federal More Rewards American Express® Credit Card</a>: 3% cash back on supermarkets, gas and transit, restaurants</li>
-<li><a href="https://www.americanexpress.com/us/credit-cards/card/blue-cash-everyday/">Blue Cash Everyday® Card</a>: 3% cash back at U.S. supermarkets, on up to $6,000 per year in purchases (then 1%)</li>
-<li><a href="https://www.citi.com/credit-cards/credit-card-details/citi.action?ID=Citi-costco-anywhere-visa-credit-card">Costco Anywhere Visa®</a>: 2% cash back on purchases from Costco and Costco.com with a Costco membership</li>
-<li><a href="https://www.usbank.com/credit-cards/cash-plus-visa-signature-credit-card.html">U.S. Bank cash+ Visa Signature Card</a>: 5% cash back on any two of utilities, internet, or phone service bills</li>
-<li><a href="https://bankofamerica.com/credit-cards/products/cash-back-credit-card/">Bank of America® Cash Rewards Credit Card</a> &amp; <a href="https://www.bankofamerica.com/credit-cards/products/student-cash-back-credit-card/">Bank of America® Cash Rewards Credit Card for Students</a>: 3% cash back on drug stores (EG CVS, Walgreens) or home improvement / furnishings (EG IKEA, Lowes, Home Depot) or travel (EG E-Zpass, Airbnb, Uber, Delta airlines)</li>
-<li><a href="https://www.samsclub.com/sams/pagedetails/content.jsp?pageName=credit">Sam's Club® Mastercard®</a>: 3% cash back on dining &amp; travel. 5% cash back on gas (on the first $6,000 per year, then 1% after). Maximum of $5,000 in Cash Back rewards can be earned in a calendar year. Cash back rewards are forfeited if the Cash Back earned in a calendar year is less than $5.00. Cash back rewards will be <b>automatically</b> loaded onto your Sam's Club membership and may be redeemed only at a Sam's Club location or at SamsClub.com</li>
-<li><a href="https://www.pnc.com/en/personal-banking/banking/credit-cards/pnc-cash-rewards-visa-credit-card.html">PNC Cash Rewards Visa credit card</a>: 4% cash back on gas &amp; 3% cash back on restaurants</li>
-<li><a href="https://oldnavy.gap.com/products/old-navy-credit-card.jsp">Old Navy credit card</a>: 5% back at Old Navy</li>
-<li><a href="https://pages.ebay.com/creditcard">eBay Mastercard</a>: <a href="https://www.thebalance.com/ebay-mastercard-credit-card-review-4779110">Between 3% and 5% cash back on eBay.com. Points expire after 24 months or 12 months without using the card</a></li>
-<li><a href="https://www.usbank.com/credit-cards/altitude-go-visa-signature-credit-card.html">U.S. Bank Altitude® Go Visa Signature® Card</a>: 4% cash back on takeout, food delivery and dining</li>
-<li><a href="https://capital.one/3j9M7yF">Capital One SavorOne</a>: Unlimited 3% cash back on dining &amp; entertainment</li>
-<li><a href="https://wellsfargo.com/credit-cards/propel">Wells Fargo Propel American Express® Card</a>: 3% cash back on Eating out and ordering in; Gas stations, rideshares, and transit; Flights, hotels, homestays, and car rentals; "Popular streaming services" (Apple Music®, Hulu, Netflix, Pandora®, Sirius XM Radio Inc., Spotify Premium)</li>
+<li><a href="https://creditcards.chase.com/small-business-credit-cards/ink-cash">Ink Business Cash credit card</a>: 5% cash back on office supply stores; internet, cable, and phone services. Application asks for "Annual business revenue". <a href="https://YouTube.com/watch?v=81lrxXX5cNY">Video guide on how to navigate the application process</a>
+</li>
+<li><a href="https://creditcards.chase.com/business-credit-cards/ink/unlimited"> Ink Business Unlimited® credit card</a>: Unlimited 1.5% cash back, shouldn't appear on your personal credit report so shouln't prevent you from getting any other credit cards, just to build credit
+</li>
+<li><a href="https://chase.com/personal/credit-cards/amazon">Amazon Rewards Visa Signature Cards</a>: 3%-5% back on <a href="https://amazon.com/gp/cobrandcard?&plattr=ChaseMS">Amazon.com</a>
+</li>
+<li><a href="https://referyourchasecard.com/18a/F7RZFWZZLX">Chase Freedom credit cards</a>: 5% cash back in quarterly bonus categories on one card and 5% cash back on travel purchased through Chase on the other
+</li>
+<li><a href="https://creditcards.chase.com/travel-credit-cards/marriott-bonvoy/bold">Marriott Bonvoy Bold™ credit card</a>: 3 points per dollar spent at participating Marriott hotels, 2 points per dollar spent on travel, higher loyalty status with Marriott
+</li>
+<li><a href="https://creditcards.chase.com/a1/ihg/140k60ksbsnaep">IHG® Rewards Club Traveler Credit Card</a>: high cash back at IHG and better redemption rates and loyalty status, but points are worth less than one cent, so it's difficult to assign a real value
+</li>
+<li><a href="https://creditcards.chase.com/business-credit-cards/ink/unlimited">Ink Business Unlimited® credit card</a>: 1.5% back, just to build credit
+</li>
+<li><a href="https://creditcards.chase.com/cash-back-credit-cards/freedom/student">Chase Freedom® Student credit card</a>: 1% back, just to build credit
+</li>
+<li><a href="https://creditcards.chase.com/rewards-credit-cards/disney/rewards">Disney® Visa® Card</a>: 1% back in Disney Rewards Dollars, just to build credit
+</li>
+<li><a href="https://creditcards.chase.com/travel-credit-cards/united/united-gateway">United Gateway(SM) Credit Card</a>: 2 miles per dollar spent on travel expenses, 25% back on United inflight purchases, <a href="https://www.youtube.com/watch?v=UI1d90i6DdY">may be possible to get despite having 5 or more new credit cards in the last 24 months</a>
+</li>
 </ul>
 </div>
 </li>
-<li><a id="orge28da38"></a>Runners-up<br />
-<div class="outline-text-6" id="text-11-2-3-1-3">
+<li><a id="sec-11-2-3-1-3" name="sec-11-2-3-1-3"></a>General<br  /><div class="outline-text-6" id="text-11-2-3-1-3">
 <ul class="org-ul">
-<li><a href="https://www.bbt.com/banking/credit-cards/spectrum-cash-rewards.html">BB&amp;T Spectrum Cash Rewards Credit Card</a>: 3% cash back on gas, 2% cash back on utilities and groceries, 10% bonus cash when you redeem rewards into your BB&amp;T checking or savings account. Monthly cap of $1,000 on spend at the bonus rates</li>
-<li><a href="https://online1.elancard.com/oad/learnMoreCorrespondent.controller?locationCode=4619&amp;offerId=3HMQ87X79G&amp;preparerType=customer">NBKC Bank Cash Rewards American Express® Card</a>: 3% cash back on the first $6,000 in eligible net purchases made each year at gas stations, 2% cash back on supermarket net purchases</li>
-<li><a href="https://online1.elancard.com/oad/learnMoreCorrespondent.controller?locationCode=4619&amp;offerId=VXXP9BHM3H&amp;preparerType=customer">NBKC Bank Visa® Business Cash Card</a>: 3% cash back on all eligible net purchases from office supply stores and cellular phone, landline, internet and cable TV services, 2% cash back on restaurant and gas station eligible net purchases</li>
-<li><a href="https://www.td.com/us/en/personal-banking/credit-cards/cash-card/">TD Cash Credit Card</a>: 3% cash back on dining and 2% cash back on groceries</li>
-<li><a href="https://www.navyfederal.org/loans-cards/credit-cards/go-rewards/">Navy Federal GO REWARDS® Credit Card</a>: 3% cash back at restaurants, 2% cash back on gas</li>
-<li><a href="https://www.discover.com/credit-cards/">Every Discover credit card</a></li>
-<li><a href="https://www.platinumrewardsnow.com/Rewards_Calendar">ABOC Mastercard®</a>: 5% cash back in rotating categories</li>
-<li><a href="https://www.navyfederal.org/loans-cards/credit-cards/cash-rewards/">Navy Federal cashRewards Credit Card</a>: 1.5% cash back on all purchases, no minimum redemption amount</li>
+<li><a href="https://www.citi.com/credit-cards/citi-custom-cash-credit-card">CITI CUSTOM CASH CARD</a>: 5% cash back on purchases in your largest category, 1% cash back on all other purchases
+</li>
+<li><a href="https://bankofamerica.com/credit-cards/products/cash-back-credit-card">Bank of America® Customized Cash Rewards Credit Card</a> &amp; <a href="https://bankofamerica.com/credit-cards/products/student-cash-back-credit-card">Bank of America® Customized Cash Rewards Credit Card for Students</a>: 3% cash back in the category of your choice: gas, online shopping, dining, travel, drug stores, or home improvement/furnishings
+</li>
+<li><a href="https://www.paypal.com/credit-application/co/landing">PayPal Cashback Mastercard®</a>: 3% cash back when you check out with PayPal. 2% cash back on all other purchases. No limit to the cash you can earn
+</li>
+<li><a href="https://www.americanexpress.com/us/credit-cards/card/blue-cash-everyday/">Blue Cash Everyday® Card</a>: 3% CASH BACK On U.S. Online Retail Purchases, 3% CASH BACK On Groceries, 3% CASH BACK On Gas On up to $6,000 per year in purchases (then 1%)
+</li>
+<li><a href="https://fidelity.com/cash-management/visa-signature-card">Fidelity® Rewards Visa Signature® Card</a>: 2% cash back <b>automatically redeemable</b> <b>in cash</b> in amounts over $50 to eligible Fidelity account(s), including most non-retirement registrations, and amounts over $25 for travel
+</li>
+<li><a href="https://www.sofi.com/credit-card/">SoFi Credit Card</a>: 2% unlimited cash back, <a href="https://support.sofi.com/hc/en-us/articles/360051249532-Does-SoFi-Credit-Card-have-a-foreign-transaction-fee-">no foreign transaction fees</a>
+</li>
+<li><a href="https://creditcards.wellsfargo.com/active-cash-credit-card/?vendor_code=WF&product_code=CC&subproduct_code=AC">Wells Fargo Active Cash Card</a>: unlimited 2% cash rewards on purchases
+</li>
+<li><a href="https://citi.com/credit-cards/credit-card-details/citi.action?ID=citi-double-cash-credit-card">Citi® Double Cash Card</a>: 2% cash back on every purchase, redeemable in amounts over $25
+</li>
+<li><a href="https://www.americanexpress.com/us/credit-cards/business/business-credit-cards/american-express-blue-business-plus-credit-card-amex/">Blue Business® Plus Credit Card</a>: 2X POINTS On Everyday Eligible Business Purchases up to $50k per calendar year
+</li>
+<li><a href="https://www.americanexpress.com/en-us/business/credit-cards/blue-business-cash/">Blue Business CashTM Card</a>: 2% CASH BACK On Everyday Eligible Business Purchases up to $50k per calendar year, automatically credited to your statement
+</li>
+<li><a href="https://www.fnbo.com/personal-banking/credit-cards/evergreen/">Evergreen® by FNBO Credit Card</a>: Earn Unlimited 2% CASH BACK on every purchase
+</li>
+<li><a href="https://www.td.com/us/en/personal-banking/credit-cards/double-up">TD Double Up Credit Card</a>: Earn up to 2% Cash Back Rewards when you redeem into an eligible TD Bank Deposit Account, but bank accounts have monthly maintenance fee or minimum daily balance requirement
+</li>
+<li><a href="https://x1creditcard.com">X1 Card</a>: 2% back when redeemed with partners
+</li>
 </ul>
 </div>
 </li>
-</ol>
-</li>
-<li><a id="org0daf743"></a>Travel<br />
-<div class="outline-text-5" id="text-11-2-3-2">
+<li><a id="sec-11-2-3-1-4" name="sec-11-2-3-1-4"></a>Gas<br  /><div class="outline-text-6" id="text-11-2-3-1-4">
 <ul class="org-ul">
-<li><a href="https://www.navyfederal.org/loans-cards/credit-cards/flagship-visa-signature/">Navy Federal Visa Signature® Flagship Rewards Credit Card</a>: 3% points on travel, 2% points on everything else, $49 annual fee</li>
-<li><a href="https://www.referyourchasecard.com/6/VWYZLCWMUY">Chase Sapphire Preferred® credit card</a>: 2% points on travel and dining, <a href="https://thepointsguy.com/guide/reasons-to-get-chase-sapphire-preferred/">points are worth more than 1.25 cents</a>, $95 annual fee</li>
+<li><a href="https://www.aboundcu.com/Spend-Save/Personal-Accounts/Credit-Cards/Cash-Back-VISA-Card">Abound Credit Union Visa® Platinum Credit Card</a>: 5% cash back on gas and rotating categories up to $100.00 in rewards earned per statement cycle
+</li>
+<li><a href="https://usaa.com/inet/wc/bank-credit-card-cashback-rewards-plus-american-express">Cashback Rewards Plus American Express® Credit Card</a>: 5% cash back on your first $3,000 in combined gas station and military base Purchases yearly
+</li>
+<li><a href="https://samsclub.com/sams/pagedetails/content.jsp?pageName=credit">Sam's Club® Mastercard®</a>: 3% cash back on dining &amp; travel. 5% cash back on gas (on the first $6,000 per year, then 1% after). Maximum of $5,000 in Cash Back rewards can be earned in a calendar year. Cash back rewards are forfeited if the Cash Back earned in a calendar year is less than $5.00. Cash back rewards will be <b>automatically</b> loaded onto your Sam's Club membership and may be redeemed only at a Sam's Club location or at SamsClub.com
+</li>
+<li><a href="https://pnc.com/en/personal-banking/banking/credit-cards/pnc-cash-rewards-visa-credit-card.html">PNC Cash Rewards Visa credit card</a>: 4% cash back on gas &amp; 3% cash back on restaurants
+</li>
+<li><a href="https://verizon.com/solutions-and-services/verizon-visa-card">Verizon Visa® Card</a>: 4% cash back on grocery store and gas purchases if you made the mistake of choosing Verizon as your mobile carrier
+</li>
+<li><a href="https://www.fnbo.com/personal-banking/credit-cards/getaway/">Getaway by FNBO Credit Card</a>: Earn Unlimited 3x points per dollar spent on travel, dining and gas
+</li>
+<li><a href="https://online1.elancard.com/oad/learnMoreCorrespondent.controller?locationCode=4619&offerId=3HMQ87X79G&preparerType=customer">NBKC Bank Cash Rewards American Express® Card</a>: 3% cash back on the first $6,000 in eligible net purchases made each year at gas stations, 2% cash back on supermarket net purchases
+</li>
+<li><a href="https://www.truist.com/credit-cards/enjoy-cash">Truist Enjoy Cash credit card</a>: 3% cash back on gas, 2% cash back on utilities and groceries, 10% bonus cash when you redeem rewards into your BB&amp;T checking or savings account. Monthly cap of $1,000 on spend at the bonus rates
+</li>
 </ul>
 </div>
 </li>
-</ol>
+<li><a id="sec-11-2-3-1-5" name="sec-11-2-3-1-5"></a>Groceries<br  /><div class="outline-text-6" id="text-11-2-3-1-5">
+<ul class="org-ul">
+<li><a href="https://navyfederal.org/loans-cards/credit-cards/more-rewards">Navy Federal More Rewards American Express® Credit Card</a>: 3% cash back on supermarkets, gas and transit, restaurants
+</li>
+</ul>
 </div>
-<div id="outline-container-orgdd9075d" class="outline-4">
-<h4 id="orgdd9075d"><span class="section-number-4">11.2.4</span> Secured</h4>
+</li>
+<li><a id="sec-11-2-3-1-6" name="sec-11-2-3-1-6"></a>Other<br  /><div class="outline-text-6" id="text-11-2-3-1-6">
+<ul class="org-ul">
+<li><a href="https://usbank.com/credit-cards/cash-plus-visa-signature-credit-card.html">U.S. Bank cash+ Visa Signature Card</a>: 5% cash back on any two of utilities, internet, phone service bills, or other categories
+</li>
+<li><a href="https://online1.elancard.com/oad/learnMoreCorrespondent.controller?locationCode=4619&offerId=VXXP9BHM3H&preparerType=customer">NBKC Bank Visa® Business Cash Card</a>: 3% cash back on all eligible net purchases from office supply stores and cellular phone, landline, internet and cable TV services, 2% cash back on restaurant and gas station eligible net purchases
+</li>
+<li><a href="https://discover.com/credit-cards">Every Discover credit card</a>
+</li>
+<li><a href="https://platinumrewardsnow.com/Rewards_Calendar">ABOC Mastercard®</a>: 5% cash back in rotating categories
+</li>
+<li><a href="https://usbank.com/credit-cards/altitude-go-visa-signature-credit-card.html">U.S. Bank Altitude® Go Visa Signature® Card</a>: 4% cash back on takeout, food delivery and dining
+</li>
+<li><a href="https://wellsfargo.com/credit-cards/propel">Wells Fargo Propel American Express® Card</a>: 3% cash back on Eating out and ordering in; Gas stations, rideshares, and transit; Flights, hotels, homestays, and car rentals; "Popular streaming services" (Apple Music®, Hulu, Netflix, Pandora®, Sirius XM Radio Inc., Spotify Premium)
+</li>
+<li><a href="https://creditcards.wellsfargo.com/bilt-rewards-credit-card/?vendor_code=WF&product_code=CC&subproduct_code=EC">Wells Fargo Bilt Mastercard®</a>: earn 1 rewards point per $1 spent on rent paid through the Bilt App with your card account up to a maximum of Fifty Thousand (50,000) points each calendar year
+</li>
+<li><a href="https://creditcards.wellsfargo.com/hotels-com-card">Hotels.com® Rewards Visa® Credit Card</a>: Collect 1 stamp each time you spend $500 in purchases with your card. Collect 10 stamps &amp; get 1 reward night
+</li>
+<li><a href="https://venmo.com/about/creditcard">Venmo Credit Card</a>: Automatically earn 3% cash back on your eligible top spend category. Supposedly allows 3% cash back at Walmart
+</li>
+<li><a href="https://www.lowes.com/l/Credit/consumer-credit-center">Lowe's Advantage Card</a>: discount of 5%
+</li>
+<li><a href="https://citi.com/credit-cards/credit-card-details/citi.action?ID=Citi-costco-anywhere-visa-credit-card">Costco Anywhere Visa®</a>: 2% cash back on purchases from Costco and Costco.com with a Costco membership
+</li>
+<li><a href="https://oldnavy.gap.com/products/old-navy-credit-card.jsp">Old Navy credit card</a>: 5% back at Old Navy
+</li>
+<li><a href="https://www.mgmresorts.com/en/mgm-rewards/mgm-rewards-mastercard.html">MGM Rewards Mastercard®</a>: Automatic Upgrade to MGM Rewards status
+</li>
+<li><a href="https://td.com/us/en/personal-banking/credit-cards/cash-card">TD Cash Credit Card</a>: 3% cash back on dining and 2% cash back on groceries
+</li>
+<li><a href="https://navyfederal.org/loans-cards/credit-cards/go-rewards">Navy Federal GO REWARDS® Credit Card</a>: 3% cash back at restaurants, 2% cash back on gas
+</li>
+<li><a href="https://pages.ebay.com/creditcard">eBay Mastercard</a>: <a href="https://thebalance.com/ebay-mastercard-credit-card-review-4779110">Between 3% and 5% cash back on eBay.com. Points expire after 24 months or 12 months without using the card</a>
+</li>
+<li><a href="https://www.bankofamerica.com/credit-cards/products/unlimited-cash-back-credit-card/">Bank of America® Unlimited Cash Rewards Credit Card</a>: unlimited 1.5% cash back on all purchases
+</li>
+<li><a href="https://navyfederal.org/loans-cards/credit-cards/cash-rewards">Navy Federal cashRewards Credit Card</a>: 1.5% cash back on all purchases, no minimum redemption amount
+</li>
+</ul>
+</div>
+</li></ol>
+</li>
+<li><a id="sec-11-2-3-2" name="sec-11-2-3-2"></a>Travel<br  /><div class="outline-text-5" id="text-11-2-3-2">
+<ul class="org-ul">
+<li><a href="https://navyfederal.org/loans-cards/credit-cards/flagship-visa-signature">Navy Federal Visa Signature® Flagship Rewards Credit Card</a>: 3% points on travel, 2% points on everything else, $49 annual fee
+</li>
+<li><a href="https://referyourchasecard.com/6/VWYZLCWMUY">Chase Sapphire Preferred® credit card</a>: 2% points on travel and dining, <a href="https://thepointsguy.com/guide/reasons-to-get-chase-sapphire-preferred">points are worth more than 1.25 cents</a>, $95 annual fee
+</li>
+</ul>
+</div>
+</li></ol>
+</div>
+<div id="outline-container-sec-11-2-4" class="outline-4">
+<h4 id="sec-11-2-4"><span class="section-number-4">11.2.4</span> Others' lists</h4>
 <div class="outline-text-4" id="text-11-2-4">
+<ul class="org-ul">
+<li><a href="https://thecreditshifu.com/credit-card-offers">Ben Hedges</a>
+</li>
+<li><a href="https://www.proudmoney.com/best-credit-cards-on-the-market">Adam Jusko</a>
+</li>
+<li><a href="https://www.creditcards.com/affiliates/ask-sebby">Ask Sebby</a>
+</li>
+</ul>
+</div>
+</div>
+<div id="outline-container-sec-11-2-5" class="outline-4">
+<h4 id="sec-11-2-5"><span class="section-number-4">11.2.5</span> Secured</h4>
+<div class="outline-text-4" id="text-11-2-5">
 <p>
 Secured credit cards require a security deposit in order to open the account, usually equal to the credit limit you get. 
 However, this makes it extremely likely that you'll get approved for any that you apply for, 
@@ -736,25 +848,27 @@ Nerdwallet has a <a href="https://nerdwallet.com/best/credit-cards/secured">list
 </p>
 
 <ul class="org-ul">
-<li><a href="https://discover.com/credit-cards/secured/">Discover it® Secured</a>: Cash back even on a secured card</li>
-<li><a href="https://capitalone.com/credit-cards/secured-mastercard/">Secured Mastercard® from Capital One®</a>: Low fees and some perks</li>
+<li><a href="https://discover.com/credit-cards/secured">Discover it® Secured</a>: Cash back even on a secured card
+</li>
+<li><a href="https://capitalone.com/credit-cards/secured-mastercard">Secured Mastercard® from Capital One®</a>: Low fees and some perks
+</li>
 </ul>
 </div>
 </div>
-<div id="outline-container-org1c1fbbf" class="outline-4">
-<h4 id="org1c1fbbf"><span class="section-number-4">11.2.5</span> Opt in to the fast lane</h4>
-<div class="outline-text-4" id="text-11-2-5">
+<div id="outline-container-sec-11-2-6" class="outline-4">
+<h4 id="sec-11-2-6"><span class="section-number-4">11.2.6</span> Opt in to the fast lane</h4>
+<div class="outline-text-4" id="text-11-2-6">
 <p>
 <a href="https://optoutprescreen.com">optoutprescreen.com</a> lets you opt out of credit card offers in the mail. 
 However, there's a reason to opt IN to offers: 
 these pre-approval offers may not create a credit inquiry on your credit report if you use them to apply for the credit card / product. 
 Therefore, you could apply for dozens at once and suffer no negative credit impacts. 
-<a href="https://youtube.com/watch?v=DwBWG3lm8TQ">The determining factor is supposedly whether or not you have to enter your full social security number when applying</a>: 
+<a href="https://YouTube.com/watch?v=DwBWG3lm8TQ">The determining factor is supposedly whether or not you have to enter your full social security number when applying</a>: 
 if the form only asks for the final 4 digits of your SSN, that's a sign it may come at no cost to your credit to apply. 
 </p>
 
 <p>
-<a href="https://creditkarma.com">CreditKarma.com</a> also says "See if you pre-qualify with no impact to your credit score", 
+<a href="https://CreditKarma.com">CreditKarma.com</a> also says "See if you pre-qualify with no impact to your credit score", 
 and many of their recommendations / offers initially only require the last 4 digits of your SSN. 
 </p>
 
@@ -772,8 +886,8 @@ so this is more of an advanced strategy.
 </div>
 </div>
 </div>
-<div id="outline-container-orge50aa7a" class="outline-2">
-<h2 id="orge50aa7a"><span class="section-number-2">12</span> Gift Cards</h2>
+<div id="outline-container-sec-12" class="outline-2">
+<h2 id="sec-12"><span class="section-number-2">12</span> Gift Cards</h2>
 <div class="outline-text-2" id="text-12">
 <p>
 Gift cards are less fungible than cash or bank credit: 
@@ -791,16 +905,21 @@ Take advantage of how worthless gift cards are by buying them for 15%-50% off:
 <ul class="org-ul">
 <li><a href="https://paxful.com/?r=9LrQJa48GkK">Paxful</a>: Trade Bitcoin for gift cards for up to 50% off
 <ul class="org-ul">
-<li>Read the <a href="https://paxful.com/support/en-us/articles/360014037113-Safety-tips">safety tips</a> before trading</li>
-<li>Don't release Bitcoin from escrow before you get paid and you're happy with the transaction!</li>
-<li>Consider <a href="https://paxful.com/account/verification">getting verified</a> to gain access to higher quality sellers</li>
-</ul></li>
-<li><a href="https://app.purse.io/?_r=evanmcc">Purse</a>: Trade Bitcoin for Amazon items for <a href="https://support.purse.io/en/articles/1670633-shopper-levels-and-limits">up to 33% Off</a></li>
+<li>Read the <a href="https://paxful.com/support/en-us/articles/360014037113-Safety-tips">safety tips</a> before trading
+</li>
+<li>Don't release Bitcoin from escrow before you get paid and you're happy with the transaction! 
+</li>
+<li>Consider <a href="https://paxful.com/account/verification">getting verified</a> to gain access to higher quality sellers
+</li>
+</ul>
+</li>
+<li><a href="https://app.purse.io/?_r=evanmcc">Purse</a>: Trade Bitcoin for Amazon items for <a href="https://support.purse.io/en/articles/1670633-shopper-levels-and-limits">up to 33% Off</a>
+</li>
 </ul>
 </div>
 </div>
-<div id="outline-container-orgf7bbbac" class="outline-2">
-<h2 id="orgf7bbbac"><span class="section-number-2">13</span> Mobile Internet</h2>
+<div id="outline-container-sec-13" class="outline-2">
+<h2 id="sec-13"><span class="section-number-2">13</span> Mobile Internet</h2>
 <div class="outline-text-2" id="text-13">
 <p>
 I value basic mobile data above all else, 
@@ -813,18 +932,20 @@ plus you get web and streaming access.
 These providers have unlimited 2G mobile data for as low as $15 per month! 
 </p>
 <ul class="org-ul">
-<li><a href="https://www.unrealmobile.com/?rfsn=5384968.64bd6a">Unreal Mobile</a>: $15/month plan. GSM only</li>
-<li><a href="https://www.redpocket.com/?rfsn=5384968.64bd6a">Red Pocket</a>: $20/month plan. GSM and CDMA</li>
+<li><a href="https://unrealmobile.com/?rfsn=5384968.64bd6a">Unreal Mobile</a>: $15/month plan. GSM only
+</li>
+<li><a href="https://redpocket.com/?rfsn=5384968.64bd6a">Red Pocket</a>: $20/month plan. GSM and CDMA
+</li>
 </ul>
 
 <p>
-<a href="https://www.freedompop.com/?rfsn=5384968.64bd6a">FreedomPop</a> has a free plan but automatically charges $8 for data overage and $10 for a SIM card. Maybe useful as a backup. 
+<a href="https://freedompop.com/?rfsn=5384968.64bd6a">FreedomPop</a> has a free plan but automatically charges $8 for data overage and $10 for a SIM card. Maybe useful as a backup. 
 Only 10 minutes of talk &amp; 10 texts: truly basic. GSM only
 </p>
 </div>
 </div>
-<div id="outline-container-org8349c07" class="outline-2">
-<h2 id="org8349c07"><span class="section-number-2">14</span> Corporations</h2>
+<div id="outline-container-sec-14" class="outline-2">
+<h2 id="sec-14"><span class="section-number-2">14</span> Corporations</h2>
 <div class="outline-text-2" id="text-14">
 <p>
 A Limited Liability Company (LLC) can assist you in lawsuits. 
@@ -846,14 +967,16 @@ Otherwise, I know of no more rights or privileges that corporations have than a 
 </p>
 
 <p>
-<a href="https://www.legalzoom.com/">Legalzoom</a> can assist you in forming companies and corporations. 
+<a href="https://legalzoom.com">Legalzoom</a> can assist you in forming companies and corporations. 
 </p>
 </div>
 </div>
 </div>
 <div id="postamble" class="status">
-<p class="date">Created: 2021-12-01 Wed 02:01</p>
-<p class="validation"><a href="https://validator.w3.org/check?uri=referer">Validate</a></p>
+<p class="author">Author: Evan James McCarter</p>
+<p class="date">Created: 2023-03-21 Tue 00:16</p>
+<p class="creator"><a href="http://www.gnu.org/software/emacs/">Emacs</a> 25.3.1 (<a href="http://orgmode.org">Org</a> mode 8.2.10)</p>
+<p class="validation"><a href="http://validator.w3.org/check?uri=referer">Validate</a></p>
 </div>
 </body>
 </html>

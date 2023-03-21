@@ -1,21 +1,31 @@
 #+TITLE: Cryptocurrency Resources
-* Advice
+* Information
   - [[https://bitcoin.org][The original Bitcoin domain]] handed down through the ages. Has a good [[https://bitcoin.org/en/choose-your-wallet][wallet chooser]] that outlines the advantages and disadvantages of each, hosts [[https://bitcoin.org/bitcoin.pdf][the original Bitcoin whitepaper]]
   - [[https://bitcointalk.org][Original Bitcoin forum]]: primary announcement vector for transparent projects, lots of historical activity
-  - [[https://www.getmonero.org][Official Monero website]]: lists high-quality wallets
-  - [[https://ethereum.org][Official Ethereum website]]
+  - [[https://www.getmonero.org][Official Monero website]]: has links to wallets
+    - [[https://monero.how][monero.how]]: links to resources
+    - [[https://xmr.llcoins.net/addresstests.html][advanced xmr seed generator]]
+    - [[https://moneroworld.com/][MoneroWorld]]: Monero node lists
+    - [[https://monero.fail/][monero.fail]]: Monero node lists
+    - [[https://moneroj.net/][moneroj.net]]
+    - [[https://xmrguide.org/][xmrguide.org]]
+  - [[https://ethereum.org][Official Ethereum website]]: has links to wallets
   - [[https://cardano.org][Official Cardano website]]: has links to wallets
-  - [[https://aantonop.com][Andreas M. Antonopoulos]]: originally got me to buy in by dollar-cost-average
+  - [[https://aantonop.com][Andreas M. Antonopoulos]] [[https://youtube.com/c/aantonop][YouTube Channel]]: originally got me to buy in by dollar-cost-average
+  - [[https://coinbureau.com][Coin Bureau]] [[https://www.youtube.com/c/CoinBureau][YouTube Channel]]: Information less biased than most sources
   - [[https://whattomine.com][whattomine.com]]: mining profitability list
-  - [[https://coinmarketcap.com][Coin Market Cap]]: list of coins by objective measures
+  - [[https://www.kryptex.com/en/best-gpus-for-mining][Mining GPUs list]]
+  - [[https://www.tomshardware.com/best-picks/best-mining-gpus-benchmarked-and-ranked][Mining GPUs list]]
+  - [[https://coinmarketcap.com][Coin Market Cap]]: list of coins and official project links by objective measures
+  - [[http://coingecko.com/][CoinGecko]]: list of coins and official project links by objective measures
   - Wikis
     - [[https://bitcoinwiki.org][BitcoinWiki.org]]
     - [[https://bitcoin.it][Bitcoin.it]]
 * Store
   Wallets
-  - [[https://trezor.io/][Trezor]]: Hardware libre
+  - [[https://trezor.io][Trezor]]: Hardware libre
   - [[https://electrum.org][Electrum]]: Desktop
-  - [[https://mycelium.com/][Mycelium]]: [[https://github.com/mycelium-com/wallet-android][Libre source]] mobile wallet
+  - [[https://mycelium.com][Mycelium]]: [[https://github.com/mycelium-com/wallet-android][Libre source]] mobile wallet
   - [[https://blockchain.com][Blockchain]]: Web
   - [[https://github.com/monero-project/monero-gui][monero-gui]]: Wallet referenced by [[https://getmonero.org][the official monero website]]
   - [[https://mymonero.com][MyMonero]]: Web (& Desktop)
