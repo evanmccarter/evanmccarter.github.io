@@ -1,0 +1,13 @@
+pages:
+  stage: deploy
+  script:
+  - mkdir -- .tmp
+  - cp -R -- * .tmp
+  - mkdir -- public
+  - mv -- .tmp/* public/
+  - rmdir -- .tmp
+  artifacts:
+    paths:
+    - public
+  only:
+  - main
